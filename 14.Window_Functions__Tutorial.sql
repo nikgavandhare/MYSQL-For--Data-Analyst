@@ -65,5 +65,4 @@ Join employee_salary sal
 # 3)   DENSE_RANK():- Assigns a rank without gaps for duplicates.
 --                    assign next number of duplicates by numeriacally, i.e next no is by numerically .     thats why in table no 6 after 5
 --  Use DENSE_RANK() if you need ranking without gaps when values are tied.       
-=======
->>>>>>> 1f83f6162d470236f0059e8bbd77e6824787793b
+
