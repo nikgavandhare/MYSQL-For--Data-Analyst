@@ -19,11 +19,11 @@ Join employee_salary sal
 group by gender;
 
 
-			# Using Aggregate Window Function---> These include SUM(), AVG(), COUNT(), MAX(), and MIN().
+	    # Using Aggregate Window Function---> These include SUM(), AVG(), COUNT(), MAX(), and MIN().
             # The rolling total:--> is a powerful tool in SQL for calculating cumulative sums, which can be very useful for financial analysis, 
             -- inventory management, and other applications where you need to track cumulative values over time. By using the SUM() function 
             -- with the OVER clause, you can easily calculate rolling totals in your SQL queries. 
-            -- eg.     | no	| rolling_total
+            -- eg.                         | no	| rolling_total
 	-- 				   |100	|  100
 	-- 				   |200	| 300          <-- 200+100=300
 	-- 				   |50	|  350	       <-- 50+300=350
