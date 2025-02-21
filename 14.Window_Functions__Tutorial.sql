@@ -38,3 +38,29 @@ sum(salary) over( partition by gender
 from employee_demographics dem
 Join employee_salary sal
 	on dem.employee_id = sal.employee_id;
+    
+    
+ # --                Window Function- Row_Number(), Rank(),Dense_Rank()  
+ 
+ # 1) ROW_Number() :- 	Assigns a unique number to each row without gaps.
+ --	 					Use:--->  ROW_NUMBER() if you need a unique number for each row.
+ 
+ select dem.first_name,dem.last_name, gender,Salary,
+row_number() over( partition by gender order by salary DESC),                        	#<--- ROW_NUMBER()  window fun
+Rank() over( partition by gender order by salary DESC), 								#<--- RANK()  window fun
+Dense_Rank() over( partition by gender order by salary DESC)							#<--- DESNE_RANK()  window fun
+from employee_demographics dem
+Join employee_salary sal
+	on dem.employee_id = sal.employee_id;
+ 
+			# If you want to remove duplicates in ranking,  we use DENSE_RANK() or RANK() 
+# 2)   RANK():- 	Assigns a rank with gaps if there are duplicates. 
+--                  assign next number of duplicates by position, i.e next no is by positionally    thats why in table no 7 after 5
+--  Use RANK():---> if you need ranking with gaps when values are tied.
+
+
+
+
+# 3)   DENSE_RANK():- Assigns a rank without gaps for duplicates.
+--                    assign next number of duplicates by numeriacally, i.e next no is by numerically .     thats why in table no 6 after 5
+--  Use DENSE_RANK() if you need ranking without gaps when values are tied.       
