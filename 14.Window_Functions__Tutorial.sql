@@ -19,11 +19,11 @@ Join employee_salary sal
 group by gender;
 
 
-			# Using Aggregate Window Function---> These include SUM(), AVG(), COUNT(), MAX(), and MIN().
+	    # Using Aggregate Window Function---> These include SUM(), AVG(), COUNT(), MAX(), and MIN().
             # The rolling total:--> is a powerful tool in SQL for calculating cumulative sums, which can be very useful for financial analysis, 
             -- inventory management, and other applications where you need to track cumulative values over time. By using the SUM() function 
             -- with the OVER clause, you can easily calculate rolling totals in your SQL queries. 
-            -- eg.     | no	| rolling_total
+            -- eg.                         | no	| rolling_total
 	-- 				   |100	|  100
 	-- 				   |200	| 300          <-- 200+100=300
 	-- 				   |50	|  350	       <-- 50+300=350
@@ -38,6 +38,7 @@ sum(salary) over( partition by gender
 from employee_demographics dem
 Join employee_salary sal
 	on dem.employee_id = sal.employee_id;
+<<<<<<< HEAD
     
     
  # --                Window Function- Row_Number(), Rank(),Dense_Rank()  
@@ -64,3 +65,5 @@ Join employee_salary sal
 # 3)   DENSE_RANK():- Assigns a rank without gaps for duplicates.
 --                    assign next number of duplicates by numeriacally, i.e next no is by numerically .     thats why in table no 6 after 5
 --  Use DENSE_RANK() if you need ranking without gaps when values are tied.       
+=======
+>>>>>>> 1f83f6162d470236f0059e8bbd77e6824787793b
