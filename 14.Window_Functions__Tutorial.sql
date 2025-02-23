@@ -19,7 +19,8 @@ Join employee_salary sal
 group by gender;
 
 
-	    # Using Aggregate Window Function---> These include SUM(), AVG(), COUNT(), MAX(), and MIN().
+# Using Aggregate Window Function---> These include SUM(), AVG(), COUNT(), MAX(), and MIN().
+
             # The rolling total:--> is a powerful tool in SQL for calculating cumulative sums, which can be very useful for financial analysis, 
             -- inventory management, and other applications where you need to track cumulative values over time. By using the SUM() function 
             -- with the OVER clause, you can easily calculate rolling totals in your SQL queries. 
@@ -38,27 +39,37 @@ sum(salary) over( partition by gender
 from employee_demographics dem
 Join employee_salary sal
 	on dem.employee_id = sal.employee_id;
-<<<<<<< HEAD
+
     
     
  # --                Window Function- Row_Number(), Rank(),Dense_Rank()  
  
  # 1) ROW_Number() :- 	Assigns a unique number to each row without gaps.
- --	 					Use:--->  ROW_NUMBER() if you need a unique number for each row.
+ --  					Use:--->  ROW_NUMBER() if you need a unique number for each row.
  
- select dem.first_name,dem.last_name, gender,Salary,
-row_number() over( partition by gender order by salary DESC),                        	#<--- ROW_NUMBER()  window fun
-Rank() over( partition by gender order by salary DESC), 								#<--- RANK()  window fun
-Dense_Rank() over( partition by gender order by salary DESC)							#<--- DESNE_RANK()  window fun
+select dem.first_name,dem.last_name, gender,Salary,
+	row_number() over( partition by gender order by salary DESC),                        	#<--- ROW_NUMBER()  window fun
+	Rank() over( partition by gender order by salary DESC), 								#<--- RANK()  window fun
+	Dense_Rank() over( partition by gender order by salary DESC)							#<--- DESNE_RANK()  window fun
 from employee_demographics dem
 Join employee_salary sal
-	on dem.employee_id = sal.employee_id;
- 
+		on dem.employee_id = sal.employee_id;
+	 
 			# If you want to remove duplicates in ranking,  we use DENSE_RANK() or RANK() 
 # 2)   RANK():- 	Assigns a rank with gaps if there are duplicates. 
 --                  assign next number of duplicates by position, i.e next no is by positionally    thats why in table no 7 after 5
 --  Use RANK():---> if you need ranking with gaps when values are tied.
+-- example:-
 
+# Intermediate Result (with Rank):- 
+-- exammple for rank_number:   so that means after duplicate ends it starts ranking from 1 again to unique no as below rank_number() col
+
+-- 					id	column1	column2		rank_number()
+-- 					1		A		X		1
+-- 					2		A		X		2
+-- 					3		B		Y		1
+-- 					4		B		Y		2
+-- 					5		C		Z		1
 
 
 

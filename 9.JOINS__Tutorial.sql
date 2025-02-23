@@ -28,7 +28,7 @@ inner join employee_salary as table2
      
      
      
-     # 2 ----------------------------- OUTER JOIN (left,right joins) ---------------------
+     # 2 ----------------------------- OUTER JOIN (left,right joins) ---------------------   OUTER JOIN includes unmatched records:
 
 # i) Left Join :- returns all record from left(table1) table  and common data from right table
 
