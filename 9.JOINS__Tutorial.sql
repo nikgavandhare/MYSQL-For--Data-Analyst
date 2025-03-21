@@ -2,12 +2,15 @@
 #   joins used to combine rows from 2 or more tables based on related col between them.
 #	Syntax:--		select col_name
 #					from  Table_1
-#                   Join_Name Table_2
+#                   Join_Name Table_2													-- <--- join_name can be: inner join,outer ,left,right join
 #                   ON Table_1.col_name = Table_2.col_name;   
       
 #									|				|
 #									\ same col_name/
+#									betweeen 2 table 
 
+
+use parks_and_recreation;		
 # Table_1
 select * from employee_demographics;
 
@@ -49,11 +52,12 @@ right Join employee_salary as table2
 
 # task- assign a secret santa to each employee by its next employee_id
 
-select table1.employee_id as emp_secret_santa,
+select 
+	   table1.employee_id as emp_secret_santa_id,
 	   table1.first_name as first_name_santa,
        table1.last_name as last_name_santa,
        
-	   table2.employee_id as emp_santa,
+	   table2.employee_id as emp_santa_id,
 	   table2.first_name as first_name_emp,
        table2.last_name as last_name_emp
 from employee_demographics as table1
@@ -68,6 +72,7 @@ join employee_salary as table2
 select * 
 from parks_departments;  
 
+
 # join all 3 tables from parks_and_ recreation schema
 
 select  *
@@ -77,4 +82,16 @@ inner join employee_salary as sal
 INNER JOIN  parks_departments as pd
 	on sal.dept_id = pd.department_id;
      
-     
+
+
+
+
+-- ************ pro tip : if in boyh table the common col name is same then instead of on u can us USING(col) 
+-- eg
+
+select 
+employee_id, age,salary,dept_id
+from employee_demographics
+right join employee_salary
+USING(employee_id);
+       

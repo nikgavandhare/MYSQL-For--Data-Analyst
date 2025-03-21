@@ -1,9 +1,9 @@
 # ---------------------------- Case Statement-----------------
 --  syntax:--   CASE	
---					 WHEN  condition1 THEN result1
---					 WHEN  conditin_n  THEN  result_n
+-- 					 WHEN  condition1 THEN result1
+-- 					 WHEN  conditin_n  THEN  result_n
 --                   ELSE Result 
---				END;
+-- 				END;
 
 use parks_and_recreation;
 

@@ -37,14 +37,14 @@ from employee_demographics;				   # index no for above- 1 2 3 4 5 6 7 8 9 10
  
  
  
-#------------------------------------------ Replace('string', 'word_to replace'  , 'word_to replace_with'), Locate('char','string')--> find specific chat at which index_postion
+#------------- Replace('string', 'word_to replace'  , 'word_to replace_with'), Locate('char','string')--> find specific char at which index_postion
 
 #1 replace()
-select first_name ,replace(first_name,'a','n' )
+select first_name ,replace(first_name,'A','N' )
 from employee_demographics;
 
 #2 locate()
-select first_name ,locate('An',first_name )
+select first_name ,locate('A',first_name )
 from employee_demographics;
 
 # -----------------------  CONCAT('string1','string2')
