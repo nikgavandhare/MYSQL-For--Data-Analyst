@@ -6,14 +6,14 @@
 -- Syntax:-
 -- 				** Triggers **																|       ** Event **
 
--- 					CREATE TRIGGER trigger_name 											|			CREATE EVENT event_name				
--- 					{ BEFORE | AFTER } { INSERT | UPDATE | DELETE }							|			ON SCHEDULE { AT timestamp | EVERY interval }
+-- 					CREATE TRIGGER trigger_name 													|			CREATE EVENT event_name				
+-- 					{ BEFORE | AFTER } { INSERT | UPDATE | DELETE }											|			ON SCHEDULE { AT timestamp | EVERY interval }
 -- 					ON table_name 															|			DO
 -- 					FOR EACH ROW															|			BEGIN
--- 																							|				 -- SQL statements (Task to be performed)
--- 					BEGIN																	|			END;
--- 					-- SQL statements (What should happen when the trigger fires)			|
--- 					END;																	|
+-- 																					|				 -- SQL statements (Task to be performed)
+-- 					BEGIN																|			END;
+						-- SQL statements (What should happen when the trigger fires)								|
+-- 					END;																|
 -- 
 
 select * from employee_demographics;
