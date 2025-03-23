@@ -1,0 +1,2107 @@
+company,location,industry,total_laid_off,percentage_laid_off,date,stage,country,funds_raised
+Brightcove,['Boston'],Marketing,198,0.33,2025-03-19T00:00:00.000Z,Acquired,United States,145
+Acxiom,['Little Rock'],Marketing,130,0.03,2025-03-19T00:00:00.000Z,Post-IPO,United States,
+HelloFresh,['SF Bay Area'],Food,273,,2025-03-17T00:00:00.000Z,Post-IPO,United States,367
+Otorio,"['Tel Aviv', 'Non-U.S.']",Security,45,0.56,2025-03-17T00:00:00.000Z,Acquired,Israel,
+ActiveFence,['New York City'],Security,22,0.07,2025-03-13T00:00:00.000Z,Series B,United States,100
+D-ID,"['Tel Aviv', 'Non-U.S.']",AI,22,0.25,2025-03-10T00:00:00.000Z,Series B,Israel,48
+Arrival,"['London', 'Non-U.S.']",Transportation,,1,2025-03-10T00:00:00.000Z,Post-IPO,United Kingdom,629
+Zonar Systems,['Seattle'],Logistics,,,2025-03-09T00:00:00.000Z,Acquired,United States,50
+Wayfair ,['Boston'],Retail,340,,2025-03-07T00:00:00.000Z,Post-IPO,Germany,1700
+Hewlett Packard Enterprise,['SF Bay Area'],Hardware,2500,0.05,2025-03-06T00:00:00.000Z,Post-IPO,United States,1400
+TikTok,"['Dublin', 'Non-U.S.']",Consumer,300,,2025-03-06T00:00:00.000Z,Acquired,United States,
+LiveRamp,['SF Bay Area'],Marketing,65,0.05,2025-03-05T00:00:00.000Z,Post-IPO,United States,16
+Ola Electric,"['Bengaluru', 'Non-U.S.']",Transportation,1000,,2025-03-03T00:00:00.000Z,Post-IPO,India,1700
+Rec Room,['Seattle'],Consumer,,0.16,2025-03-03T00:00:00.000Z,Series F,United States,294
+ANS Commerce,"['Gurugram', 'Non-U.S.']",Retail,,1,2025-03-02T00:00:00.000Z,Acquired,India,2
+HP,['SF Bay Area'],Hardware,2000,,2025-02-28T00:00:00.000Z,Post-IPO,United States,
+Grubhub,['SF Bay Area'],Food,500,0.23,2025-02-28T00:00:00.000Z,Acquired,United States,284
+Autodesk,['SF Bay Area'],Other,1350,0.09,2025-02-27T00:00:00.000Z,Post-IPO,United States,
+Digimarc,['Portland'],Other,90,0.4,2025-02-27T00:00:00.000Z,Post-IPO,United States,105
+Google,['SF Bay Area'],Consumer,,,2025-02-27T00:00:00.000Z,Post-IPO,United States,26
+Flywire,['Boston'],Finance,125,,2025-02-26T00:00:00.000Z,Series E,United States,263
+eBay,"['Tel Aviv', 'Non-U.S.']",Retail,20,,2025-02-26T00:00:00.000Z,Post-IPO,Israel,1200
+Commercetools,"['Munich', 'Non-U.S.']",Retail,,0.1,2025-02-26T00:00:00.000Z,Series C,Germany,119
+Dayforce,"['Toronto', 'Non-U.S.']",HR,,0.05,2025-02-26T00:00:00.000Z,Post-IPO,United States,40
+Expedia,['Seattle'],Travel,,,2025-02-26T00:00:00.000Z,Post-IPO,United States,3300
+Skybox Security,['SF Bay Area'],Security,300,1,2025-02-24T00:00:00.000Z,Private Equity,United States,335
+HerMD,['Cincinnati'],Healthcare,,1,2025-02-24T00:00:00.000Z,Series A,United States,28
+Ibotta,['Denver'],Retail,70,0.08,2025-02-22T00:00:00.000Z,Post-IPO,United States,93
+NetEase,"['Tokyo', 'Non-U.S.']",Consumer,,,2025-02-22T00:00:00.000Z,Post-IPO,Japan,
+Zendesk,['SF Bay Area'],Support,51,,2025-02-21T00:00:00.000Z,Acquired,United States,85
+Electriq Global,"['Tel Aviv', 'Non-U.S.']",Energy,,1,2025-02-21T00:00:00.000Z,Unknown,Israel,8
+SeatGeek,['New York City'],Consumer,150,0.15,2025-02-20T00:00:00.000Z,Series E,United States,400
+Vendease,"['Lagos', 'Non-U.S.']",Food,120,0.44,2025-02-19T00:00:00.000Z,Series A,Nigeria,43
+Riskified,['New York City'],Retail,,,2025-02-19T00:00:00.000Z,Post-IPO,United States,229
+Logically,"['Manchester', 'Non-U.S.']",AI,40,0.2,2025-02-17T00:00:00.000Z,Series A,United Kingdom,37
+Eviation Aircraft,"['Tel Aviv', 'Non-U.S.']",Aerospace,,,2025-02-14T00:00:00.000Z,Acquired,Israel,140
+Blue Origin,['Seattle'],Aerospace,1000,0.1,2025-02-13T00:00:00.000Z,Unknown,United States,167
+Sophos,"['Oxford', 'Non-U.S.']",Security,,0.06,2025-02-13T00:00:00.000Z,Acquired,United States,125
+Redfin,['Seattle'],Real Estate,450,,2025-02-12T00:00:00.000Z,Post-IPO,United States,320
+Zepz,"['London', 'Non-U.S.']",Finance,200,0.2,2025-02-12T00:00:00.000Z,Series E,United Kingdom,700
+Getaround,['SF Bay Area'],Transportation,,,2025-02-12T00:00:00.000Z,Series D,United States,403
+Unity,['SF Bay Area'],Other,,,2025-02-11T00:00:00.000Z,Post-IPO,United States,1300
+Meta,['SF Bay Area'],Consumer,3600,0.05,2025-02-10T00:00:00.000Z,Post-IPO,United States,26000
+Wise,['Tampa Bay'],Finance,300,,2025-02-10T00:00:00.000Z,Post-IPO,United States,300
+Justworks,['New York City'],HR,200,,2025-02-10T00:00:00.000Z,Unknown,United States,160
+MessageBird,"['Amsterdam', 'Non-U.S.']",Other,120,0.33,2025-02-10T00:00:00.000Z,Series C,Netherlands,1100
+Sprinklr,['New York City'],Support,500,0.15,2025-02-06T00:00:00.000Z,Post-IPO,United States,429
+NanoLock,"['Tel Aviv', 'Non-U.S.']",Security,,1,2025-02-06T00:00:00.000Z,Series B,Israel,18
+Workday,['SF Bay Area'],HR,1750,0.08,2025-02-05T00:00:00.000Z,Post-IPO,United States,230
+Outbrain,['New York City'],Marketing,200,,2025-02-05T00:00:00.000Z,Post-IPO,United States,394
+Sonos,['Santa Barbara'],Consumer,200,0.12,2025-02-05T00:00:00.000Z,Post-IPO,United States,455.2
+SRTX,"['Montreal', 'Non-U.S.']",Manufacturing,140,,2025-02-05T00:00:00.000Z,Unknown,Canada,151
+Tabnine,"['Tel Aviv', 'Non-U.S.']",AI,15,0.18,2025-02-05T00:00:00.000Z,Series B,Israel,57
+Hugging Face,['New York City'],AI,10,0.04,2025-02-05T00:00:00.000Z,Series D,United States,395
+Cruise,['SF Bay Area'],Transportation,1000,0.5,2025-02-04T00:00:00.000Z,Acquired,United States,15000
+Okta,['SF Bay Area'],Security,180,0.03,2025-02-04T00:00:00.000Z,Post-IPO,United States,1200
+AppsFlyer,['SF Bay Area'],Data,100,0.07,2025-02-04T00:00:00.000Z,Unknown,United States,293
+Asana,['SF Bay Area'],Other,100,,2025-02-04T00:00:00.000Z,Post-IPO,United States,453
+TripAdvisor,['Boston'],Travel,75,,2025-02-04T00:00:00.000Z,Post-IPO,United States,3
+Intel,['Sacramento'],Hardware,58,,2025-02-04T00:00:00.000Z,Post-IPO,United States,12
+Salesforce,['SF Bay Area'],Sales,1000,0.01,2025-02-03T00:00:00.000Z,Post-IPO,United States,65
+Sure,['New York City'],Finance,70,,2025-02-03T00:00:00.000Z,Series C,United States,123
+Cushion,['SF Bay Area'],Finance,,1,2025-01-30T00:00:00.000Z,Series A,United States,20
+Placer.ai,['SF Bay Area'],Data,150,0.18,2025-01-29T00:00:00.000Z,Unknown,United States,267
+Amazon,['Seattle'],Retail,,,2025-01-29T00:00:00.000Z,Post-IPO,United States,8100
+Digital River,['Minneapolis'],Retail,122,,2025-01-28T00:00:00.000Z,Private Equity,United States,50
+Moon Active,"['Tel Aviv', 'Non-U.S.']",Consumer,,,2025-01-27T00:00:00.000Z,Unknown,Israel,425
+Stripe,['SF Bay Area'],Finance,300,0.03,2025-01-21T00:00:00.000Z,Series I,United States,8700
+Turso,"['London', 'Non-U.S.']",Product,,,2025-01-21T00:00:00.000Z,Seed,Canada,7
+Unbabel,"['Lisbon', 'Non-U.S.']",Support,66,0.25,2025-01-20T00:00:00.000Z,Series C,Portugal,91
+Chrono24,"['Karlsruhe', 'Non-U.S.']",Retail,110,0.24,2025-01-16T00:00:00.000Z,Series C,Germany,205
+Pocket FM,"['Bengaluru', 'Non-U.S.']",Media,75,,2025-01-16T00:00:00.000Z,Series D,India,212
+Aurora Solar,['SF Bay Area'],Energy,58,,2025-01-16T00:00:00.000Z,Series D,United States,523
+HeyJobs,"['Berlin', 'Non-U.S.']",Recruiting,90,,2025-01-15T00:00:00.000Z,Series B,Germany,62
+ShareChat,"['Bengaluru', 'Non-U.S.']",Marketing,27,0.05,2025-01-15T00:00:00.000Z,Series D,India,222
+Textio,['Seattle'],Recruiting,15,,2025-01-15T00:00:00.000Z,Unknown,United States,42
+Advisor Credit Exchange,['Philadelphia'],Finance,,1,2025-01-14T00:00:00.000Z,Unknown,United States,31
+Microsoft,['Seattle'],Other,,,2025-01-14T00:00:00.000Z,Post-IPO,United States,1
+TechCrunch,['SF Bay Area'],Media,,,2025-01-14T00:00:00.000Z,Acquired,United States,
+Alza,['New York City'],Finance,,1,2025-01-13T00:00:00.000Z,Seed,United States,7
+Boozt,"['Malmo', 'Non-U.S.']",Retail,,0.1,2025-01-13T00:00:00.000Z,Post-IPO,Sweden,56
+Wayfair,"['Berlin', 'Non-U.S.']",Retail,730,0.03,2025-01-10T00:00:00.000Z,Post-IPO,Germany,1700
+Pandion,['Seattle'],Logistics,63,1,2025-01-10T00:00:00.000Z,Series B,United States,76
+Zillow,['Seattle'],Real Estate,,,2025-01-10T00:00:00.000Z,Post-IPO,United States,97
+Icon,['Austin'],Construction,114,,2025-01-09T00:00:00.000Z,Series B,United States,451
+Redfin,['Seattle'],Real Estate,46,,2025-01-09T00:00:00.000Z,Post-IPO,United States,320
+Altruist,['SF Bay Area'],Finance,37,0.1,2025-01-07T00:00:00.000Z,Series E,United States,449
+Aqua Security,['Boston'],Security,,,2025-01-07T00:00:00.000Z,Series E,United States,325
+Cloud Software Group,['SF Bay Area'],Other,,,2025-01-07T00:00:00.000Z,Unknown,United States,
+Microsoft,['Seattle'],Other,,,2025-01-07T00:00:00.000Z,Post-IPO,United States,1
+SolarEdge,"['Tel Aviv', 'Non-U.S.']",Energy,400,,2025-01-06T00:00:00.000Z,Post-IPO,Israel,155
+Level,['New York City'],Finance,,1,2025-01-02T00:00:00.000Z,Series B,United States,27
+Brave Care,['Portland'],Healthcare,,1,2024-12-31T00:00:00.000Z,Series B,United States,43
+Epicery,"['Paris', 'Non-U.S.']",Food,,1,2024-12-31T00:00:00.000Z,Acquired,France,7
+Bench,"['Vancouver', 'Non-U.S.']",Finance,450,1,2024-12-27T00:00:00.000Z,Series C,Canada,109
+Lilium,"['Munich', 'Non-U.S.']",Aerospace,1000,1,2024-12-23T00:00:00.000Z,Post-IPO,Germany,1400
+BionicHIVE,"['Sderot', 'Non-U.S.']",Hardware,,1,2024-12-22T00:00:00.000Z,Unknown,Israel,
+RealSelf,['Seattle'],Healthcare,,,2024-12-19T00:00:00.000Z,Series B,United States,42
+Refinery29,['New York City'],Media,,,2024-12-17T00:00:00.000Z,Acquired,United States,134
+Thrive,"['Mumbai', 'Non-U.S.']",Food,,1,2024-12-14T00:00:00.000Z,Series A,India,
+Cint,"['Stockholm', 'Non-U.S.']",Data,,0.12,2024-12-12T00:00:00.000Z,Post-IPO,Sweden,17
+Yahoo,['SF Bay Area'],Consumer,,,2024-12-12T00:00:00.000Z,Acquired,United States,6
+Foundry,['Rochester'],Crypto,74,0.27,2024-12-11T00:00:00.000Z,Subsidiary,United States,
+Calendly,['Atlanta'],Other,70,0.13,2024-12-11T00:00:00.000Z,Series B,United States,351
+Canoo,['Los Angeles'],Transportation,20,,2024-12-11T00:00:00.000Z,Post-IPO,United States,300
+OfferUp,['Seattle'],Retail,,0.22,2024-12-11T00:00:00.000Z,Unknown,United States,381
+Spotter,['Los Angeles'],Other,,,2024-12-11T00:00:00.000Z,Unknown,United States,238
+Bluevine,"['Tel Aviv', 'Non-U.S.']",Finance,100,0.18,2024-12-10T00:00:00.000Z,Unknown,Israel,769
+Spectrm,"['Berlin', 'Non-U.S.']",Marketing,,,2024-12-10T00:00:00.000Z,Series B,Germany,11
+EasyKnock,['New York City'],Real Estate,,1,2024-12-09T00:00:00.000Z,Series D,United States,440
+Carousell,"['Singapore', 'Non-U.S.']",Retail,76,0.07,2024-12-06T00:00:00.000Z,Unknown,Singapore,375
+Mixtroz,['Birmingham'],Other,,1,2024-12-06T00:00:00.000Z,Seed,United States,2
+Circle,['Boston'],Crypto,50,0.06,2024-12-05T00:00:00.000Z,Private Equity,United States,1100
+Vox Media,['Washington D.C.'],Media,,,2024-12-05T00:00:00.000Z,Series F,United States,307
+Stash,['New York City'],Finance,88,0.4,2024-12-04T00:00:00.000Z,Unknown,United States,480
+Booking Holdings,['Norwalk'],Travel,60,,2024-12-04T00:00:00.000Z,Post-IPO,United States,2800
+2U,['Washington D.C.'],Education,,,2024-12-04T00:00:00.000Z,Post-IPO,United States,426
+Skai,"['Tel Aviv', 'Non-U.S.']",Marketing,80,0.14,2024-12-03T00:00:00.000Z,Series E,Israel,60
+Lightspeed Commerce,"['Montreal', 'Non-U.S.']",Retail,200,,2024-12-02T00:00:00.000Z,Post-IPO,Canada,1200
+Kobo360,"['Lagos', 'Non-U.S.']",Logistics,30,,2024-11-30T00:00:00.000Z,Series B,Nigeria,85
+Klub,"['Bengaluru', 'Non-U.S.']",Finance,60,,2024-11-29T00:00:00.000Z,Unknown,India,35
+SolarEdge,"['Tel Aviv', 'Non-U.S.']",Energy,500,0.12,2024-11-27T00:00:00.000Z,Post-IPO,Israel,155
+AlphaSense,['New York City'],Other,150,0.08,2024-11-27T00:00:00.000Z,Series F,United States,1400
+Sprout Social,['Chicago'],Marketing,,,2024-11-25T00:00:00.000Z,Post-IPO,United States,111
+Ola Electric,"['Bengaluru', 'Non-U.S.']",Transportation,500,,2024-11-22T00:00:00.000Z,Post-IPO,India,1700
+Adjust,"['Berlin', 'Non-U.S.']",Marketing,304,,2024-11-22T00:00:00.000Z,Acquired,Germany,256
+Hopper,"['Montreal', 'Non-U.S.']",Travel,,,2024-11-22T00:00:00.000Z,Unknown,Canada,730
+LinkedIn,['SF Bay Area'],Recruiting,202,0.01,2024-11-21T00:00:00.000Z,Acquired,United States,154
+Headspace,['Los Angeles'],Healthcare,,0.13,2024-11-20T00:00:00.000Z,Unknown,United States,216
+Own,['New York City'],Data,,,2024-11-19T00:00:00.000Z,Acquired,United States,507
+TrueLayer,"['London', 'Non-U.S.']",Finance,71,0.25,2024-11-15T00:00:00.000Z,Series E,United Kingdom,321
+Better Collective,"['Copenhagen', 'Non-U.S.']",Other,300,,2024-11-14T00:00:00.000Z,Unknown,Denmark,
+Kuku FM,"['Mumbai', 'Non-U.S.']",Media,80,,2024-11-14T00:00:00.000Z,Series C,India,71
+AMD,['SF Bay Area'],Hardware,1000,0.04,2024-11-13T00:00:00.000Z,Post-IPO,United States,
+AppLovin,['SF Bay Area'],Marketing,120,,2024-11-13T00:00:00.000Z,Post-IPO,United States,1600
+Chegg,['SF Bay Area'],Education,319,0.21,2024-11-12T00:00:00.000Z,Post-IPO,United States,227
+Forward,['SF Bay Area'],Healthcare,200,1,2024-11-12T00:00:00.000Z,Series E,United States,325
+Lyra Health,['SF Bay Area'],Healthcare,77,0.02,2024-11-12T00:00:00.000Z,Series F,United States,910
+New Relic,['SF Bay Area'],Infrastructure,,,2024-11-12T00:00:00.000Z,Acquired,United States,214
+Stoa,"['Bengaluru', 'Non-U.S.']",Education,,1,2024-11-12T00:00:00.000Z,Seed,India,
+Enphase Energy,['SF Bay Area'],Energy,500,0.17,2024-11-11T00:00:00.000Z,Post-IPO,United States,116
+23andMe,['SF Bay Area'],Healthcare,200,0.4,2024-11-11T00:00:00.000Z,Post-IPO,United States,1100
+Sword Health,['New York City'],Healthcare,13,,2024-11-11T00:00:00.000Z,Unknown,United States,450
+Monarch Tractor,['SF Bay Area'],Other,35,0.1,2024-11-08T00:00:00.000Z,Unknown,United States,214
+BigCommerce,['Austin'],Retail,,,2024-11-08T00:00:00.000Z,Post-IPO,United States,224
+Booking.com,['Grand Rapids'],Travel,,,2024-11-08T00:00:00.000Z,Acquired,United States,
+Exosonic,['Los Angeles'],Aerospace,,1,2024-11-08T00:00:00.000Z,Seed,United States,4
+Freshworks,['SF Bay Area'],Support,660,0.13,2024-11-07T00:00:00.000Z,Post-IPO,United States,484
+Just Eat,"['Amsterdam', 'Non-U.S.']",Food,300,0.02,2024-11-07T00:00:00.000Z,Acquired,Netherlands,129
+Opendoor,['SF Bay Area'],Real Estate,300,0.17,2024-11-07T00:00:00.000Z,Post-IPO,United States,1900
+Akamai,['Boston'],Security,250,0.02,2024-11-07T00:00:00.000Z,Post-IPO,United States,35
+ShareFile,['Raleigh'],Other,199,,2024-11-07T00:00:00.000Z,Acquired,United States,
+Personio,"['Munich', 'Non-U.S.']",HR,115,0.06,2024-11-07T00:00:00.000Z,Series E,Germany,724
+iRobot,['Boston'],Consumer,105,0.16,2024-11-06T00:00:00.000Z,Post-IPO,United States,30
+Outreach,['Seattle'],Sales,67,0.09,2024-11-06T00:00:00.000Z,Series G,United States,489
+Avaya,['Durham'],Other,,,2024-11-06T00:00:00.000Z,Post-IPO,United States,700
+Mozilla Foundation,['SF Bay Area'],Consumer,,0.3,2024-11-05T00:00:00.000Z,Subsidiary,United States,2.3
+Incredibuild,"['Tel Aviv', 'Non-U.S.']",Product,18,0.11,2024-11-04T00:00:00.000Z,Acquired,Israel,35
+Atera,"['Tel Aviv', 'Non-U.S.']",Other,20,0.06,2024-11-03T00:00:00.000Z,Series B,Israel,102
+Maven Clinic,['New York City'],Healthcare,60,0.1,2024-11-01T00:00:00.000Z,Series F,United States,417
+Bowery Farming,['New York City'],Food,,1,2024-11-01T00:00:00.000Z,Unknown,United States,626
+Tidal,['New York City'],Consumer,,,2024-10-31T00:00:00.000Z,Acquired,United States,
+Dropbox,['SF Bay Area'],Other,527,0.2,2024-10-30T00:00:00.000Z,Post-IPO,United States,1700
+Kraken,['SF Bay Area'],Crypto,400,0.15,2024-10-30T00:00:00.000Z,Unknown,United States,134
+Miro,['SF Bay Area'],Other,275,0.18,2024-10-30T00:00:00.000Z,Series C,United States,476
+ConsenSys,['New York City'],Crypto,163,0.2,2024-10-29T00:00:00.000Z,Series D,United States,726
+F5,['Seattle'],Security,100,0.02,2024-10-29T00:00:00.000Z,Post-IPO,United States,
+Docker,['SF Bay Area'],Infrastructure,,0.1,2024-10-29T00:00:00.000Z,Series C,United States,436
+dYdX,['SF Bay Area'],Crypto,,0.35,2024-10-29T00:00:00.000Z,Series C,United States,87
+Coursera,['SF Bay Area'],Education,150,0.1,2024-10-25T00:00:00.000Z,Post-IPO,United States,458
+Kyte,['SF Bay Area'],Transportation,,0.4,2024-10-25T00:00:00.000Z,Unknown,United States,548
+Twelve,['SF Bay Area'],Energy,,,2024-10-25T00:00:00.000Z,Unknown,United States,844
+Airthings,"['Oslo', 'Non-U.S.']",Hardware,,,2024-10-24T00:00:00.000Z,Unknown,Norway,
+Catena Media,"['Sliema', 'Non-U.S.']",Marketing,29,,2024-10-23T00:00:00.000Z,Unknown,Malta,
+Upwork,['SF Bay Area'],Other,,0.21,2024-10-23T00:00:00.000Z,Post-IPO,United States,168
+Venminder,['Louisville'],Security,100,,2024-10-21T00:00:00.000Z,Acquired,United States,49
+Jellysmack,['New York City'],Media,22,,2024-10-21T00:00:00.000Z,Series C,France,22
+Chief,['New York City'],HR,,,2024-10-20T00:00:00.000Z,Series B,United States,140
+CapWay,['Atlanta'],Finance,,1,2024-10-17T00:00:00.000Z,Unknown,United States,
+Meta,['SF Bay Area'],Consumer,,,2024-10-16T00:00:00.000Z,Post-IPO,United States,26000
+Gigamon,['SF Bay Area'],Data,69,,2024-10-15T00:00:00.000Z,Acquired,United States,23
+Fable,['New York City'],Product,,1,2024-10-15T00:00:00.000Z,Series A,United States,19
+Bytedance,"['Jakarta', 'Non-U.S.']",Consumer,500,,2024-10-11T00:00:00.000Z,Unknown,Indonesia,9400
+Nikola,['Phoenix'],Transportation,130,0.15,2024-10-11T00:00:00.000Z,Post-IPO,United States,3300
+Toplyne,"['Bengaluru', 'Non-U.S.']",Sales,,1,2024-10-11T00:00:00.000Z,Series A,India,17
+CareerBuilder + Monster,['Chicago'],Recruiting,200,0.15,2024-10-10T00:00:00.000Z,Acquired,United States,
+GoWild,['Louisville'],Retail,,1,2024-10-10T00:00:00.000Z,Seed,United States,8
+Toptal,['SF Bay Area'],Recruiting,,,2024-10-10T00:00:00.000Z,Unknown,United States,
+Grabango,['SF Bay Area'],Food,,1,2024-10-09T00:00:00.000Z,Unknown,United States,94
+BeepKart,"['Bengaluru', 'Non-U.S.']",Retail,130,0.4,2024-10-08T00:00:00.000Z,Series A,India,19
+Zapp,"['London', 'Non-U.S.']",Food,,0.9,2024-10-08T00:00:00.000Z,Series B,United Kingdom,300
+Eaze,['SF Bay Area'],Consumer,500,1,2024-10-07T00:00:00.000Z,Series D,United States,202
+PubMatic,['SF Bay Area'],Marketing,12,0.01,2024-10-07T00:00:00.000Z,Post-IPO,United States,63
+Zapata Computing,['Boston'],Other,,1,2024-10-07T00:00:00.000Z,Post-IPO,United States,82
+Tome,['SF Bay Area'],Sales,12,0.31,2024-10-02T00:00:00.000Z,Series B,United States,75
+Alma,['New York City'],Healthcare,,0.09,2024-10-02T00:00:00.000Z,Series D,United States,220
+Flexport,['SF Bay Area'],Logistics,,0.02,2024-10-02T00:00:00.000Z,Series E,United States,2400
+ABBYY,['Nicosia'],Data,200,,2024-10-01T00:00:00.000Z,Unknown,Cyprus,6
+FreshBooks,"['Toronto', 'Non-U.S.']",Finance,140,,2024-10-01T00:00:00.000Z,Unknown,Canada,331
+Vendease,"['Lagos', 'Non-U.S.']",Food,68,0.2,2024-09-30T00:00:00.000Z,Series A,Nigeria,43
+Shein,"['Singapore', 'Non-U.S.']",Retail,17,,2024-09-30T00:00:00.000Z,Private Equity,Singapore,4100
+DoubleCloud,"['Dubai', 'Non-U.S.']",Infrastructure,,1,2024-09-30T00:00:00.000Z,Unknown,UAE,
+Greenikk,"['Trivandrum', 'Non-U.S.']",Food,,1,2024-09-30T00:00:00.000Z,Seed,India,1
+Drata,['San Diego'],Security,40,0.09,2024-09-26T00:00:00.000Z,Series C,United States,328
+Moov,['Cedar Falls'],Finance,50,,2024-09-25T00:00:00.000Z,Series B,United States,77
+FreightWaves,['Chattanooga'],Logistics,16,,2024-09-24T00:00:00.000Z,Private Equity,United States,92
+F5,['Seattle'],Security,,,2024-09-24T00:00:00.000Z,Post-IPO,United States,
+Northvolt,"['Stockholm', 'Non-U.S.']",Energy,1600,0.2,2024-09-23T00:00:00.000Z,Unknown,Sweden,13800
+Olo,['New York City'],Food,,0.09,2024-09-23T00:00:00.000Z,Post-IPO,United States,184
+Healthy.io,"['Tel Aviv', 'Non-U.S.']",Healthcare,40,0.3,2024-09-22T00:00:00.000Z,Series D,United States,185
+Reverb,['Chicago'],Retail,40,,2024-09-20T00:00:00.000Z,Acquired,United States,47
+Luminar,['Orlando'],Transportation,,0.15,2024-09-20T00:00:00.000Z,Post-IPO,United States,780
+Notable Labs,['SF Bay Area'],Healthcare,,0.65,2024-09-20T00:00:00.000Z,Series B,United States,
+CarTrawler,"['Dublin', 'Non-U.S.']",Transportation,40,0.1,2024-09-19T00:00:00.000Z,Acquired,Ireland,
+ApplyBoard,"['Waterloo', 'Non-U.S.']",Education,,0.04,2024-09-19T00:00:00.000Z,Series D,Canada,483
+Spendesk,"['Paris', 'Non-U.S.']",Finance,151,,2024-09-18T00:00:00.000Z,Series C,France,
+Aakash,"['New Delhi', 'Non-U.S.']",Education,80,,2024-09-18T00:00:00.000Z,Acquired,India,
+IBM,['New York City'],Hardware,,,2024-09-18T00:00:00.000Z,Post-IPO,United States,
+Runtastic,"['Linz', 'Non-U.S.']",Fitness,170,,2024-09-16T00:00:00.000Z,Acquired,Austria,
+Microsoft,['Seattle'],Other,650,,2024-09-12T00:00:00.000Z,Post-IPO,United States,1
+Amperity,['Seattle'],Marketing,,0.13,2024-09-12T00:00:00.000Z,Series D,United States,187
+Udemy,['SF Bay Area'],Education,280,,2024-09-11T00:00:00.000Z,Post-IPO,United States,311
+Mobileye,"['Jerusalem', 'Non-U.S.']",Transportation,100,,2024-09-09T00:00:00.000Z,Post-IPO,Israel,2100
+InsurStaq.ai,"['New Delhi', 'Non-U.S.']",AI,,1,2024-09-09T00:00:00.000Z,Seed,India,
+Nori,['Seattle'],Energy,,1,2024-09-09T00:00:00.000Z,Unknown,United States,19
+WeTransfer,"['Amsterdam', 'Non-U.S.']",Other,260,0.75,2024-09-08T00:00:00.000Z,Acquired,Netherlands,64
+Center,['Seattle'],Finance,8,0.04,2024-09-07T00:00:00.000Z,Series C,United States,102
+Goop,['Los Angeles'],Retail,39,0.18,2024-09-06T00:00:00.000Z,Unknown,United States,75
+Motif Foodworks,['Boston'],Food,,1,2024-09-06T00:00:00.000Z,Unknown,United States,343
+ChargePoint,['SF Bay Area'],Manufacturing,250,0.15,2024-09-04T00:00:00.000Z,Unknown,United States,1400
+Fly.io,['Chicago'],Infrastructure,40,,2024-09-04T00:00:00.000Z,Series C,United States,110
+Lyft,['SF Bay Area'],Transportation,30,0.01,2024-09-04T00:00:00.000Z,Post-IPO,United States,4900
+ABL,['Los Angeles'],Aerospace,,,2024-09-03T00:00:00.000Z,Unknown,United States,479
+Matter Labs,"['Berlin', 'Non-U.S.']",Crypto,,0.16,2024-09-03T00:00:00.000Z,Unknown,Germany,380
+Dozee,"['Bengaluru', 'Non-U.S.']",Healthcare,40,,2024-09-02T00:00:00.000Z,Series A,India,26
+Dunzo,"['Bengaluru', 'Non-U.S.']",Food,150,0.75,2024-08-31T00:00:00.000Z,Unknown,India,458
+Character.ai,['SF Bay Area'],AI,6,0.05,2024-08-29T00:00:00.000Z,Series A,United States,150
+Brave,['SF Bay Area'],Consumer,27,0.14,2024-08-28T00:00:00.000Z,Series B,United States,42
+Apple,['SF Bay Area'],Hardware,100,,2024-08-27T00:00:00.000Z,Post-IPO,United States,1200
+IBM,"['Beijing', 'Non-U.S.']",Hardware,1000,,2024-08-26T00:00:00.000Z,Post-IPO,China,
+Tome Biosciences,['Boston'],Healthcare,131,1,2024-08-26T00:00:00.000Z,Series A,United States,213
+Velo3D,['SF Bay Area'],Manufacturing,42,,2024-08-26T00:00:00.000Z,Post-IPO,United States,305
+Kenko Health,"['Mumbai', 'Non-U.S.']",Healthcare,,1,2024-08-23T00:00:00.000Z,Series A,India,14
+Received,['New York City'],Finance,,1,2024-08-23T00:00:00.000Z,Unknown,United States,
+Sandvine,"['Waterloo', 'Non-U.S.']",Infrastructure,,,2024-08-23T00:00:00.000Z,Acquired,Canada,63
+Redfin,['Seattle'],Real Estate,82,0.02,2024-08-22T00:00:00.000Z,Post-IPO,United States,320
+Kaiyo,['New York City'],Retail,,1,2024-08-21T00:00:00.000Z,Series B,United States,43
+Skip the Dishes,"['Winnipeg', 'Non-U.S.']",Food,800,,2024-08-20T00:00:00.000Z,Acquired,Canada,8
+Five9,['SF Bay Area'],Support,190,0.07,2024-08-20T00:00:00.000Z,Post-IPO,United States,862
+ReshaMandi,"['Bengaluru', 'Non-U.S.']",Food,,1,2024-08-20T00:00:00.000Z,Unknown,India,54
+GoPro,['SF Bay Area'],Consumer,139,0.15,2024-08-19T00:00:00.000Z,Post-IPO,United States,288
+Localize,['New York City'],Real Estate,,,2024-08-19T00:00:00.000Z,Series A,United States,40
+Paper,"['Montreal', 'Non-U.S.']",Education,81,0.45,2024-08-16T00:00:00.000Z,Series D,Canada,389
+Retention.com,['Austin'],Marketing,15,,2024-08-16T00:00:00.000Z,Unknown,United States,
+Loop,['Columbus'],Retail,,,2024-08-16T00:00:00.000Z,Series B,United States,125
+Regrow Ag,['Durham'],Food,,0.19,2024-08-16T00:00:00.000Z,Series B,United States,64
+AppLovin,['SF Bay Area'],Marketing,61,,2024-08-15T00:00:00.000Z,Post-IPO,United States,1600
+Inuitive,"[""Ra'anana"", 'Non-U.S.']",Manufacturing,16,0.2,2024-08-15T00:00:00.000Z,Unknown,Israel,23
+Formlabs,['Boston'],Hardware,,,2024-08-15T00:00:00.000Z,Series E,United States,254
+Mister Spex,"['Berlin', 'Non-U.S.']",Retail,,0.1,2024-08-15T00:00:00.000Z,Post-IPO,Germany,158
+PacketFabric,['Los Angeles'],Infrastructure,,,2024-08-15T00:00:00.000Z,Unknown,United States,110
+Sampler,"['Toronto', 'Non-U.S.']",Retail,,1,2024-08-15T00:00:00.000Z,Series B,Canada,10
+Sonos,['Santa Barbara'],Consumer,100,0.06,2024-08-14T00:00:00.000Z,Post-IPO,United States,455.2
+Grail,['SF Bay Area'],Healthcare,350,,2024-08-13T00:00:00.000Z,Post-IPO,United States,
+DayTwo,['SF Bay Area'],Healthcare,,1,2024-08-13T00:00:00.000Z,Series B,United States,90
+Quizac,"['Lagos', 'Non-U.S.']",Education,,1,2024-08-13T00:00:00.000Z,Acquired,Nigeria,
+Tally,['SF Bay Area'],Finance,,1,2024-08-12T00:00:00.000Z,Series C,United States,172
+Cisco,['SF Bay Area'],Infrastructure,5600,0.07,2024-08-09T00:00:00.000Z,Post-IPO,United States,2
+Branch.io,['SF Bay Area'],Marketing,100,,2024-08-09T00:00:00.000Z,Series F,United States,667
+iCIMS,['Holmdel'],Recruiting,69,,2024-08-09T00:00:00.000Z,Acquired,United States,93
+Ready Robotics,['Columbus'],Manufacturing,,,2024-08-09T00:00:00.000Z,Unknown,United States,41
+Submittable,['Missoula'],Other,40,,2024-08-08T00:00:00.000Z,Unknown,United States,115
+Fastly,['SF Bay Area'],Infrastructure,,0.11,2024-08-08T00:00:00.000Z,Post-IPO,United States,219
+Eventbrite,['SF Bay Area'],Consumer,100,0.11,2024-08-07T00:00:00.000Z,Post-IPO,United States,557
+LegalZoom,['Los Angeles'],Legal,,0.15,2024-08-07T00:00:00.000Z,Post-IPO,United States,952
+Axios Media,['Washington D.C.'],Media,50,0.1,2024-08-06T00:00:00.000Z,Acquired,United States,57
+Mobius Motors,"['Nairobi', 'Non-U.S.']",Transportation,,1,2024-08-06T00:00:00.000Z,Unknown,Kenya,6
+Teradata,['San Diego'],Data,,0.13,2024-08-06T00:00:00.000Z,Post-IPO,United States,
+Infineon,"['Munich', 'Non-U.S.']",Manufacturing,1400,,2024-08-05T00:00:00.000Z,Post-IPO,Germany,1500
+Jam City,['Los Angeles'],Consumer,85,0.1,2024-08-05T00:00:00.000Z,Unknown,United States,652
+Dell,['Austin'],Hardware,,,2024-08-05T00:00:00.000Z,Post-IPO,United States,
+ShareChat,"['Bengaluru', 'Non-U.S.']",Marketing,30,0.05,2024-08-03T00:00:00.000Z,Series D,India,222
+Intel,['SF Bay Area'],Hardware,15000,0.15,2024-08-01T00:00:00.000Z,Post-IPO,United States,12
+Avaya,['Durham'],Other,180,0.03,2024-08-01T00:00:00.000Z,Post-IPO,United States,700
+Rad Power Bikes,['Seattle'],Transportation,,,2024-08-01T00:00:00.000Z,Series D,United States,329
+Bungie,['Seattle'],Consumer,220,0.17,2024-07-31T00:00:00.000Z,Acquired,United States,100
+Delivery Hero,"['Berlin', 'Non-U.S.']",Food,200,,2024-07-31T00:00:00.000Z,Post-IPO,Germany,9900
+Match Group,['New York City'],Consumer,,0.06,2024-07-31T00:00:00.000Z,Post-IPO,United States,
+NerdWallet,['SF Bay Area'],Finance,,0.15,2024-07-30T00:00:00.000Z,Post-IPO,United States,105
+Moxion Power,['SF Bay Area'],Energy,248,1,2024-07-29T00:00:00.000Z,Unknown,United States,124
+OrCam,"['Jerusalem', 'Non-U.S.']",Healthcare,,,2024-07-28T00:00:00.000Z,Unknown,Israel,86
+Pocket FM,"['Bengaluru', 'Non-U.S.']",Media,200,,2024-07-27T00:00:00.000Z,Series D,India,212
+WayCool,"['Chennai', 'Non-U.S.']",Food,200,,2024-07-26T00:00:00.000Z,Unknown,India,363
+Webflow,['SF Bay Area'],Marketing,,0.08,2024-07-25T00:00:00.000Z,Series C,United States,335
+Humble Games,['SF Bay Area'],Media,36,1,2024-07-23T00:00:00.000Z,Acquired,United States,4
+Cohere,"['Toronto', 'Non-U.S.']",AI,20,0.05,2024-07-23T00:00:00.000Z,Series D,Canada,935
+Bluelearn,"['Bengaluru', 'Non-U.S.']",Education,,1,2024-07-22T00:00:00.000Z,Seed,India,4
+Magic Leap,['Miami'],Consumer,75,,2024-07-19T00:00:00.000Z,Series E,United States,4100
+Mercari U.S.,['SF Bay Area'],Retail,,0.5,2024-07-19T00:00:00.000Z,Subsidiary,United States,
+Aqua Security,['Boston'],Security,50,0.1,2024-07-17T00:00:00.000Z,Series E,United States,325
+EverC,"['Tel Aviv', 'Non-U.S.']",Security,16,0.1,2024-07-17T00:00:00.000Z,Unknown,Israel,61
+Lex,['New York City'],Consumer,,,2024-07-17T00:00:00.000Z,Seed,United States,7
+ON,['SF Bay Area'],Retail,60,1,2024-07-16T00:00:00.000Z,Unknown,United States,81
+Kaspersky,['Boston'],Security,,,2024-07-16T00:00:00.000Z,Private Equity,United States,
+Unbounce,"['Vancouver', 'Non-U.S.']",Marketing,,,2024-07-16T00:00:00.000Z,Acquired,Canada,39
+SolarEdge,"['Tel Aviv', 'Non-U.S.']",Energy,400,,2024-07-15T00:00:00.000Z,Post-IPO,Israel,155
+Salesforce,['SF Bay Area'],Sales,300,,2024-07-15T00:00:00.000Z,Post-IPO,United States,65
+Spotify,"['Stockholm', 'Non-U.S.']",Media,40,,2024-07-15T00:00:00.000Z,Post-IPO,Sweden,2100
+SadaPay,"['Islamabad', 'Non-U.S.']",Finance,,0.3,2024-07-12T00:00:00.000Z,Acquired,Pakistan,20
+MoxiWorks,['Seattle'],Real Estate,,,2024-07-11T00:00:00.000Z,Private Equity,United States,
+Intuit,['SF Bay Area'],Finance,1800,0.1,2024-07-10T00:00:00.000Z,Post-IPO,United States,18
+Redbox,['Chicago'],Media,1000,1,2024-07-10T00:00:00.000Z,Acquired,United States,51
+CyberProof,['Los Angeles'],Security,,0.07,2024-07-10T00:00:00.000Z,Subsidiary,United States,
+UIPath,['New York City'],Other,420,0.1,2024-07-09T00:00:00.000Z,Post-IPO,United States,2000
+UKG,['Boston'],HR,2200,0.14,2024-07-03T00:00:00.000Z,Unknown,United States,
+OpenText,"['Waterloo', 'Non-U.S.']",Data,1200,0.02,2024-07-03T00:00:00.000Z,Post-IPO,Canada,1100
+Microsoft,['Seattle'],Other,,,2024-07-03T00:00:00.000Z,Post-IPO,United States,1
+Unacademy,"['Bengaluru', 'Non-U.S.']",Education,250,,2024-07-02T00:00:00.000Z,Series H,India,838
+Koo,"['Bengaluru', 'Non-U.S.']",Consumer,,1,2024-07-02T00:00:00.000Z,Unknown,India,51
+Lightricks,"['Jerusalem', 'Non-U.S.']",Consumer,70,0.12,2024-07-01T00:00:00.000Z,Series D,Israel,335
+Upside Foods,['SF Bay Area'],Food,26,,2024-07-01T00:00:00.000Z,Unknown,United States,598
+Sightful,"['Tel Aviv', 'Non-U.S.']",Hardware,20,0.33,2024-07-01T00:00:00.000Z,Unknown,Israel,61
+Cint,"['Stockholm', 'Non-U.S.']",Data,,,2024-07-01T00:00:00.000Z,Post-IPO,Sweden,17
+Ninja Van,"['Singapore', 'Non-U.S.']",Transportation,,0.05,2024-07-01T00:00:00.000Z,Series E,Singapore,974
+Priceline,['Norwalk'],Travel,103,0.07,2024-06-28T00:00:00.000Z,Acquired,United States,77
+RealPage,['Dallas'],Real Estate,260,0.04,2024-06-27T00:00:00.000Z,Acquired,United States,105
+Planet,['SF Bay Area'],Aerospace,180,0.17,2024-06-26T00:00:00.000Z,Post-IPO,United States,574
+Moxion Power,['SF Bay Area'],Energy,101,,2024-06-26T00:00:00.000Z,Unknown,United States,124
+eBay,"['Tel Aviv', 'Non-U.S.']",Retail,,,2024-06-26T00:00:00.000Z,Post-IPO,Israel,1200
+Perion,"['Tel Aviv', 'Non-U.S.']",Marketing,35,0.05,2024-06-25T00:00:00.000Z,Post-IPO,Israel,76
+BeReal,"['Paris', 'Non-U.S.']",Consumer,,,2024-06-25T00:00:00.000Z,Acquired,France,
+Flutterwave,['SF Bay Area'],Finance,30,0.03,2024-06-24T00:00:00.000Z,Unknown,United States,509
+Ginkgo Bioworks,['Boston'],Healthcare,,,2024-06-24T00:00:00.000Z,Post-IPO,United States,1600
+Trade Republic,"['Berlin', 'Non-U.S.']",Finance,,,2024-06-23T00:00:00.000Z,Unknown,Germany,1300
+Ginkgo Bioworks,['Boston'],Healthcare,400,0.35,2024-06-20T00:00:00.000Z,Post-IPO,United States,1600
+Bluevine,"['Tel Aviv', 'Non-U.S.']",Finance,,,2024-06-20T00:00:00.000Z,Unknown,Israel,769
+ReshaMandi,"['Bengaluru', 'Non-U.S.']",Food,,0.8,2024-06-20T00:00:00.000Z,Unknown,India,54
+Emma Sleep,"['Frankfurt', 'Non-U.S.']",Retail,200,0.18,2024-06-19T00:00:00.000Z,Acquired,Germany,
+Moovit,"['Tel Aviv', 'Non-U.S.']",Transportation,20,0.1,2024-06-19T00:00:00.000Z,Acquired,Israel,131
+Wex,['Portland'],Finance,375,0.05,2024-06-18T00:00:00.000Z,Post-IPO,United States,400
+PayPal,['SF Bay Area'],Finance,85,,2024-06-18T00:00:00.000Z,Post-IPO,Ireland,216
+Rapyd,"['Tel Aviv', 'Non-U.S.']",Finance,30,,2024-06-18T00:00:00.000Z,Unknown,Israel,770
+C2FO,['Kansas City'],Finance,16,,2024-06-18T00:00:00.000Z,Series H,United States,537
+Fisker,['Los Angeles'],Transportation,,1,2024-06-18T00:00:00.000Z,Post-IPO,United States,1700
+Chegg,['SF Bay Area'],Education,441,0.23,2024-06-17T00:00:00.000Z,Post-IPO,United States,227
+Stackpath,['Dallas'],Infrastructure,,1,2024-06-17T00:00:00.000Z,Series B,United States,396
+Unit,['New York City'],Finance,,0.15,2024-06-17T00:00:00.000Z,Series C,United States,170
+LOOP,['Austin'],Finance,23,0.77,2024-06-16T00:00:00.000Z,Series A,United States,34
+Care/of,['New York City'],Healthcare,143,1,2024-06-15T00:00:00.000Z,Acquired,United States,83
+Running Tide,['Portland'],Energy,,1,2024-06-15T00:00:00.000Z,Series B,United States,54
+Satellogic,"['Montevideo', 'Non-U.S.']",Aerospace,70,0.3,2024-06-14T00:00:00.000Z,Post-IPO,Uruguay,424
+Cypress.io,['Atlanta'],Product,11,,2024-06-14T00:00:00.000Z,Series B,United States,54
+Medtronic,['SF Bay Area'],Healthcare,,,2024-06-13T00:00:00.000Z,Post-IPO,United States,5900
+Bytedance,"['Jakarta', 'Non-U.S.']",Consumer,450,,2024-06-12T00:00:00.000Z,Unknown,Indonesia,9400
+Paxos,['New York City'],Crypto,65,0.2,2024-06-12T00:00:00.000Z,Unknown,United States,543
+SCiFi Foods,['SF Bay Area'],Food,,1,2024-06-12T00:00:00.000Z,Series A,United States,39
+VRChat,['SF Bay Area'],Consumer,,0.3,2024-06-12T00:00:00.000Z,Series D,United States,95
+Ladenzeile,"['Berlin', 'Non-U.S.']",Retail,,1,2024-06-11T00:00:00.000Z,Subsidiary,Germany,
+Paytm,"['Noida', 'Non-U.S.']",Finance,3500,,2024-06-10T00:00:00.000Z,Subsidiary,India,
+Kissflow,"['Chennai', 'Non-U.S.']",Other,45,0.11,2024-06-10T00:00:00.000Z,Unknown,India,1
+Copia,"['Nairobi', 'Non-U.S.']",Retail,1060,,2024-06-06T00:00:00.000Z,Series C,Kenya,103
+Revel,['New York City'],Transportation,1000,,2024-06-06T00:00:00.000Z,Unknown,United States,214
+Simpl,"['Bengaluru', 'Non-U.S.']",Finance,30,,2024-06-06T00:00:00.000Z,Series B,India,72
+Oda,"['Oslo', 'Non-U.S.']",Food,150,,2024-06-05T00:00:00.000Z,Unknown,Norway,691
+Pagaya,"['Tel Aviv', 'Non-U.S.']",Finance,100,0.2,2024-06-05T00:00:00.000Z,Post-IPO,Israel,2000
+Aleph Farms,"['Tel Aviv', 'Non-U.S.']",Food,30,0.3,2024-06-05T00:00:00.000Z,Unknown,Israel,119
+MoonPay,['Dover'],Crypto,30,0.1,2024-06-05T00:00:00.000Z,Unknown,United States,651
+Yext,['New York City'],Marketing,,0.12,2024-06-05T00:00:00.000Z,Post-IPO,United States,117
+Microsoft,['Seattle'],Other,1000,,2024-06-03T00:00:00.000Z,Post-IPO,United States,1
+OrCam,"['Jerusalem', 'Non-U.S.']",Healthcare,100,0.5,2024-06-03T00:00:00.000Z,Unknown,Israel,86
+Google,['SF Bay Area'],Consumer,100,,2024-05-31T00:00:00.000Z,Post-IPO,United States,26
+Tropic,['New York City'],Finance,40,,2024-05-31T00:00:00.000Z,Series B,United States,67
+Gro Intelligence,['New York City'],Food,,0.1,2024-05-31T00:00:00.000Z,Series B,United States,118
+Jasper Health,['Boise'],Healthcare,,,2024-05-31T00:00:00.000Z,Series A,United States,32
+FlightStats,['Portland'],Travel,73,,2024-05-30T00:00:00.000Z,Acquired,United States,3
+ICANN,['Los Angeles'],Infrastructure,33,0.07,2024-05-30T00:00:00.000Z,Unknown,United States,
+Walnut,['New York City'],Sales,15,0.2,2024-05-29T00:00:00.000Z,Series B,United States,56
+Fisker,['Los Angeles'],Transportation,,,2024-05-29T00:00:00.000Z,Post-IPO,United States,1700
+Funding Circle,"['London', 'Non-U.S.']",Finance,,,2024-05-29T00:00:00.000Z,Post-IPO,United Kingdom,746
+Glovo,"['Madrid', 'Non-U.S.']",Food,22,,2024-05-25T00:00:00.000Z,Acquired,Spain,1200
+Lucid Motors,['SF Bay Area'],Transportation,400,0.06,2024-05-24T00:00:00.000Z,Post-IPO,United States,8300
+Satellogic,"['Montevideo', 'Non-U.S.']",Aerospace,34,0.13,2024-05-24T00:00:00.000Z,Post-IPO,Uruguay,424
+Foursquare,['New York City'],Marketing,105,0.25,2024-05-23T00:00:00.000Z,Series G,United States,390
+Guild,['Denver'],Education,300,0.25,2024-05-22T00:00:00.000Z,Series F,United States,643
+Cue Health,['San Diego'],Healthcare,180,1,2024-05-22T00:00:00.000Z,Post-IPO,United States,899
+Silo,['SF Bay Area'],Food,,0.3,2024-05-22T00:00:00.000Z,Series C,United States,272
+TikTok,['Los Angeles'],Consumer,1000,,2024-05-21T00:00:00.000Z,Acquired,United States,
+Joonko,['New York City'],HR,,1,2024-05-19T00:00:00.000Z,Series B,United States,38
+Toshiba,"['Tokyo', 'Non-U.S.']",Manufacturing,4000,,2024-05-16T00:00:00.000Z,Unknown,Japan,
+Wefox,"['Berlin', 'Non-U.S.']",Finance,60,,2024-05-16T00:00:00.000Z,Series D,Germany,1300
+Replit,['SF Bay Area'],Product,30,0.2,2024-05-16T00:00:00.000Z,Unknown,United States,222
+Gopuff,['Philadelphia'],Food,,0.06,2024-05-16T00:00:00.000Z,Series H,United States,3400
+Karhoo,"['London', 'Non-U.S.']",Transportation,,1,2024-05-16T00:00:00.000Z,Acquired,United Kingdom,39
+SeekOut,['Seattle'],Recruiting,,0.3,2024-05-16T00:00:00.000Z,Series C,United States,
+Atmosphere,['Austin'],Other,100,,2024-05-15T00:00:00.000Z,Series D,United States,214
+Singularity 6,['Los Angeles'],Other,36,,2024-05-15T00:00:00.000Z,Series B,United States,49
+Mainvest,['Boston'],Finance,,1,2024-05-14T00:00:00.000Z,Unknown,United States,3
+Indeed,['Austin'],HR,1000,0.08,2024-05-13T00:00:00.000Z,Acquired,United States,5
+Motional,['Pittsburgh'],Transportation,550,0.4,2024-05-10T00:00:00.000Z,Unknown,United States,
+Rivian,['Los Angeles'],Transportation,120,,2024-05-10T00:00:00.000Z,Post-IPO,United States,10700
+Google,['SF Bay Area'],Consumer,57,,2024-05-10T00:00:00.000Z,Post-IPO,United States,26
+Symend,"['Calgary', 'Non-U.S.']",Other,,,2024-05-10T00:00:00.000Z,Series C,Canada,148
+Vacasa,['Portland'],Travel,800,0.13,2024-05-09T00:00:00.000Z,Post-IPO,United States,834
+Sight Diagnostics,"['Tel Aviv', 'Non-U.S.']",Healthcare,40,0.3,2024-05-09T00:00:00.000Z,Series D,Israel,124
+PrepLadder,"['New Delhi', 'Non-U.S.']",Education,145,0.25,2024-05-08T00:00:00.000Z,Acquired,India,
+Simpl,"['Bengaluru', 'Non-U.S.']",Finance,100,0.15,2024-05-08T00:00:00.000Z,Series B,India,72
+Arkane Studios,['Austin'],Consumer,96,1,2024-05-08T00:00:00.000Z,Unknown,United States,
+Brilliant,['SF Bay Area'],Hardware,,1,2024-05-08T00:00:00.000Z,Series B,United States,64
+Kinaxis,"['Ottawa', 'Non-U.S.']",Other,,0.06,2024-05-08T00:00:00.000Z,Post-IPO,Canada,79
+Hopin,"['London', 'Non-U.S.']",Other,,,2024-05-07T00:00:00.000Z,Series D,United Kingdom,1000
+Enovix,['SF Bay Area'],Energy,170,0.33,2024-05-06T00:00:00.000Z,Post-IPO,United States,516
+Cue Health,['San Diego'],Healthcare,230,0.49,2024-05-03T00:00:00.000Z,Post-IPO,United States,899
+Rivian,['Los Angeles'],Transportation,150,,2024-05-03T00:00:00.000Z,Post-IPO,United States,10700
+Luminar,['Orlando'],Transportation,140,0.2,2024-05-03T00:00:00.000Z,Post-IPO,United States,780
+Sprinklr,['New York City'],Support,116,0.03,2024-05-03T00:00:00.000Z,Post-IPO,United States,429
+Bakkt,['Atlanta'],Crypto,28,,2024-05-03T00:00:00.000Z,Post-IPO,United States,932
+Peloton,['New York City'],Fitness,400,0.15,2024-05-02T00:00:00.000Z,Post-IPO,United States,1900
+Cabify,"['Madrid', 'Non-U.S.']",Transportation,29,,2024-05-02T00:00:00.000Z,Unknown,Spain,601
+Google,['SF Bay Area'],Consumer,200,,2024-05-01T00:00:00.000Z,Post-IPO,United States,26
+Assurance,['Seattle'],Finance,112,1,2024-05-01T00:00:00.000Z,Acquired,United States,
+Sproutt,['Hartford'],Finance,,1,2024-05-01T00:00:00.000Z,Series B,United States,38
+Tesla,['Austin'],Transportation,500,,2024-04-30T00:00:00.000Z,Post-IPO,United States,20200
+RiseUp,"['Tel Aviv', 'Non-U.S.']",Finance,50,0.5,2024-04-30T00:00:00.000Z,Series B,Israel,30
+Akili Interactive,['Boston'],Healthcare,,0.46,2024-04-30T00:00:00.000Z,Post-IPO,United States,271
+Google,['SF Bay Area'],Consumer,,,2024-04-30T00:00:00.000Z,Post-IPO,United States,26
+Getir,"['London', 'Non-U.S.']",Food,3300,,2024-04-29T00:00:00.000Z,Series E,United Kingdom,1800
+Ola,"['Bengaluru', 'Non-U.S.']",Transportation,180,0.1,2024-04-29T00:00:00.000Z,Series J,India,5000
+Ninja Van,"['Singapore', 'Non-U.S.']",Transportation,21,0.1,2024-04-29T00:00:00.000Z,Series E,Singapore,974
+ComplYant,['Los Angeles'],Finance,,1,2024-04-29T00:00:00.000Z,Seed,United States,6
+Fisker,['Los Angeles'],Transportation,,,2024-04-29T00:00:00.000Z,Post-IPO,United States,1700
+HealthifyMe,"['Bengaluru', 'Non-U.S.']",Healthcare,150,0.27,2024-04-27T00:00:00.000Z,Series D,India,130
+True Anomaly,['Denver'],Aerospace,30,0.25,2024-04-25T00:00:00.000Z,Series B,United States,158
+Grin,['Sacramento'],Marketing,,,2024-04-25T00:00:00.000Z,Series B,United States,145
+Expedia,['Austin'],Travel,,,2024-04-24T00:00:00.000Z,Post-IPO,United States,3300
+Freenome,['SF Bay Area'],Healthcare,100,0.2,2024-04-23T00:00:00.000Z,Series E,United States,1400
+Heureka Group,"['Prague', 'Non-U.S.']",Retail,100,0.16,2024-04-23T00:00:00.000Z,Acquired,Czech Republic,
+98point6,['Seattle'],Healthcare,,,2024-04-23T00:00:00.000Z,Acquired,United States,299
+OutSystems,['Boston'],Product,150,0.08,2024-04-19T00:00:00.000Z,Series G,United States,802
+Homie,['Salt Lake City'],Real Estate,,,2024-04-19T00:00:00.000Z,Series B,United States,35
+The Good Glamm Group,"['New Delhi', 'Non-U.S.']",Retail,150,0.15,2024-04-18T00:00:00.000Z,Unknown,India,180
+Showpad,"['Ghent', 'Non-U.S.']",Marketing,50,0.1,2024-04-18T00:00:00.000Z,Series D,Belgium,159
+Stability AI,"['London', 'Non-U.S.']",AI,20,,2024-04-18T00:00:00.000Z,Unknown,United Kingdom,174
+Pax8,['Denver'],Infrastructure,,0.05,2024-04-18T00:00:00.000Z,Unknown,United States,400
+ConnectWise,['Tampa Bay'],Other,,,2024-04-17T00:00:00.000Z,Acquired,United States,1
+Google,['SF Bay Area'],Consumer,,,2024-04-17T00:00:00.000Z,Post-IPO,United States,26
+Rivian,['Detroit'],Transportation,,0.01,2024-04-17T00:00:00.000Z,Post-IPO,United States,10700
+Take-Two,['New York City'],Consumer,579,0.05,2024-04-16T00:00:00.000Z,Post-IPO,United States,4100
+Tome,['SF Bay Area'],AI,12,0.25,2024-04-16T00:00:00.000Z,Series B,United States,75
+Tesla,['Austin'],Transportation,14000,0.1,2024-04-15T00:00:00.000Z,Post-IPO,United States,20200
+Criteo,"['Paris', 'Non-U.S.']",Marketing,140,0.04,2024-04-12T00:00:00.000Z,Post-IPO,France,61
+Glovo,"['Barcelona', 'Non-U.S.']",Food,25,,2024-04-12T00:00:00.000Z,Acquired,Spain,1200
+TikTok,"['Dublin', 'Non-U.S.']",Consumer,250,,2024-04-11T00:00:00.000Z,Acquired,Ireland,
+Fabric,['New York City'],Logistics,30,0.15,2024-04-11T00:00:00.000Z,Series C,United States,336
+Hinge Health,['SF Bay Area'],Healthcare,,0.1,2024-04-11T00:00:00.000Z,Series E,United States,826
+Zoe,"['London', 'Non-U.S.']",Healthcare,,0.2,2024-04-11T00:00:00.000Z,Series B,United Kingdom,89
+Cornershop,"['Santiago', 'Non-U.S.']",Food,200,,2024-04-10T00:00:00.000Z,Acquired,Chile,32
+Scaler,"['Bengaluru', 'Non-U.S.']",Education,150,,2024-04-10T00:00:00.000Z,Series B,India,55
+Checkr,['SF Bay Area'],HR,382,0.32,2024-04-09T00:00:00.000Z,Series D,United States,679
+Intel,['SF Bay Area'],Hardware,62,,2024-04-09T00:00:00.000Z,Post-IPO,United States,12
+Trendsales,"['Copenhagen', 'Non-U.S.']",Retail,79,1,2024-04-08T00:00:00.000Z,Acquired,Denmark,
+Singularity 6,['Los Angeles'],Other,49,0.35,2024-04-08T00:00:00.000Z,Series B,United States,49
+Fission,"['Vancouver', 'Non-U.S.']",Other,,1,2024-04-07T00:00:00.000Z,Unknown,Canada,
+Bolt.Earth,"['Bengaluru', 'Non-U.S.']",Energy,70,0.4,2024-04-06T00:00:00.000Z,Series B,India,24
+Apple,['SF Bay Area'],Hardware,614,,2024-04-04T00:00:00.000Z,Post-IPO,United States,1200
+Agility Robotics,['Portland'],Other,,,2024-04-04T00:00:00.000Z,Series B,United States,179
+Lightspeed Commerce,"['Montreal', 'Non-U.S.']",Retail,280,,2024-04-03T00:00:00.000Z,Post-IPO,Canada,1200
+Ghost Autonomy,['SF Bay Area'],Transportation,100,1,2024-04-03T00:00:00.000Z,Series E,United States,247
+Vivian Health,['SF Bay Area'],Healthcare,13,,2024-04-03T00:00:00.000Z,Acquired,United States,60
+Amazon,['Seattle'],Retail,,,2024-04-03T00:00:00.000Z,Post-IPO,United States,108
+CoRover,"['Bengaluru', 'Non-U.S.']",AI,,,2024-04-03T00:00:00.000Z,Unknown,India,
+Kaseya,['Miami'],Security,,,2024-04-03T00:00:00.000Z,Unknown,United States,547
+New Relic,['SF Bay Area'],Infrastructure,,,2024-04-03T00:00:00.000Z,Acquired,United States,214
+Yummly,['SF Bay Area'],Food,,1,2024-04-03T00:00:00.000Z,Acquired,United States,24
+Byju's,"['Bengaluru', 'Non-U.S.']",Education,500,0.03,2024-04-02T00:00:00.000Z,Private Equity,India,5500
+Lentra,"['Pune', 'Non-U.S.']",Finance,,,2024-04-02T00:00:00.000Z,Series B,India,104
+Thepeer,"['Lagos', 'Non-U.S.']",Finance,,1,2024-04-02T00:00:00.000Z,Seed,Nigeria,2
+Osso VR,['SF Bay Area'],Healthcare,67,,2024-04-01T00:00:00.000Z,Series C,United States,109
+Identiq,"['Tel Aviv', 'Non-U.S.']",Security,20,0.44,2024-04-01T00:00:00.000Z,Series A,Israel,52
+Ranger Insurance,['New York City'],Finance,,1,2024-04-01T00:00:00.000Z,Seed,United States,5
+Rezi,['New York City'],Real Estate,,1,2024-04-01T00:00:00.000Z,Series B,United States,230
+ChowNow,['Los Angeles'],Food,60,0.2,2024-03-28T00:00:00.000Z,Series C,United States,64
+Synctera,['SF Bay Area'],Finance,17,0.15,2024-03-26T00:00:00.000Z,Series A,United States,79
+GoPro,['SF Bay Area'],Consumer,,0.04,2024-03-26T00:00:00.000Z,Post-IPO,United States,288
+Dell,['Austin'],Hardware,6000,0.05,2024-03-25T00:00:00.000Z,Post-IPO,United States,
+Verily,['SF Bay Area'],Healthcare,,,2024-03-22T00:00:00.000Z,Subsidiary,United States,3500
+Cybereason,['Boston'],Security,,,2024-03-20T00:00:00.000Z,Series F,United States,750
+ShopBack,"['Singapore', 'Non-U.S.']",Retail,195,0.24,2024-03-19T00:00:00.000Z,Series F,Singapore,355
+Orbotech,"['Yavne', 'Non-U.S.']",Manufacturing,100,,2024-03-19T00:00:00.000Z,Acquired,Israel,
+Airmeet,"['Bengaluru', 'Non-U.S.']",Marketing,,0.2,2024-03-19T00:00:00.000Z,Series B,India,50
+Singular Genomics,['San Diego'],Healthcare,,0.2,2024-03-19T00:00:00.000Z,Post-IPO,United States,176
+Longi,"[""Xi'an"", 'Non-U.S.']",Energy,,0.05,2024-03-18T00:00:00.000Z,Unknown,China,
+Flock Freight,['San Diego'],Logistics,54,,2024-03-16T00:00:00.000Z,Series D,United States,399
+Chipper Cash,['SF Bay Area'],Finance,20,,2024-03-15T00:00:00.000Z,Series C,United States,302
+Blueboard,['SF Bay Area'],HR,,1,2024-03-15T00:00:00.000Z,Series A,United States,16
+Ancestry,['Lehi'],Consumer,81,0.06,2024-03-14T00:00:00.000Z,Post-IPO,United States,33
+Textio,['Seattle'],Recruiting,14,0.16,2024-03-14T00:00:00.000Z,Unknown,United States,42
+Stash,['New York City'],Finance,80,0.25,2024-03-13T00:00:00.000Z,Unknown,United States,480
+Phantom Auto,['SF Bay Area'],Transportation,100,1,2024-03-12T00:00:00.000Z,Unknown,United States,86
+IBM,['New York City'],Hardware,,,2024-03-12T00:00:00.000Z,Post-IPO,United States,
+Deadspin,['New York City'],Media,11,1,2024-03-11T00:00:00.000Z,Acquired,United States,
+Niche,['Pittsburgh'],Education,24,0.07,2024-03-08T00:00:00.000Z,Series C,United States,44
+Inscribe,['SF Bay Area'],Finance,,0.4,2024-03-08T00:00:00.000Z,Series B,United States,39
+Turnitin,['SF Bay Area'],Education,15,0.02,2024-03-07T00:00:00.000Z,Acquired,United States,
+Totango,['SF Bay Area'],Support,,,2024-03-07T00:00:00.000Z,Acquired,United States,147
+Sorare,['New York City'],Crypto,22,0.13,2024-03-06T00:00:00.000Z,Series B,United States,739
+Meta,['SF Bay Area'],Consumer,,,2024-03-06T00:00:00.000Z,Post-IPO,United States,26000
+PlanetScale,['SF Bay Area'],Data,,,2024-03-06T00:00:00.000Z,Series C,United States,105
+MessageBird,"['Amsterdam', 'Non-U.S.']",Other,90,0.2,2024-03-05T00:00:00.000Z,Series C,Netherlands,1100
+Form Energy,['Boston'],Energy,,,2024-03-05T00:00:00.000Z,Unknown,United States,966
+Verbit,['New York City'],Data,,,2024-03-05T00:00:00.000Z,Series E,United States,569
+Edgio,['Phoenix'],Infrastructure,80,0.1,2024-03-04T00:00:00.000Z,Post-IPO,United States,462
+Melio,['New York City'],Finance,40,0.07,2024-03-04T00:00:00.000Z,Series D,United States,504
+Our Next Energy,['Detroit'],Transportation,40,0.13,2024-03-04T00:00:00.000Z,Series B,United States,390
+Project Ronin,['SF Bay Area'],Healthcare,150,1,2024-03-01T00:00:00.000Z,Unknown,United States,
+Pristyn Care,"['Gurugram', 'Non-U.S.']",Healthcare,120,0.07,2024-03-01T00:00:00.000Z,Series E,India,177
+Gro Intelligence,['New York City'],Food,90,0.6,2024-03-01T00:00:00.000Z,Series B,United States,118
+Tonik,"['Singapore', 'Non-U.S.']",Finance,,,2024-03-01T00:00:00.000Z,Series B,Singapore,175
+Fisker,['Los Angeles'],Transportation,,0.15,2024-02-29T00:00:00.000Z,Post-IPO,United States,1700
+Kevin,"['Vilnius', 'Non-U.S.']",Finance,,0.14,2024-02-29T00:00:00.000Z,Series A,Lithuania,79
+Electronic Arts,['SF Bay Area'],Consumer,670,0.05,2024-02-28T00:00:00.000Z,Post-IPO,United States,2
+Vacasa,['Portland'],Travel,320,0.05,2024-02-28T00:00:00.000Z,Post-IPO,United States,834
+OrCam,"['Jerusalem', 'Non-U.S.']",Healthcare,50,0.19,2024-02-28T00:00:00.000Z,Unknown,Israel,86
+Treasury Prime,['SF Bay Area'],Finance,40,0.4,2024-02-28T00:00:00.000Z,Series C,United States,71
+Motional,['Boston'],Transportation,,0.05,2024-02-28T00:00:00.000Z,Unknown,United States,
+Sony Interactive,['SF Bay Area'],Consumer,900,0.08,2024-02-27T00:00:00.000Z,Subsidiary,United States,
+Bumble,['Austin'],Consumer,350,0.3,2024-02-27T00:00:00.000Z,Post-IPO,United States,313
+PropertyGuru,"['Singapore', 'Non-U.S.']",Real Estate,79,,2024-02-27T00:00:00.000Z,Post-IPO,Singapore,676
+Apple,['SF Bay Area'],Transportation,,,2024-02-27T00:00:00.000Z,Post-IPO,United States,1200
+Expedia,['Seattle'],Travel,1500,0.08,2024-02-26T00:00:00.000Z,Post-IPO,United States,3300
+WayCool,"['Chennai', 'Non-U.S.']",Food,70,,2024-02-26T00:00:00.000Z,Unknown,India,363
+Daraz,"['Singapore', 'Non-U.S.']",Retail,,,2024-02-26T00:00:00.000Z,Unknown,Singapore,
+Redesign Health,['New York City'],Healthcare,77,,2024-02-23T00:00:00.000Z,Series C,United States,315
+Carbon Health,['SF Bay Area'],Healthcare,56,,2024-02-23T00:00:00.000Z,Series D,United States,522
+Vice Media,['New York City'],Media,,,2024-02-22T00:00:00.000Z,Unknown,United States,1600
+Affirm,['Pittsburgh'],Finance,60,,2024-02-21T00:00:00.000Z,Post-IPO,United States,1500
+Finder,"['Sydney', 'Non-U.S.']",Retail,60,0.17,2024-02-21T00:00:00.000Z,Unknown,Australia,30
+BuzzFeed,['New York City'],Media,,0.16,2024-02-21T00:00:00.000Z,Post-IPO,United States,696
+Rivian,['Detroit'],Transportation,,0.1,2024-02-21T00:00:00.000Z,Post-IPO,United States,10700
+Aptiv,"['Krakow', 'Non-U.S.']",Transportation,250,,2024-02-20T00:00:00.000Z,Post-IPO,Poland,8
+Tails.com,"['London', 'Non-U.S.']",Retail,55,0.25,2024-02-20T00:00:00.000Z,Series A,United Kingdom,5
+Auctane,['Austin'],Retail,,,2024-02-20T00:00:00.000Z,Unknown,United States,
+KnownOrigin,"['Manchester', 'Non-U.S.']",Crypto,,0.3,2024-02-20T00:00:00.000Z,Acquired,United Kingdom,3
+Meati,['Boulder'],Food,,0.3,2024-02-20T00:00:00.000Z,Series C,United States,274
+Farfetch,"['London', 'Non-U.S.']",Retail,2000,0.25,2024-02-16T00:00:00.000Z,Acquired,United Kingdom,1700
+Voi,"['Stockholm', 'Non-U.S.']",Transportation,120,0.12,2024-02-16T00:00:00.000Z,Series D,United States,515
+Toast,['Boston'],Food,550,0.1,2024-02-15T00:00:00.000Z,Post-IPO,United States,962
+Sonder,['SF Bay Area'],Travel,106,0.17,2024-02-15T00:00:00.000Z,Post-IPO,United States,839
+LinkSquares,['Boston'],Legal,90,,2024-02-15T00:00:00.000Z,Series C,United States,161
+Storytel,"['Stockholm', 'Non-U.S.']",Consumer,80,0.13,2024-02-15T00:00:00.000Z,Post-IPO,Sweden,312
+Gro Intelligence,['New York City'],Food,20,0.1,2024-02-15T00:00:00.000Z,Series B,United States,118
+CodeSee,['SF Bay Area'],Data,,1,2024-02-15T00:00:00.000Z,Seed,United States,10
+May Mobility,['Ann Arbor'],Transportation,,0.13,2024-02-15T00:00:00.000Z,Series D,United States,303
+Cisco,['SF Bay Area'],Infrastructure,4250,0.05,2024-02-14T00:00:00.000Z,Post-IPO,United States,2
+Wint Wealth,"['Nashik', 'Non-U.S.']",Finance,19,0.2,2024-02-14T00:00:00.000Z,Series A,India,16
+Away,['New York City'],Retail,,0.25,2024-02-14T00:00:00.000Z,Series D,United States,181
+Instacart,['SF Bay Area'],Food,250,0.07,2024-02-13T00:00:00.000Z,Post-IPO,United States,2900
+Redesign Health,['New York City'],Healthcare,77,,2024-02-13T00:00:00.000Z,Unknown,United States,315
+Mozilla,['SF Bay Area'],Consumer,60,0.05,2024-02-13T00:00:00.000Z,Unknown,United States,2.3
+Impinj,['Seattle'],Other,50,0.1,2024-02-13T00:00:00.000Z,Post-IPO,United States,137
+Riskified,['New York City'],Retail,40,0.06,2024-02-13T00:00:00.000Z,Post-IPO,United States,229
+Everybuddy,"['Tel Aviv', 'Non-U.S.']",Consumer,,1,2024-02-13T00:00:00.000Z,Series A,Israel,15
+Popcore,"['Berlin', 'Non-U.S.']",Consumer,,,2024-02-13T00:00:00.000Z,Acquired,Germany,
+Wisense,"['Tel Aviv', 'Non-U.S.']",Transportation,,1,2024-02-13T00:00:00.000Z,Unknown,Israel,37
+SiriusXM,['New York City'],Media,160,0.03,2024-02-12T00:00:00.000Z,Post-IPO,United States,525
+Licious,"['Bengaluru', 'Non-U.S.']",Food,80,0.03,2024-02-09T00:00:00.000Z,Series F,India,490
+BlissClub,"['Bengaluru', 'Non-U.S.']",Retail,21,0.18,2024-02-09T00:00:00.000Z,Series A,India,20
+Kandji,['San Diego'],Other,,,2024-02-09T00:00:00.000Z,Series C,United States,188
+Pure Storage,['SF Bay Area'],Data,275,,2024-02-08T00:00:00.000Z,Post-IPO,United States,529
+Otovo,"['Oslo', 'Non-U.S.']",Energy,65,0.15,2024-02-08T00:00:00.000Z,Post-IPO,Norway,247
+Getaround,['SF Bay Area'],Transportation,,0.3,2024-02-08T00:00:00.000Z,Post-IPO,United States,948
+Journera,['Chicago'],Travel,,1,2024-02-08T00:00:00.000Z,Series B,United States,31
+Grammarly,['SF Bay Area'],Consumer,230,,2024-02-07T00:00:00.000Z,Unknown,United States,400
+Fireblocks,['New York City'],Crypto,20,0.03,2024-02-07T00:00:00.000Z,Series E,United States,1000
+Tenable,['Baltimore'],Security,,0.05,2024-02-07T00:00:00.000Z,Post-IPO,United States,565
+Workfellow,"['Espoo', 'Non-U.S.']",HR,,1,2024-02-07T00:00:00.000Z,Seed,Finland,3
+DocuSign,['SF Bay Area'],Sales,440,0.06,2024-02-06T00:00:00.000Z,Post-IPO,United States,536
+Amazon,['Seattle'],Retail,400,,2024-02-06T00:00:00.000Z,Post-IPO,United States,108
+Glowforge,['Seattle'],Manufacturing,,,2024-02-06T00:00:00.000Z,Series E,United States,133
+Snap,['Los Angeles'],Consumer,500,0.1,2024-02-05T00:00:00.000Z,Post-IPO,United States,4900
+Drizly,['Boston'],Retail,168,1,2024-02-05T00:00:00.000Z,Acquired,United States,119
+BillGO,['Fort Collins'],Finance,80,,2024-02-05T00:00:00.000Z,Series B,United States,119
+Impact.com,['Los Angeles'],Sales,40,0.03,2024-02-05T00:00:00.000Z,Private Equity,United States,361
+Astrate Medical,['Philadelphia'],Healthcare,,1,2024-02-05T00:00:00.000Z,Series A,United States,13
+Meetup,['New York City'],Consumer,,,2024-02-05T00:00:00.000Z,Acquired,United States,18
+Muvin,"['Bengaluru', 'Non-U.S.']",Finance,,1,2024-02-05T00:00:00.000Z,Seed,India,4
+Nomad Health,['New York City'],Healthcare,,,2024-02-05T00:00:00.000Z,Unknown,United States,218
+Zwift,['Los Angeles'],Fitness,,,2024-02-05T00:00:00.000Z,Series C,United States,619
+Cue Health,['San Diego'],Healthcare,245,0.3,2024-02-02T00:00:00.000Z,Post-IPO,United States,899
+Top Hat,"['Toronto', 'Non-U.S.']",Education,35,0.07,2024-02-02T00:00:00.000Z,Series E,Canada,234
+Cake Bikes,"['Stockholm', 'Non-U.S.']",Transportation,,1,2024-02-02T00:00:00.000Z,Unknown,Sweden,74
+Small Robot Company,"['Salisbury', 'Non-U.S.']",Food,,1,2024-02-02T00:00:00.000Z,Unknown,United Kingdom,10
+Twig,"['London', 'Non-U.S.']",Finance,,1,2024-02-02T00:00:00.000Z,Unknown,United Kingdom,41
+Okta,['SF Bay Area'],Security,400,0.07,2024-02-01T00:00:00.000Z,Post-IPO,United States,1200
+Zoom,['SF Bay Area'],Other,150,0.02,2024-02-01T00:00:00.000Z,Post-IPO,United States,276
+Illumina,['San Diego'],Healthcare,111,,2024-02-01T00:00:00.000Z,Post-IPO,United States,28
+Polygon,"['Cayman Islands', 'Non-U.S.']",Crypto,60,0.19,2024-02-01T00:00:00.000Z,Unknown,Cayman Islands,451
+Indigo,['Boston'],Other,,,2024-02-01T00:00:00.000Z,Series F,United States,1200
+Proofpoint,['SF Bay Area'],Security,280,0.06,2024-01-31T00:00:00.000Z,Acquired,United States,885
+Trove Recommerce,['SF Bay Area'],Retail,130,,2024-01-31T00:00:00.000Z,Series E,United States,152
+CircleCI,['SF Bay Area'],Product,100,,2024-01-31T00:00:00.000Z,Series F,United States,315
+Thinx,['New York City'],Retail,95,,2024-01-31T00:00:00.000Z,Acquired,United States,26
+Innoviz,"['Tel Aviv', 'Non-U.S.']",Transportation,60,0.13,2024-01-31T00:00:00.000Z,Post-IPO,Israel,547
+The Messenger,['Miami'],Media,,1,2024-01-31T00:00:00.000Z,Unknown,United States,
+Zuora,['SF Bay Area'],Finance,,0.08,2024-01-31T00:00:00.000Z,Post-IPO,United States,647
+PayPal,['SF Bay Area'],Finance,2500,0.09,2024-01-30T00:00:00.000Z,Post-IPO,United States,216
+Block,['SF Bay Area'],Finance,1000,0.1,2024-01-30T00:00:00.000Z,Post-IPO,United States,150
+Kiwi.com,"['Brno', 'Non-U.S.']",Travel,216,0.18,2024-01-30T00:00:00.000Z,Unknown,Czech Republic,107
+Aurora Solar,['SF Bay Area'],Energy,111,0.2,2024-01-30T00:00:00.000Z,Series D,United States,523
+Wattpad,"['Toronto', 'Non-U.S.']",Media,20,0.1,2024-01-30T00:00:00.000Z,Acquired,Canada,117
+TechCrunch,['SF Bay Area'],Media,7,,2024-01-30T00:00:00.000Z,Acquired,United States,
+Noom,['New York City'],Fitness,,,2024-01-30T00:00:00.000Z,Series F,United States,657
+Procore,['Santa Barbara'],Construction,,0.04,2024-01-30T00:00:00.000Z,Post-IPO,United States,654
+Vipps,"['Vilnius', 'Non-U.S.']",Finance,,,2024-01-30T00:00:00.000Z,Unknown,Lithuania,
+iRobot,['Boston'],Consumer,350,0.31,2024-01-29T00:00:00.000Z,Post-IPO,United States,30
+DispatchHealth,['Denver'],Healthcare,88,,2024-01-29T00:00:00.000Z,Series E,United States,733
+Loopio,"['Toronto', 'Non-U.S.']",Sales,,0.06,2024-01-29T00:00:00.000Z,Private Equity,Canada,263
+Salesforce,['SF Bay Area'],Sales,700,0.01,2024-01-26T00:00:00.000Z,Post-IPO,United States,65
+Flexport,['SF Bay Area'],Logistics,,0.2,2024-01-26T00:00:00.000Z,Series E,United States,2400
+Productboard,['SF Bay Area'],Product,,,2024-01-26T00:00:00.000Z,Series D,United States,
+Microsoft,['Seattle'],Other,1900,,2024-01-25T00:00:00.000Z,Post-IPO,United States,1
+Swiggy,"['Bengaluru', 'Non-U.S.']",Food,400,0.07,2024-01-25T00:00:00.000Z,Unknown,India,3600
+Veho,['Boulder'],Logistics,65,0.19,2024-01-25T00:00:00.000Z,Series B,United States,299
+Amperity,['Seattle'],Marketing,20,,2024-01-25T00:00:00.000Z,Series D,United States,187
+MVPindex,['Austin'],Marketing,12,0.3,2024-01-25T00:00:00.000Z,Series B,United States,27
+Business Insider,['New York City'],Media,,0.08,2024-01-25T00:00:00.000Z,Acquired,United States,56
+Cova,"['Lagos', 'Non-U.S.']",Finance,,1,2024-01-25T00:00:00.000Z,Unknown,Nigeria,
+Jamf,['Minneapolis'],Other,,0.06,2024-01-25T00:00:00.000Z,Post-IPO,United States,332
+Cult.fit,"['Bengaluru', 'Non-U.S.']",Fitness,100,,2024-01-24T00:00:00.000Z,Series F,India,635
+Personio,"['Munich', 'Non-U.S.']",HR,100,,2024-01-24T00:00:00.000Z,Series E,Germany,724
+Storytel,"['Stockholm', 'Non-U.S.']",Media,80,0.13,2024-01-24T00:00:00.000Z,Post-IPO,Sweden,275
+Aurora,['Pittsburgh'],Transportation,,0.03,2024-01-24T00:00:00.000Z,Post-IPO,United States,3700
+Desktop Metal,['Boston'],Other,,0.2,2024-01-24T00:00:00.000Z,Post-IPO,United States,811
+HubSpot,['Boston'],Marketing,,,2024-01-24T00:00:00.000Z,Post-IPO,United States,100
+SAP,"['Walldorf', 'Non-U.S.']",Other,8000,0.07,2024-01-23T00:00:00.000Z,Post-IPO,Germany,1300
+eBay,['SF Bay Area'],Retail,1000,0.09,2024-01-23T00:00:00.000Z,Post-IPO,United States,1200
+Vroom,['New York City'],Transportation,800,0.9,2024-01-23T00:00:00.000Z,Post-IPO,United States,1300
+Brex,['SF Bay Area'],Finance,282,0.2,2024-01-23T00:00:00.000Z,Series D,United States,1500
+Cure.fit,"['Bengaluru', 'Non-U.S.']",Fitness,120,,2024-01-23T00:00:00.000Z,Series F,India,625
+GoStudent,"['Vienna', 'Non-U.S.']",Education,100,,2024-01-23T00:00:00.000Z,Series D,Austria,686
+Jellysmack,"['Paris', 'Non-U.S.']",Media,30,,2024-01-23T00:00:00.000Z,Series C,France,22
+GoTo,['Boston'],Other,29,,2024-01-23T00:00:00.000Z,Acquired,United States,2
+Seedr,"['London', 'Non-U.S.']",Finance,15,,2024-01-23T00:00:00.000Z,Acquired,United Kingdom,28
+Riot Games,['Los Angeles'],Consumer,530,0.11,2024-01-22T00:00:00.000Z,Acquired,United States,21
+Xendit,"['Jakarta', 'Non-U.S.']",Finance,200,,2024-01-22T00:00:00.000Z,Series D,Indonesia,534
+TikTok,['Los Angeles'],Consumer,60,,2024-01-22T00:00:00.000Z,Acquired,United States,
+2U,['Washington D.C.'],Education,,,2024-01-22T00:00:00.000Z,Post-IPO,United States,426
+Google,['SF Bay Area'],Consumer,,,2024-01-22T00:00:00.000Z,Post-IPO,United States,26
+Xendit,"['Jakarta', 'Non-U.S.']",Finance,,,2024-01-22T00:00:00.000Z,Series D,Indonesia,534
+SolarEdge,"['Tel Aviv', 'Non-U.S.']",Energy,900,0.16,2024-01-21T00:00:00.000Z,Post-IPO,Israel,155
+Wayfair,['Boston'],Retail,1650,0.13,2024-01-19T00:00:00.000Z,Post-IPO,United States,1700
+Amazon,['Seattle'],Retail,30,,2024-01-18T00:00:00.000Z,Post-IPO,United States,108
+Fashinza,['New York City'],Retail,,,2024-01-18T00:00:00.000Z,Unknown,United States,153
+Stitch Fix,['Dallas'],Retail,,,2024-01-18T00:00:00.000Z,Post-IPO,United States,79
+YouTube,['SF Bay Area'],Media,100,,2024-01-17T00:00:00.000Z,Acquired,United States,11
+Sirplus,"['Berlin', 'Non-U.S.']",Food,60,,2024-01-17T00:00:00.000Z,Seed,Germany,
+SonderMind,['Denver'],Healthcare,49,0.17,2024-01-16T00:00:00.000Z,Series C,United States,183
+First Mode,['Seattle'],Transportation,48,0.2,2024-01-16T00:00:00.000Z,Acquired,United States,9
+ALI Technologies,"['Tokyo', 'Non-U.S.']",Transportation,,1,2024-01-16T00:00:00.000Z,Unknown,Japan,
+Google,['SF Bay Area'],Consumer,,,2024-01-16T00:00:00.000Z,Post-IPO,United States,26
+Thursday,"['London', 'Non-U.S.']",Consumer,,0.7,2024-01-16T00:00:00.000Z,Seed,United Kingdom,3
+Veeam,['Columbus'],Data,300,,2024-01-12T00:00:00.000Z,Acquired,United States,500
+GrabCAD,"['Tallinn', 'Non-U.S.']",Other,13,,2024-01-12T00:00:00.000Z,Acquired,Estonia,28
+Artifact,['SF Bay Area'],Media,,1,2024-01-12T00:00:00.000Z,Unknown,United States,
+Dastgyr,"['Karachi', 'Non-U.S.']",Retail,,0.8,2024-01-12T00:00:00.000Z,Series A,Pakistan,41
+Hologram,['Chicago'],Infrastructure,,,2024-01-12T00:00:00.000Z,Unknown,United States,82
+Vendr,['Boston'],Other,,,2024-01-12T00:00:00.000Z,Series B,United States,216
+New Work SE,"['Hamburg', 'Non-U.S.']",Consumer,400,,2024-01-11T00:00:00.000Z,Post-IPO,Germany,
+Playtika,"['Tel Aviv', 'Non-U.S.']",Consumer,300,0.1,2024-01-11T00:00:00.000Z,Post-IPO,Israel,
+Discord,['SF Bay Area'],Consumer,170,0.17,2024-01-11T00:00:00.000Z,Series H,United States,995
+Inmobi,"['Bengaluru', 'Non-U.S.']",Marketing,125,0.05,2024-01-11T00:00:00.000Z,Unknown,India,320
+Audible,['New York City'],Media,100,0.05,2024-01-11T00:00:00.000Z,Acquired,United States,14
+7Shifts,"['Saskatoon', 'Non-U.S.']",Food,68,0.19,2024-01-11T00:00:00.000Z,Series C,Canada,131
+Sisense,['New York City'],Data,60,0.13,2024-01-11T00:00:00.000Z,Series F,United States,274
+Cloudflare,['SF Bay Area'],Security,40,,2024-01-11T00:00:00.000Z,Post-IPO,United States,332
+888,"['Tel Aviv', 'Non-U.S.']",Consumer,,,2024-01-11T00:00:00.000Z,Post-IPO,Israel,
+Certinia,['SF Bay Area'],Other,,,2024-01-11T00:00:00.000Z,Unknown,United States,194
+Chief,['New York City'],HR,,,2024-01-11T00:00:00.000Z,Series B,United States,140
+Dextrous Robotics,['Memphis'],Logistics,,1,2024-01-11T00:00:00.000Z,Unknown,United States,
+Citrix,['Miami'],Infrastructure,1000,0.12,2024-01-10T00:00:00.000Z,Acquired,United States,20
+Google,['SF Bay Area'],Consumer,1000,,2024-01-10T00:00:00.000Z,Post-IPO,United States,26
+IAC,['New York City'],Consumer,330,,2024-01-10T00:00:00.000Z,Post-IPO,United States,
+FreshDirect,['New York City'],Food,100,0.03,2024-01-10T00:00:00.000Z,Acquired,United States,280
+Beam Benefits,['Columbus'],Healthcare,74,,2024-01-10T00:00:00.000Z,Series E,United States,168
+Instagram,['SF Bay Area'],Consumer,60,,2024-01-10T00:00:00.000Z,Acquired,United States,57
+Amazon,['Seattle'],Retail,,,2024-01-10T00:00:00.000Z,Post-IPO,United States,108
+ChargePoint,['SF Bay Area'],Manufacturing,,0.12,2024-01-10T00:00:00.000Z,Unknown,United States,1400
+SoFi,['SF Bay Area'],Finance,,0.04,2024-01-10T00:00:00.000Z,Post-IPO,United States,3000
+Twitch,['SF Bay Area'],Consumer,500,0.35,2024-01-09T00:00:00.000Z,Acquired,United States,35
+Branch,['Columbus'],Finance,85,,2024-01-09T00:00:00.000Z,Series C,United States,229
+Nevro,['SF Bay Area'],Healthcare,63,0.05,2024-01-09T00:00:00.000Z,Post-IPO,United States,556
+FullStory,['Atlanta'],Marketing,50,0.1,2024-01-09T00:00:00.000Z,Unknown,United States,197
+Uber Freight,['SF Bay Area'],Logistics,40,,2024-01-09T00:00:00.000Z,Subsidiary,United States,2700
+Rent the Runway,['New York City'],Retail,37,0.1,2024-01-09T00:00:00.000Z,Post-IPO,United States,526
+Treasure Financial,['SF Bay Area'],Finance,14,0.6,2024-01-09T00:00:00.000Z,Series A,United States,14
+Humane,['SF Bay Area'],Hardware,10,0.04,2024-01-09T00:00:00.000Z,Series C,United States,230
+EVBox,"['Amsterdam', 'Non-U.S.']",Energy,,,2024-01-09T00:00:00.000Z,Post-IPO,Netherlands,
+Morning Consult,['Washington D.C.'],Data,,,2024-01-09T00:00:00.000Z,Series B,United States,91
+Trend Micro,"['Tokyo', 'Non-U.S.']",Security,,0.02,2024-01-09T00:00:00.000Z,Unknown,Japan,
+Unity,['SF Bay Area'],Other,1800,0.25,2024-01-08T00:00:00.000Z,Post-IPO,United States,1300
+Flipkart,"['Bengaluru', 'Non-U.S.']",Retail,1100,0.05,2024-01-08T00:00:00.000Z,Acquired,India,12900
+NuScale Power,['Corvallis'],Energy,154,0.28,2024-01-08T00:00:00.000Z,Post-IPO,United States,470
+Flexe,['Seattle'],Logistics,99,0.38,2024-01-08T00:00:00.000Z,Series D,United States,263
+Pitch,"['Berlin', 'Non-U.S.']",Other,80,0.67,2024-01-08T00:00:00.000Z,Series B,Germany,138
+BenchSci,"['Toronto', 'Non-U.S.']",Healthcare,70,0.17,2024-01-08T00:00:00.000Z,Series D,Canada,164
+Here,['Miami'],Real Estate,,1,2024-01-08T00:00:00.000Z,Seed,United States,5
+Ledger Investing,['New York City'],Finance,,0.25,2024-01-08T00:00:00.000Z,Series B,United States,91
+Lendio,['Lehi'],Finance,,,2024-01-08T00:00:00.000Z,Series E,United States,108
+MeridianLink,['Los Angeles'],Finance,,0.09,2024-01-08T00:00:00.000Z,Post-IPO,United States,485
+LiveVox,['SF Bay Area'],Support,,,2024-01-07T00:00:00.000Z,Acquired,United States,12
+NanoString Technologies,['Seattle'],Healthcare,50,0.09,2024-01-06T00:00:00.000Z,Post-IPO,United States,826
+Cue Health,['San Diego'],Healthcare,94,0.13,2024-01-05T00:00:00.000Z,Post-IPO,United States,899
+Lever,['SF Bay Area'],Recruiting,,,2024-01-05T00:00:00.000Z,Acquired,United States,123
+Trigo,"['Tel Aviv', 'Non-U.S.']",Retail,30,0.15,2024-01-04T00:00:00.000Z,Series C,Israel,199
+InVision,['New York City'],Product,,1,2024-01-04T00:00:00.000Z,Series F,United States,356
+VideoAmp,['Los Angeles'],Marketing,,0.2,2024-01-04T00:00:00.000Z,Series F,United States,456
+Xerox,['Norwalk'],Hardware,3000,0.15,2024-01-03T00:00:00.000Z,Post-IPO,United States,27200
+Lazada Group ,"['Singapore', 'Non-U.S.']",Retail,100,0.3,2024-01-03T00:00:00.000Z,Acquired,Singapore,7200
+Orca Security,"['Tel Aviv', 'Non-U.S.']",Security,60,0.15,2024-01-03T00:00:00.000Z,Series C,Israel,632
+Frontdesk,['Milwaukee'],Travel,200,1,2024-01-02T00:00:00.000Z,Unknown,United States,26
+The Messenger,['New York City'],Media,24,,2024-01-02T00:00:00.000Z,Unknown,United States,
+Ocado,"['London', 'Non-U.S.']",Food,1000,,2023-12-31T00:00:00.000Z,Post-IPO,United Kingdom,2000
+Bolt.Earth,"['Bengaluru', 'Non-U.S.']",Energy,,0.2,2023-12-29T00:00:00.000Z,Series B,India,24
+Strake,['Boulder'],Infrastructure,,1,2023-12-28T00:00:00.000Z,Unknown,United States,
+Paytm,"['Noida', 'Non-U.S.']",Finance,1000,,2023-12-25T00:00:00.000Z,Unknown,India,
+Intel,['Sacramento'],Hardware,311,,2023-12-21T00:00:00.000Z,Post-IPO,United States,12
+Hyperloop One,['Los Angeles'],Transportation,,1,2023-12-21T00:00:00.000Z,Unknown,United States,368
+Palmetto Clean Technology,['Charleston'],Energy,,,2023-12-21T00:00:00.000Z,Private Equity,United States,628
+ShareChat,"['Bengaluru', 'Non-U.S.']",Consumer,200,0.15,2023-12-20T00:00:00.000Z,Series H,India,1700
+InSightec,"['Haifa', 'Non-U.S.']",Healthcare,100,0.2,2023-12-19T00:00:00.000Z,Unknown,United States,733
+Kaspien,['Seattle'],Retail,,1,2023-12-19T00:00:00.000Z,Post-IPO,United States,52
+Enphase Energy,['SF Bay Area'],Energy,350,0.1,2023-12-18T00:00:00.000Z,Post-IPO,United States,116
+Udaan,"['Bengaluru', 'Non-U.S.']",Retail,100,0.1,2023-12-18T00:00:00.000Z,Unknown,India,1500
+Checkout.com,"['London', 'Non-U.S.']",Finance,80,,2023-12-18T00:00:00.000Z,Series D,United Kingdom,1800
+Arm Holdings,"['Shanghai', 'Non-U.S.']",Hardware,70,,2023-12-18T00:00:00.000Z,Post-IPO,China,
+Delivery Hero,"['Berlin', 'Non-U.S.']",Food,,,2023-12-18T00:00:00.000Z,Post-IPO,Germany,9900
+eBay,"['Tel Aviv', 'Non-U.S.']",Retail,20,,2023-12-17T00:00:00.000Z,Post-IPO,United States,1200
+Glowforge,['Seattle'],Manufacturing,30,,2023-12-15T00:00:00.000Z,Series E,United States,133
+Jellysmack,"['Paris', 'Non-U.S.']",Media,,,2023-12-15T00:00:00.000Z,Series C,France,22
+Superpedestrian,['Boston'],Transportation,,,2023-12-15T00:00:00.000Z,Series C,United States,262
+Cruise,['SF Bay Area'],Transportation,900,0.24,2023-12-14T00:00:00.000Z,Acquired,United States,15000
+Solarisbank,"['Berlin', 'Non-U.S.']",Finance,20,,2023-12-14T00:00:00.000Z,Unknown,Germany,385
+Bolt,['SF Bay Area'],Finance,,0.29,2023-12-14T00:00:00.000Z,Series E,United States,1300
+Curalie,"['Berlin', 'Non-U.S.']",Healthcare,,1,2023-12-14T00:00:00.000Z,Unknown,Germany,
+Curbio,['Washington D.C.'],Real Estate,,,2023-12-14T00:00:00.000Z,Series B,United States,76
+Flyhomes,['Seattle'],Real Estate,,,2023-12-14T00:00:00.000Z,Series C,United States,310
+Stellar Pizza,['Los Angeles'],Food,,0.5,2023-12-14T00:00:00.000Z,Series A,United States,25
+Invitae,['SF Bay Area'],Healthcare,235,0.15,2023-12-13T00:00:00.000Z,Post-IPO,United States,2500
+Etsy,['New York City'],Retail,225,0.11,2023-12-13T00:00:00.000Z,Post-IPO,United States,97
+Analog Devices,['SF Bay Area'],Manufacturing,111,,2023-12-13T00:00:00.000Z,Post-IPO,United States,
+ForgeRock,['SF Bay Area'],Other,109,,2023-12-13T00:00:00.000Z,Acquired,United States,234
+Flex,['SF Bay Area'],Manufacturing,31,,2023-12-13T00:00:00.000Z,Unknown,United States,
+FourKites,['Chicago'],Logistics,,0.15,2023-12-13T00:00:00.000Z,Unknown,United States,241
+Sojern,['SF Bay Area'],Marketing,,0.2,2023-12-13T00:00:00.000Z,Unknown,United States,172
+TomTom,"['Lodz', 'Non-U.S.']",Transportation,45,,2023-12-12T00:00:00.000Z,Post-IPO,Poland,
+Chipper Cash,['SF Bay Area'],Finance,15,0.33,2023-12-11T00:00:00.000Z,Series C,United States,302
+Jungle Scout,['Austin'],Retail,,,2023-12-09T00:00:00.000Z,Private Equity,United States,110
+SmileDirectClub,['Nashville'],Healthcare,,1,2023-12-09T00:00:00.000Z,Post-IPO,United States,694
+Sunfolding,['SF Bay Area'],Energy,,1,2023-12-09T00:00:00.000Z,Series B,United States,32
+Zulily,['Seattle'],Retail,839,1,2023-12-08T00:00:00.000Z,Acquired,United States,194
+D2iQ,['SF Bay Area'],Infrastructure,,1,2023-12-08T00:00:00.000Z,Series D,United States,247
+Simplilearn,"['Bengaluru', 'Non-U.S.']",Education,200,,2023-12-07T00:00:00.000Z,Acquired,India,76
+Rivian,['Detroit'],Transportation,20,,2023-12-07T00:00:00.000Z,Post-IPO,United States,10700
+Atmosphere,['Austin'],Other,,,2023-12-07T00:00:00.000Z,Series D,United States,214
+Navan,['SF Bay Area'],Travel,145,,2023-12-06T00:00:00.000Z,Unknown,United States,2200
+Tidal,['New York City'],Consumer,40,0.1,2023-12-06T00:00:00.000Z,Acquired,United States,
+ZestMoney,"['Bengaluru', 'Non-U.S.']",Finance,150,1,2023-12-05T00:00:00.000Z,Series C,India,120
+Navan,['SF Bay Area'],Finance,145,0.05,2023-12-05T00:00:00.000Z,Unknown,United States,2200
+Incredibuild,"['Tel Aviv', 'Non-U.S.']",Product,40,0.2,2023-12-05T00:00:00.000Z,Series B,Israel,35
+Bill.com,['SF Bay Area'],Finance,,0.15,2023-12-05T00:00:00.000Z,Post-IPO,United States,280
+Contentful,"['Berlin', 'Non-U.S.']",Marketing,,,2023-12-05T00:00:00.000Z,Series F,Germany,350
+Course Hero,['SF Bay Area'],Education,,0.25,2023-12-05T00:00:00.000Z,Series C,United States,477
+Pivo,"['Abuja', 'Non-U.S.']",Finance,,1,2023-12-05T00:00:00.000Z,Seed,Nigeria,3
+Yahoo,['SF Bay Area'],Consumer,,,2023-12-05T00:00:00.000Z,Acquired,United States,6
+Spotify,"['Stockholm', 'Non-U.S.']",Media,1500,0.17,2023-12-04T00:00:00.000Z,Post-IPO,Sweden,2100
+TuSimple,['San Diego'],Transportation,150,,2023-12-04T00:00:00.000Z,Post-IPO,United States,648
+Meow Wolf,['Santa Fe'],Media,8,,2023-12-04T00:00:00.000Z,Unknown,United States,185
+DwellWell,['Los Angeles'],Real Estate,,1,2023-12-04T00:00:00.000Z,Seed,United States,6
+Twilio,['SF Bay Area'],Other,,0.05,2023-12-04T00:00:00.000Z,Post-IPO,United States,614
+Filmic,['Seattle'],Other,,1,2023-12-01T00:00:00.000Z,Acquired,United States,
+Loco,"['Mumbai', 'Non-U.S.']",Consumer,40,0.36,2023-11-30T00:00:00.000Z,Acquired,India,52
+Zepz,"['London', 'Non-U.S.']",Finance,30,0.02,2023-11-30T00:00:00.000Z,Series E,United Kingdom,700
+Domo,['Salt Lake City'],Data,,0.07,2023-11-30T00:00:00.000Z,Post-IPO,United States,689
+Mojo,['New York City'],Consumer,,,2023-11-30T00:00:00.000Z,Unknown,United States,100
+Pipedrive,"['Tallinn', 'Non-U.S.']",Sales,,,2023-11-30T00:00:00.000Z,Private Equity,Estonia,90
+Vox Media,['Washington D.C.'],Media,,0.04,2023-11-30T00:00:00.000Z,Series F,United States,307
+Unity,['SF Bay Area'],Other,265,0.04,2023-11-28T00:00:00.000Z,Post-IPO,United States,1300
+Dataminr,['New York City'],AI,150,0.2,2023-11-28T00:00:00.000Z,Series F,United States,1100
+Multiverse,"['London', 'Non-U.S.']",Education,,0.05,2023-11-28T00:00:00.000Z,Series D,United Kingdom,414
+Tier Mobility,"['Berlin', 'Non-U.S.']",Transportation,,0.22,2023-11-28T00:00:00.000Z,Series D,Germany,646
+VMware,['SF Bay Area'],Infrastructure,2837,,2023-11-27T00:00:00.000Z,Acquired,United States,393
+Bytedance,"['Shanghai', 'Non-U.S.']",Consumer,1000,,2023-11-27T00:00:00.000Z,Unknown,China,9400
+Our Next Energy,['Detroit'],Transportation,128,0.25,2023-11-27T00:00:00.000Z,Series B,United States,390
+Veev,['SF Bay Area'],Construction,,1,2023-11-26T00:00:00.000Z,Series D,United States,597
+Anar,"['Mumbai', 'Non-U.S.']",Marketing,,1,2023-11-25T00:00:00.000Z,Seed,India,6
+Alerzo,"['Ibadan', 'Non-U.S.']",Retail,100,,2023-11-21T00:00:00.000Z,Series B,Nigeria,16
+McMakler,"['Berlin', 'Non-U.S.']",Real Estate,60,,2023-11-21T00:00:00.000Z,Unknown,Germany,214
+Tulip Retail,"['Toronto', 'Non-U.S.']",Retail,25,,2023-11-21T00:00:00.000Z,Series C,Canada,79
+Jodo,"['Bengaluru', 'Non-U.S.']",Finance,100,,2023-11-20T00:00:00.000Z,Series A,India,19
+C3.ai,['SF Bay Area'],AI,,,2023-11-20T00:00:00.000Z,Series F,United States,228
+Presto,['SF Bay Area'],Food,,0.17,2023-11-20T00:00:00.000Z,Post-IPO,United States,167
+Physics Wallah,"['Noida', 'Non-U.S.']",Education,120,0.01,2023-11-19T00:00:00.000Z,Series A,India,100
+NextGen Healthcare,['St. Louis'],Healthcare,84,,2023-11-17T00:00:00.000Z,Acquired,United States,
+Amazon,['Seattle'],Retail,,,2023-11-17T00:00:00.000Z,Post-IPO,United States,108
+Buildertrend,['Omaha'],Construction,,0.16,2023-11-17T00:00:00.000Z,Unknown,United States,
+Jane,['Lehi'],Retail,,1,2023-11-17T00:00:00.000Z,Series A,United States,40
+Zazuu,['London'],Finance,,,2023-11-17T00:00:00.000Z,Unknown,United Kingdom,
+Sierra Space,['Boulder'],Aerospace,115,,2023-11-16T00:00:00.000Z,Series B,United States,1700
+Paystack,"['Lagos', 'Non-U.S.']",Finance,33,,2023-11-16T00:00:00.000Z,Acquired,Nigeria,10
+Beamery,"['London', 'Non-U.S.']",HR,,0.25,2023-11-16T00:00:00.000Z,Series D,United Kingdom,223
+Sonos,['New York City'],Consumer,,,2023-11-16T00:00:00.000Z,Post-IPO,United States,455.2
+FintechOS,"['Bucharest', 'Non-U.S.']",Finance,,,2023-11-15T00:00:00.000Z,Series B,Romania,91
+FreshBooks,"['Toronto', 'Non-U.S.']",Finance,,0.06,2023-11-15T00:00:00.000Z,Unknown,Canada,331
+Landing,['Birmingham'],Real Estate,,,2023-11-15T00:00:00.000Z,Series C,United States,347
+Singular Genomics,['San Diego'],Healthcare,,0.1,2023-11-15T00:00:00.000Z,Post-IPO,United States,176
+Uleet,['Columbus'],Healthcare,,1,2023-11-15T00:00:00.000Z,Unknown,United States,
+Chewy,['Miami'],Retail,200,,2023-11-14T00:00:00.000Z,Post-IPO,United States,451
+Sarcos,['Pittsburgh'],Aerospace,150,,2023-11-14T00:00:00.000Z,Post-IPO,United States,316
+Cake Group,"['Singapore', 'Non-U.S.']",Crypto,50,0.3,2023-11-14T00:00:00.000Z,Unknown,Singapore,
+Halodoc,"['Jakarta', 'Non-U.S.']",Healthcare,,,2023-11-14T00:00:00.000Z,Series D,India,245
+Markforged,['Boston'],Manufacturing,,,2023-11-14T00:00:00.000Z,Post-IPO,United States,347
+Ping Identity,['Denver'],Security,,,2023-11-14T00:00:00.000Z,Acquired,United States,128
+Amazon,['Seattle'],Retail,180,,2023-11-13T00:00:00.000Z,Post-IPO,United States,108
+TripAdvisor,['Boston'],Travel,125,0.04,2023-11-12T00:00:00.000Z,Post-IPO,United States,3
+Bowery Farming,['New York City'],Food,,,2023-11-10T00:00:00.000Z,Unknown,United States,626
+Carta,['SF Bay Area'],HR,,,2023-11-09T00:00:00.000Z,Series G,United States,1100
+Commure,['SF Bay Area'],Healthcare,,,2023-11-09T00:00:00.000Z,Unknown,United States,1900
+OSlash,"['Bengaluru', 'Non-U.S.']",Other,,1,2023-11-09T00:00:00.000Z,Seed,India,7
+Snap,['Los Angeles'],Consumer,20,,2023-11-08T00:00:00.000Z,Post-IPO,United States,4900
+Amazon,['Seattle'],Retail,,,2023-11-08T00:00:00.000Z,Post-IPO,United States,108
+BigCommerce,['Austin'],Retail,,0.07,2023-11-08T00:00:00.000Z,Post-IPO,United States,224
+CloudKitchens,['Los Angeles'],Real Estate,,,2023-11-08T00:00:00.000Z,Unknown,United States,1300
+Google,['SF Bay Area'],Consumer,,,2023-11-08T00:00:00.000Z,Post-IPO,United States,26
+Oportun,['SF Bay Area'],Finance,185,0.07,2023-11-07T00:00:00.000Z,Post-IPO,United States,766
+Zillow,['Seattle'],Real Estate,23,,2023-11-07T00:00:00.000Z,Post-IPO,United States,97
+Nextdoor,['SF Bay Area'],Consumer,,0.25,2023-11-07T00:00:00.000Z,Post-IPO,United States,736
+Zeus Living,['SF Bay Area'],Real Estate,,1,2023-11-07T00:00:00.000Z,Series C,United States,151
+Ava Labs,['New York City'],Crypto,,0.12,2023-11-06T00:00:00.000Z,Unknown,United States,640
+Homie,['Salt Lake City'],Real Estate,,,2023-11-06T00:00:00.000Z,Series B,United States,35
+Moore Threads,"['Beijing', 'Non-U.S.']",Hardware,,,2023-11-06T00:00:00.000Z,Series B,China,
+Pico Interactive,['SF Bay Area'],Other,,,2023-11-06T00:00:00.000Z,Acquired,United States,62
+F5,['Seattle'],Security,120,0.02,2023-11-03T00:00:00.000Z,Post-IPO,United States,
+NIO,"['Shanghai', 'Non-U.S.']",Transportation,,0.1,2023-11-03T00:00:00.000Z,Post-IPO,China,7200
+OpenSea,['New York City'],Crypto,,0.5,2023-11-03T00:00:00.000Z,Series C,United States,427
+Viasat,['San Diego'],Other,800,0.1,2023-11-02T00:00:00.000Z,Post-IPO,United States,366
+Beyond Meat,['Los Angeles'],Food,65,0.08,2023-11-02T00:00:00.000Z,Post-IPO,United States,122
+OpenSpace,['SF Bay Area'],Construction,,,2023-11-02T00:00:00.000Z,Series D,United States,200
+Orchard,['New York City'],Real Estate,,,2023-11-02T00:00:00.000Z,Series D,United States,472
+Sportradar,"['St. Gallen', 'Non-U.S.']",Data,,0.1,2023-11-02T00:00:00.000Z,Post-IPO,Switzerland,84
+Informatica,['SF Bay Area'],Data,545,0.1,2023-11-01T00:00:00.000Z,Post-IPO,United States,
+Splunk,['SF Bay Area'],Data,500,0.07,2023-11-01T00:00:00.000Z,Post-IPO,United States,2400
+Faire,['SF Bay Area'],Retail,250,0.2,2023-11-01T00:00:00.000Z,Series G,United States,1700
+Sana Benefits,['Austin'],HR,73,0.5,2023-11-01T00:00:00.000Z,Series B,United States,106
+Olive,['Columbus'],Healthcare,,1,2023-10-31T00:00:00.000Z,Series H,United States,856
+StepStone,"['Berlin', 'Non-U.S.']",Recruiting,215,0.05,2023-10-30T00:00:00.000Z,Acquired,Germany,
+Hubilo,['SF Bay Area'],Other,50,,2023-10-30T00:00:00.000Z,Series B,United States,153
+Karat Financial,['Los Angeles'],Finance,,,2023-10-27T00:00:00.000Z,Series B,United States,116
+Hippo Insurance,['SF Bay Area'],Finance,120,0.2,2023-10-26T00:00:00.000Z,Post-IPO,United States,1300
+Graphy,"['Bengaluru', 'Non-U.S.']",Education,50,0.2,2023-10-26T00:00:00.000Z,Subsidiary,India,
+Salsify,['Boston'],Retail,110,,2023-10-25T00:00:00.000Z,Unknown,United States,453
+ F-Secure ,"['Helsinki', 'Non-U.S.']",Security,70,,2023-10-25T00:00:00.000Z,Post-IPO,Finland,
+Virgio,"['Bengaluru', 'Non-U.S.']",Retail,20,0.33,2023-10-25T00:00:00.000Z,Series A,India,
+Exabeam,['SF Bay Area'],Security,,0.2,2023-10-25T00:00:00.000Z,Series F,United States,391
+Multiverse,"['London', 'Non-U.S.']",Education,,,2023-10-25T00:00:00.000Z,Series D,United Kingdom,414
+Slync,['Dallas'],Logistics,,1,2023-10-25T00:00:00.000Z,Series B,United States,76
+SiFive,['SF Bay Area'],Hardware,130,0.2,2023-10-24T00:00:00.000Z,Series F,United States,365
+Pebble,['SF Bay Area'],Consumer,,1,2023-10-24T00:00:00.000Z,Seed,United States,1
+Shipt,['Birmingham'],Retail,,0.03,2023-10-24T00:00:00.000Z,Acquired,United States,65
+Parity Technologies,"['London', 'Non-U.S.']",Crypto,100,0.3,2023-10-23T00:00:00.000Z,Unknown,United Kingdom,
+Roblox China,"['Shenzen', 'Non-U.S.']",Consumer,15,,2023-10-23T00:00:00.000Z,Subsidiary,China,
+Nomad Health,['New York City'],Healthcare,119,0.17,2023-10-20T00:00:00.000Z,Unknown,United States,218
+Tropic,['New York City'],Finance,26,,2023-10-20T00:00:00.000Z,Series B,United States,67
+Nomad Health,['New York City'],Healthcare,,0.25,2023-10-20T00:00:00.000Z,Unknown,United States,218
+Convoy,['Seattle'],Logistics,500,1,2023-10-19T00:00:00.000Z,Series E,United States,1100
+Bullhorn,['Boston'],Sales,140,0.09,2023-10-19T00:00:00.000Z,Acquired,United States,32
+LegalZoom,['Austin'],Legal,100,,2023-10-19T00:00:00.000Z,Post-IPO,United States,951
+StellarAlgo,"['Calgary', 'Non-U.S.']",Data,21,0.28,2023-10-19T00:00:00.000Z,Series A,Canada,16
+ManoMano,"['Paris', 'Non-U.S.']",Retail,230,0.25,2023-10-18T00:00:00.000Z,Series F,France,705
+Google,['SF Bay Area'],Consumer,40,,2023-10-18T00:00:00.000Z,Post-IPO,United States,26
+WeTransfer,"['Amsterdam', 'Non-U.S.']",Other,35,0.1,2023-10-18T00:00:00.000Z,Series A,Netherlands,64
+Plume,['Denver'],Healthcare,24,,2023-10-18T00:00:00.000Z,Series B,United States,38
+Belora Paris,"['Gurugram', 'Non-U.S.']",Retail,,1,2023-10-18T00:00:00.000Z,Seed,India,
+Made Renovation,['SF Bay Area'],Construction,,1,2023-10-18T00:00:00.000Z,Seed,United States,9
+Volta Trucks,"['Stockholm', 'Non-U.S.']",Transportation,,1,2023-10-18T00:00:00.000Z,Series C,Sweden,391
+Expedia,['Seattle'],Travel,100,,2023-10-17T00:00:00.000Z,Post-IPO,United States,3300
+Waymo,['SF Bay Area'],Transportation,,,2023-10-17T00:00:00.000Z,Subsidiary,United States,5500
+LinkedIn,['SF Bay Area'],Recruiting,660,0.03,2023-10-16T00:00:00.000Z,Acquired,United States,154
+CityMall,"['Gurugram', 'Non-U.S.']",Retail,90,,2023-10-16T00:00:00.000Z,Series C,India,112
+C2FO,['Kansas City'],Finance,80,0.03,2023-10-16T00:00:00.000Z,Series H,United States,537
+Kayak / OpenTable,['Stamford'],Travel,80,,2023-10-16T00:00:00.000Z,Acquired,United States,229
+Bandcamp,['SF Bay Area'],Other,58,0.5,2023-10-16T00:00:00.000Z,Acquired,United States,
+Stack Overflow,['New York City'],Recruiting,,0.28,2023-10-16T00:00:00.000Z,Acquired,United States,153
+PokerStars,"['Leeds', 'Non-U.S.']",Consumer,,,2023-10-15T00:00:00.000Z,Acquired,United Kingdom,
+Adda247,"['Gurugram', 'Non-U.S.']",Education,300,,2023-10-14T00:00:00.000Z,Series B,India,61
+Flexport,['SF Bay Area'],Logistics,,0.2,2023-10-13T00:00:00.000Z,Series E,United States,2400
+Uno Health,['New York City'],Healthcare,,,2023-10-13T00:00:00.000Z,Unknown,United States,
+Qualcomm,['San Diego'],Hardware,1258,0.02,2023-10-12T00:00:00.000Z,Post-IPO,United States,
+Lending Club,['SF Bay Area'],Finance,172,0.14,2023-10-12T00:00:00.000Z,Post-IPO,United States,392
+MariaDB,['SF Bay Area'],Data,84,0.28,2023-10-12T00:00:00.000Z,Post-IPO,United States,272
+Deepgram,['SF Bay Area'],AI,20,0.2,2023-10-11T00:00:00.000Z,Series B,United States,86
+Acronis,"['Zurich', 'Non-U.S.']",Security,,,2023-10-11T00:00:00.000Z,Private Equity,Switzerland,658
+Neon,"['Sao Paulo', 'Non-U.S.']",Finance,180,,2023-10-10T00:00:00.000Z,Series D,Brazil,727
+Stitch Fix,['Dallas'],Retail,558,,2023-10-09T00:00:00.000Z,Post-IPO,United States,79
+Carbon Health,['SF Bay Area'],Healthcare,114,0.05,2023-10-09T00:00:00.000Z,Series D,United States,522
+Blue Origin,['Seattle'],Aerospace,40,,2023-10-09T00:00:00.000Z,Unknown,United States,167
+Braid,['SF Bay Area'],Finance,,1,2023-10-09T00:00:00.000Z,Unknown,United States,
+Product Hunt,,Consumer,,0.6,2023-10-09T00:00:00.000Z,Acquired,United States,
+VTrips,['Jacksonville'],Travel,75,0.09,2023-10-07T00:00:00.000Z,Private Equity,United States,
+Juniper Networks,['SF Bay Area'],Hardware,440,0.04,2023-10-06T00:00:00.000Z,Post-IPO,United States,39
+InvestCloud,['Los Angeles'],Finance,80,0.05,2023-10-06T00:00:00.000Z,Private Equity,United States,54
+Brave,['SF Bay Area'],Consumer,,0.09,2023-10-06T00:00:00.000Z,Series B,United States,42
+Dash,['New York City'],Finance,,1,2023-10-06T00:00:00.000Z,Unknown,United States,86
+Shift,['SF Bay Area'],Transportation,,1,2023-10-06T00:00:00.000Z,Post-IPO,United States,504
+Yuga Labs,['Miami'],Crypto,,,2023-10-06T00:00:00.000Z,Unknown,United States,450
+Enovix,['SF Bay Area'],Energy,185,,2023-10-05T00:00:00.000Z,Post-IPO,United States,516
+Bizongo,"['Mumbai', 'Non-U.S.']",Retail,50,,2023-10-05T00:00:00.000Z,Series E,India,315
+SchoolMint,['SF Bay Area'],Education,29,0.14,2023-10-05T00:00:00.000Z,Acquired,United States,8
+SeekOut,['Seattle'],Recruiting,16,0.07,2023-10-05T00:00:00.000Z,Series C,United States,
+Arrival,"['London', 'Non-U.S.']",Transportation,,0.25,2023-10-05T00:00:00.000Z,Post-IPO,United Kingdom,629
+Ledger,"['Paris', 'Non-U.S.']",Crypto,,0.12,2023-10-05T00:00:00.000Z,Series C,France,577
+Qualtrics,['Salt Lake City'],Other,780,0.14,2023-10-04T00:00:00.000Z,Acquired,United States,400
+Hopper,"['Montreal', 'Non-U.S.']",Travel,250,0.3,2023-10-04T00:00:00.000Z,Unknown,Canada,730
+Bird,['Los Angeles'],Transportation,,,2023-10-04T00:00:00.000Z,Post-IPO,United States,916
+Block,['SF Bay Area'],Finance,,,2023-10-04T00:00:00.000Z,Post-IPO,United States,150
+Meta,['SF Bay Area'],Consumer,,,2023-10-04T00:00:00.000Z,Post-IPO,United States,26000
+Dare,"['London', 'Non-U.S.']",Energy,,,2023-10-03T00:00:00.000Z,Unknown,United Kingdom,
+Sendoso,['SF Bay Area'],Marketing,,,2023-10-03T00:00:00.000Z,Series C,United States,152
+Twitch,['SF Bay Area'],Consumer,,,2023-10-03T00:00:00.000Z,Acquired,United States,35
+Chainalysis,['New York City'],Crypto,150,0.15,2023-10-02T00:00:00.000Z,Series F,United States,536
+Synapse,['SF Bay Area'],Finance,86,0.4,2023-10-02T00:00:00.000Z,Series B,United States,50
+Chia Network,['SF Bay Area'],Crypto,26,0.37,2023-10-02T00:00:00.000Z,Series D,United States,70
+IronNet,['Washington D.C.'],Security,,1,2023-10-02T00:00:00.000Z,Post-IPO,United States,428
+Sono Motors,"['Munich', 'Non-U.S.']",Transportation,,,2023-10-02T00:00:00.000Z,Post-IPO,Germany,127
+Cowbell,['SF Bay Area'],Finance,28,0.12,2023-09-29T00:00:00.000Z,Series B,United States,123
+N26,"['Berlin', 'Non-U.S.']",Finance,14,,2023-09-29T00:00:00.000Z,Series E,Germany,1700
+Andgo,"['Saskatoon', 'Non-U.S.']",HR,9,,2023-09-29T00:00:00.000Z,Series A,Canada,5
+Vendasta,"['Saskatoon', 'Non-U.S.']",Marketing,,,2023-09-29T00:00:00.000Z,Series D,Canada,178
+Epic Games,['Raleigh'],Consumer,870,0.16,2023-09-28T00:00:00.000Z,Unknown,United States,6400
+Lululemon Studio,['New York City'],Fitness,120,,2023-09-28T00:00:00.000Z,Acquired,United States,75
+2U,['Washington D.C.'],Education,,,2023-09-28T00:00:00.000Z,Post-IPO,United States,426
+Fit Analytics,"['Berlin', 'Non-U.S.']",Retail,,1,2023-09-28T00:00:00.000Z,Acquired,United States,
+Snap,['Los Angeles'],Consumer,170,,2023-09-27T00:00:00.000Z,Post-IPO,United States,4900
+Fi.Money,"['Bengaluru', 'Non-U.S.']",Finance,30,0.1,2023-09-27T00:00:00.000Z,Series C,India,137
+Dunzo,"['Bengaluru', 'Non-U.S.']",Food,150,0.3,2023-09-26T00:00:00.000Z,Unknown,India,458
+Flexe,['Seattle'],Logistics,131,0.33,2023-09-26T00:00:00.000Z,Series D,United States,263
+Talkdesk,['SF Bay Area'],Support,,,2023-09-26T00:00:00.000Z,Series D,United States,497
+Lucid Software,['Salt Lake City'],Other,75,0.07,2023-09-25T00:00:00.000Z,Series E,United States,170
+Eat Just,['SF Bay Area'],Food,40,,2023-09-22T00:00:00.000Z,Unknown,United States,465
+Appsmith,['SF Bay Area'],,35,0.25,2023-09-22T00:00:00.000Z,Series B,United States,51
+Roblox,['New York City'],Consumer,30,,2023-09-22T00:00:00.000Z,Post-IPO,United States,857
+Foodpanda,"['Singapore', 'Non-U.S.']",Food,,,2023-09-22T00:00:00.000Z,Acquired,Singapore,749
+Recast,"['Edinburgh', 'Non-U.S.']",Media,,1,2023-09-22T00:00:00.000Z,Series A,United Kingdom,14
+DealShare,"['Bengaluru', 'Non-U.S.']",Retail,130,,2023-09-21T00:00:00.000Z,Series E,India,390
+Merative,"['Dublin', 'Non-U.S.']",Healthcare,100,,2023-09-21T00:00:00.000Z,Acquired,United States,
+Robinhood,['SF Bay Area'],Finance,,,2023-09-21T00:00:00.000Z,Post-IPO,United States,5600
+Akudo,"['Bengaluru', 'Non-U.S.']",Finance,,1,2023-09-20T00:00:00.000Z,Seed,India,4
+Outreach,['Seattle'],Sales,,0.12,2023-09-20T00:00:00.000Z,Series G,United States,489
+Truss Works,['SF Bay Area'],Real Estate,,,2023-09-20T00:00:00.000Z,Unknown,United States,
+Nowadays,['SF Bay Area'],Food,,1,2023-09-18T00:00:00.000Z,Seed,United States,10
+Cisco,['SF Bay Area'],Infrastructure,350,,2023-09-17T00:00:00.000Z,Post-IPO,United States,2
+Hooray Foods,['SF Bay Area'],Food,,1,2023-09-17T00:00:00.000Z,Seed,United States,7
+Sage Therapeutics copy,['Boston'],Healthcare,290,,2023-09-15T00:00:00.000Z,Post-IPO,United States,438
+7shifts,"['Saskatoon', 'Non-U.S.']",Food,30,0.07,2023-09-15T00:00:00.000Z,Series C,Canada,131
+Velocity,"['Bengaluru', 'Non-U.S.']",Finance,,0.14,2023-09-15T00:00:00.000Z,Series A,India,30
+Airtable,['SF Bay Area'],Product,237,0.27,2023-09-14T00:00:00.000Z,Series F,United States,1400
+Project44,['Chicago'],Logistics,116,,2023-09-14T00:00:00.000Z,Unknown,United States,817
+VideoAmp,['Los Angeles'],Marketing,40,0.1,2023-09-14T00:00:00.000Z,Series F,United States,456
+R3,['New York City'],Crypto,,0.2,2023-09-14T00:00:00.000Z,Series A,United States,112
+Google,['SF Bay Area'],Consumer,75,,2023-09-13T00:00:00.000Z,Post-IPO,United States,26
+Akili Labs,['Boston'],Healthcare,,0.4,2023-09-13T00:00:00.000Z,Post-IPO,United States,301
+Evolve,['Denver'],Travel,175,0.2,2023-09-12T00:00:00.000Z,Series F,United States,224
+Binance.US,['SF Bay Area'],Crypto,100,0.33,2023-09-12T00:00:00.000Z,Subsidiary,United States,
+Paper,"['Montreal', 'Non-U.S.']",Education,87,0.03,2023-09-12T00:00:00.000Z,Series D,Canada,389
+Homeday,"['Berlin', 'Non-U.S.']",Real Estate,40,0.2,2023-09-12T00:00:00.000Z,Unknown,Germany,71
+At-Bay,['SF Bay Area'],Security,27,0.09,2023-09-12T00:00:00.000Z,Unknown,United States,296
+Eurora,"['Tallinn', 'Non-U.S.']",Other,111,,2023-09-11T00:00:00.000Z,Series A,Estonia,42
+Chargebee,['SF Bay Area'],Finance,100,0.1,2023-09-11T00:00:00.000Z,Series H,United States,468
+Divvy Homes,['SF Bay Area'],Real Estate,94,,2023-09-11T00:00:00.000Z,Series B,United States,180
+Grabango,['SF Bay Area'],Food,34,0.4,2023-09-11T00:00:00.000Z,Unknown,United States,94
+Bonterra ,['Austin'],Other,,,2023-09-11T00:00:00.000Z,Unknown,United States,
+Mollie,"['Amsterdam', 'Non-U.S.']",Finance,,,2023-09-11T00:00:00.000Z,Series C,Netherlands,928
+Oyster,['Charlotte'],HR,,,2023-09-11T00:00:00.000Z,Series C,United States,224
+ChargePoint,['SF Bay Area'],Manufacturing,,0.1,2023-09-08T00:00:00.000Z,Unknown,United States,1400
+Sensor Tower,['SF Bay Area'],Marketing,,,2023-09-08T00:00:00.000Z,Private Equity,United States,46
+Drift,['Boston'],Marketing,100,0.25,2023-09-07T00:00:00.000Z,Acquired,United States,107
+Hijra,"['Jakarta', 'Non-U.S.']",Finance,,,2023-09-07T00:00:00.000Z,Unknown,Indonesia,67
+Roku,['SF Bay Area'],Media,360,0.1,2023-09-06T00:00:00.000Z,Post-IPO,United States,208
+ForeScout,"['Tel Aviv', 'Non-U.S.']",Security,40,,2023-09-06T00:00:00.000Z,Acquired,United States,125
+Better.com,['New York City'],Real Estate,,,2023-09-06T00:00:00.000Z,Unknown,United States,905
+Blue Origin,['Seattle'],Aerospace,,,2023-09-06T00:00:00.000Z,Unknown,United States,167
+iSpecimen,['Boston'],Healthcare,,0.2,2023-09-06T00:00:00.000Z,Post-IPO,United States,31
+MaxMilhas,"['Belo Horizonte', 'Non-U.S.']",Travel,82,0.18,2023-09-05T00:00:00.000Z,Unknown,Brazil,
+Absci,['Portland'],Healthcare,30,0.15,2023-09-05T00:00:00.000Z,Post-IPO,United States,238
+Hodinkee,['New York City'],Retail,24,0.2,2023-09-05T00:00:00.000Z,Seed,United States,40
+Talent.com,"['Montreal', 'Non-U.S.']",Recruiting,,,2023-09-05T00:00:00.000Z,Series B,Canada,150
+mPharma,"['Accra', 'Non-U.S.']",Healthcare,150,,2023-09-04T00:00:00.000Z,Series D,Ghana,90
+Xolo,"['Tallinn', 'Non-U.S.']",Finance,24,,2023-09-04T00:00:00.000Z,Series A,Estonia,11
+Nexar,['New York City'],Transportation,17,0.14,2023-09-04T00:00:00.000Z,Series D,United States,149
+Khatabook,"['Bengaluru', 'Non-U.S.']",Finance,42,,2023-09-01T00:00:00.000Z,Series C,India,187
+Clearcover,['Chicago'],Finance,,0.28,2023-09-01T00:00:00.000Z,Series D,United States,304
+Gated,['SF Bay Area'],Other,,1,2023-09-01T00:00:00.000Z,Seed,United States,3
+Lunchtime,"['Brno', 'Non-U.S.']",Food,,1,2023-09-01T00:00:00.000Z,Acquired,Czech Republic,
+Pegasystems,['Boston'],HR,240,0.04,2023-08-31T00:00:00.000Z,Post-IPO,United States,
+Biofourmis,['Boston'],Healthcare,120,,2023-08-31T00:00:00.000Z,Series D,United States,464
+Malwarebytes,['SF Bay Area'],Security,100,,2023-08-31T00:00:00.000Z,Series B,United States,80
+Expedia,['Seattle'],Travel,,,2023-08-31T00:00:00.000Z,Post-IPO,United States,3300
+Productboard,['SF Bay Area'],Product,,0.1,2023-08-31T00:00:00.000Z,Series D,United States,
+SkyKick,['Seattle'],Other,140,,2023-08-30T00:00:00.000Z,Unknown,United States,198
+Omuni,"['Bengaluru', 'Non-U.S.']",Retail,60,0.35,2023-08-30T00:00:00.000Z,Acquired,India,10
+Kenko Health,"['Mumbai', 'Non-U.S.']",Healthcare,50,0.2,2023-08-30T00:00:00.000Z,Series A,India,14
+Huma,"['London', 'Non-U.S.']",Healthcare,45,0.1,2023-08-30T00:00:00.000Z,Unknown,United Kingdom,217
+Zeplin,['SF Bay Area'],Product,37,0.35,2023-08-30T00:00:00.000Z,Seed,United States,1
+Kenko Health,"['Mumbai', 'Non-U.S.']",Healthcare,50,0.2,2023-08-29T00:00:00.000Z,Unknown,India,14
+123Milhas,"['Belo Horizonte', 'Non-U.S.']",Travel,,,2023-08-29T00:00:00.000Z,Unknown,Brazil,
+Zebra Technologies,['Chicago'],Manufacturing,700,0.07,2023-08-28T00:00:00.000Z,Post-IPO,United States,2000
+CoinSwitch,"['Bengaluru', 'Non-U.S.']",Crypto,44,,2023-08-28T00:00:00.000Z,Series C,India,301
+Clockwork,['Dallas'],Crypto,,1,2023-08-28T00:00:00.000Z,Seed,United States,4
+SenseTime,"['Hong Kong', 'Non-U.S.']",AI,,,2023-08-28T00:00:00.000Z,Post-IPO,Hong Kong,2600
+HackerRank,['SF Bay Area'],Recruiting,53,,2023-08-27T00:00:00.000Z,Series D,United States,103
+Cuemath,"['Bengaluru', 'Non-U.S.']",Education,100,,2023-08-26T00:00:00.000Z,Unknown,India,121
+Fortinet,['SF Bay Area'],Security,,,2023-08-25T00:00:00.000Z,Post-IPO,United States,89
+Captiv8,['SF Bay Area'],Marketing,8,0.03,2023-08-24T00:00:00.000Z,Unknown,United States,4
+Chingari,"['Bengaluru', 'Non-U.S.']",Media,,0.5,2023-08-24T00:00:00.000Z,Unknown,India,88
+Atlas,['Chicago'],HR,150,0.3,2023-08-23T00:00:00.000Z,Series B,United States,220
+Veriff,"['Tallinn', 'Non-U.S.']",Security,101,0.21,2023-08-23T00:00:00.000Z,Series C,Estonia,192
+BlackLine,['Los Angeles'],Finance,95,0.05,2023-08-23T00:00:00.000Z,Post-IPO,United States,220
+Rivos,['SF Bay Area'],Hardware,24,0.06,2023-08-23T00:00:00.000Z,Unknown,United States,
+Cellulant,"['Nairobi', 'Non-U.S.']",Finance,,0.2,2023-08-23T00:00:00.000Z,Series C,Kenya,54
+JOIN,"['Berlin', 'Non-U.S.']",Recruiting,,,2023-08-23T00:00:00.000Z,Unknown,Germany,
+Getir,"['London', 'Non-U.S.']",Food,2500,0.11,2023-08-22T00:00:00.000Z,Series E,United Kingdom,1800
+CoinDCX,"['Mumbai', 'Non-U.S.']",Crypto,,0.12,2023-08-22T00:00:00.000Z,Series D,India,247
+Datagen,"['Tel Aviv', 'Non-U.S.']",AI,,,2023-08-22T00:00:00.000Z,Series B,Israel,72
+Hypefast,"['Jakarta', 'Non-U.S.']",Retail,,0.3,2023-08-22T00:00:00.000Z,Series A,Indonesia,33
+Tempo Automation,['SF Bay Area'],Other,,,2023-08-22T00:00:00.000Z,Post-IPO,United States,154
+Recur,['Miami'],Crypto,,,2023-08-21T00:00:00.000Z,Series A,United States,55
+Unite Us,['New York City'],Healthcare,,,2023-08-21T00:00:00.000Z,Series C,United States,196
+Twiga,"['Nairobi', 'Non-U.S.']",Food,283,0.33,2023-08-20T00:00:00.000Z,Series C,Kenya,157
+Spartan Poker,"['Kolkata', 'Non-U.S.']",Consumer,125,0.4,2023-08-19T00:00:00.000Z,Unknown,India,
+Times Internet ,"['Gurugram', 'Non-U.S.']",Media,100,0.05,2023-08-18T00:00:00.000Z,Subsidiary,India,
+Detectify,"['Stockholm', 'Non-U.S.']",Security,30,,2023-08-18T00:00:00.000Z,Unknown,Sweden,42
+Embrace,['SF Bay Area'],Product,,,2023-08-18T00:00:00.000Z,Unknown,United States,77
+Zylo,['Indianapolis'],Other,,0.1,2023-08-18T00:00:00.000Z,Series C,United States,72
+Illumina,['San Diego'],Healthcare,151,,2023-08-17T00:00:00.000Z,Post-IPO,United States,28
+AppFolio,['Santa Barbara'],Real Estate,149,0.09,2023-08-17T00:00:00.000Z,Post-IPO,United States,30
+Intel,['SF Bay Area'],Hardware,140,,2023-08-17T00:00:00.000Z,Post-IPO,United States,12
+StreamElements,"['Tel Aviv', 'Non-U.S.']",Media,60,0.35,2023-08-17T00:00:00.000Z,Series B,Israel,111
+CircleCI,['SF Bay Area'],Product,,,2023-08-17T00:00:00.000Z,Series F,United States,315
+FlexCar,['Boston'],Transportation,20,,2023-08-16T00:00:00.000Z,Unknown,United States,297
+Xendit,"['Jakarta', 'Non-U.S.']",Finance,,,2023-08-16T00:00:00.000Z,Series D,Indonesia,534
+Noice,"['Helsinki', 'Non-U.S.']",Consumer,,,2023-08-15T00:00:00.000Z,Seed,Finland,5
+SecureWorks,['Atlanta'],Security,300,0.15,2023-08-14T00:00:00.000Z,Post-IPO,United States,83
+Easee,"['Sandnes', 'Non-U.S.']",Energy,200,0.57,2023-08-14T00:00:00.000Z,Unknown,Norway,
+CoinDesk,['New York City'],Crypto,,,2023-08-14T00:00:00.000Z,Acquired,United States,
+iQiyi Smart,"['Beijing', 'Non-U.S.']",Other,,,2023-08-14T00:00:00.000Z,Series C,China,
+LingoAce,"['Singapore', 'Non-U.S.']",Education,,,2023-08-11T00:00:00.000Z,Series C,Singapore,180
+Shutterfly,['Minneapolis'],Manufacturing,246,,2023-08-10T00:00:00.000Z,Post-IPO,United States,50
+SHINE Technologies,['Milwaukee'],Other,59,,2023-08-10T00:00:00.000Z,Series C,United States,672
+Hike,"['New Delhi', 'Non-U.S.']",Consumer,55,,2023-08-10T00:00:00.000Z,Unknown,India,261
+NCC Group,"['Manchester', 'Non-U.S.']",Security,,,2023-08-10T00:00:00.000Z,Post-IPO,United Kingdom,
+Blend,['SF Bay Area'],Finance,150,0.19,2023-08-09T00:00:00.000Z,Post-IPO,United States,665
+Niantic,['Los Angeles'],Other,100,,2023-08-09T00:00:00.000Z,Series D,United States,770
+Babylon Health,"['London', 'Non-U.S.']",Healthcare,94,,2023-08-09T00:00:00.000Z,Post-IPO,United Kingdom,1200
+Dealtale,"['Tel Aviv', 'Non-U.S.']",Sales,70,1,2023-08-09T00:00:00.000Z,Acquired,United States,2
+Bukalapak,"['Jakarta', 'Non-U.S.']",Retail,,,2023-08-09T00:00:00.000Z,Post-IPO,Indonesia,925
+Podium,['Lehi'],Support,,,2023-08-09T00:00:00.000Z,Series D,United States,419
+Quizy,"['Gurugram', 'Non-U.S.']",Consumer,,1,2023-08-09T00:00:00.000Z,Seed,India,
+StyleSeat,['SF Bay Area'],Consumer,,0.17,2023-08-09T00:00:00.000Z,Series C,United States,40
+Thoughtworks,['Chicago'],Other,579,0.05,2023-08-08T00:00:00.000Z,Post-IPO,United States,748
+Rapid7,['Boston'],Security,470,0.18,2023-08-08T00:00:00.000Z,Post-IPO,United States,89
+MPL,"['Bengaluru', 'Non-U.S.']",Consumer,350,,2023-08-08T00:00:00.000Z,Unknown,India,375
+Doximity,['SF Bay Area'],Healthcare,100,0.1,2023-08-08T00:00:00.000Z,Post-IPO,United States,82
+23andMe,['SF Bay Area'],Healthcare,71,0.11,2023-08-08T00:00:00.000Z,Post-IPO,United States,1100
+Caliva,['SF Bay Area'],Retail,54,,2023-08-08T00:00:00.000Z,Series B,United States,75
+Sendy,"['Nairobi', 'Non-U.S.']",Logistics,,1,2023-08-08T00:00:00.000Z,Series B,Kenya,26
+Dell,['Austin'],Hardware,,,2023-08-07T00:00:00.000Z,Post-IPO,United States,
+Verse,"['Barcelona', 'Non-U.S.']",Finance,,1,2023-08-07T00:00:00.000Z,Acquired,Spain,38
+Qomplx,['Washington D.C.'],AI,60,,2023-08-04T00:00:00.000Z,Series A,United States,107
+CodeClan,"['Edinburgh', 'Non-U.S.']",Education,57,1,2023-08-04T00:00:00.000Z,Seed,United Kingdom,
+Top Hat,"['Toronto', 'Non-U.S.']",Education,42,0.07,2023-08-04T00:00:00.000Z,Series E,Canada,234
+Astra,['SF Bay Area'],Aerospace,,0.25,2023-08-04T00:00:00.000Z,Post-IPO,United States,300
+Big Cabal Media,"['Lagos', 'Non-U.S.']",Media,,0.19,2023-08-04T00:00:00.000Z,Seed,Nigeria,3
+Discord,['SF Bay Area'],Consumer,37,0.04,2023-08-03T00:00:00.000Z,Series H,United States,995
+Bardee,"['Melbourne', 'Non-U.S.']",Food,30,,2023-08-03T00:00:00.000Z,Seed,Australia,5
+Aware,['Columbus'],Security,,,2023-08-03T00:00:00.000Z,Series C,United States,88
+Ayoconnect,"['Jakarta', 'Non-U.S.']",Finance,,0.1,2023-08-03T00:00:00.000Z,Series B,Indonesia,43
+Finastra,"['Tel Aviv', 'Non-U.S.']",Finance,,,2023-08-03T00:00:00.000Z,Unknown,Israel,
+Spinny,"['Gurugram', 'Non-U.S.']",Transportation,300,0.05,2023-08-02T00:00:00.000Z,Series E,India,513
+Tekion,"['Bengaluru', 'Non-U.S.']",Other,300,0.1,2023-08-02T00:00:00.000Z,Series D,India,435
+BetterUp,['SF Bay Area'],HR,100,0.16,2023-08-02T00:00:00.000Z,Series E,United States,567
+Augury,['New York City'],Manufacturing,70,0.18,2023-08-02T00:00:00.000Z,Series E,United States,274
+Gem,['SF Bay Area'],Recruiting,70,,2023-08-02T00:00:00.000Z,Series C,United States,148
+Gupy,"['Sao Paulo', 'Non-U.S.']",HR,58,0.08,2023-08-02T00:00:00.000Z,Series B,Brazil,105
+Salesforce,"['Dublin', 'Non-U.S.']",Sales,50,,2023-08-02T00:00:00.000Z,Post-IPO,Ireland,65
+FamPay,"['Bengaluru', 'Non-U.S.']",Finance,18,,2023-08-02T00:00:00.000Z,Series A,India,42
+Actyv.ai,"['Bengaluru', 'Non-U.S.']",Finance,,0.6,2023-08-02T00:00:00.000Z,Seed,India,12
+ConnectedH,"['Gurugram', 'Non-U.S.']",Healthcare,,1,2023-08-02T00:00:00.000Z,Seed,India,2
+DICE,"['London', 'Non-U.S.']",Consumer,,,2023-08-02T00:00:00.000Z,Series C,United Kingdom,135
+HackerOne,['SF Bay Area'],Security,,0.12,2023-08-02T00:00:00.000Z,Series E,United States,159
+Silofit,"['Montreal', 'Non-U.S.']",Fitness,,1,2023-08-02T00:00:00.000Z,Series A,Canada,19
+TripAdvisor,['Boston'],Travel,,,2023-08-02T00:00:00.000Z,Post-IPO,United States,3
+Vesttoo,"['Tel Aviv', 'Non-U.S.']",Finance,150,0.75,2023-08-01T00:00:00.000Z,Series C,Israel,110
+Planet,['SF Bay Area'],Aerospace,117,0.1,2023-08-01T00:00:00.000Z,Post-IPO,United States,574
+Paper,"['Montreal', 'Non-U.S.']",Education,106,0.04,2023-08-01T00:00:00.000Z,Series D,Canada,389
+Archipelago,['SF Bay Area'],Real Estate,40,0.3,2023-08-01T00:00:00.000Z,Series B,United States,57
+Increff,"['Bengaluru', 'Non-U.S.']",Retail,,0.2,2023-08-01T00:00:00.000Z,Series B,India,17
+Indigo,['Boston'],Other,,,2023-08-01T00:00:00.000Z,Series F,United States,1200
+inDrive,['SF Bay Area'],Transportation,,0.1,2023-08-01T00:00:00.000Z,Unknown,United States,387
+Outreach ,['Seattle'],Sales,,0.05,2023-08-01T00:00:00.000Z,Series G,United States,489
+Qoala,"['Jakarta', 'Non-U.S.']",Finance,80,,2023-07-31T00:00:00.000Z,Series B,Indonesia,89
+Fable,"['Toronto', 'Non-U.S.']",Other,13,0.09,2023-07-31T00:00:00.000Z,Series A,Canada,12
+Nexar,['New York City'],Transportation,12,,2023-07-31T00:00:00.000Z,Series D,United States,149
+Cambricon,"['Beijing', 'Non-U.S.']",Hardware,,,2023-07-31T00:00:00.000Z,Series B,China,200
+Kape Technologies,"['London', 'Non-U.S.']",Security,200,0.3,2023-07-30T00:00:00.000Z,Post-IPO,United Kingdom,188
+Eroad,"['Auckland', 'Non-U.S.']",Transportation,200,0.31,2023-07-28T00:00:00.000Z,Unknown,New Zealand,46
+Kape,"['London', 'Non-U.S.']",Security,180,,2023-07-28T00:00:00.000Z,Post-IPO,United Kingdom,188
+Homology,['Boston'],Healthcare,,,2023-07-28T00:00:00.000Z,Post-IPO,United States,187
+Milkbasket,"['Gurugram', 'Non-U.S.']",Food,400,0.67,2023-07-27T00:00:00.000Z,Acquired,India,39
+Wish,['SF Bay Area'],Retail,255,0.34,2023-07-27T00:00:00.000Z,Post-IPO,United States,1600
+Point,['SF Bay Area'],Real Estate,61,0.28,2023-07-27T00:00:00.000Z,Series C,United States,149
+Akseleran,"['Jakarta', 'Non-U.S.']",Finance,60,,2023-07-27T00:00:00.000Z,Series A,Indonesia,9
+Verbit,['New York City'],Data,60,0.06,2023-07-27T00:00:00.000Z,Series E,United States,569
+Datree,['SF Bay Area'],Other,,1,2023-07-27T00:00:00.000Z,Seed,United States,11
+Degreed,['SF Bay Area'],Education,,,2023-07-27T00:00:00.000Z,Unknown,United States,463
+Copia,"['Nairobi', 'Non-U.S.']",Retail,350,0.25,2023-07-26T00:00:00.000Z,Series C,Kenya,103
+Figure,['SF Bay Area'],Crypto,90,0.2,2023-07-26T00:00:00.000Z,Unknown,United States,1500
+Calendly,['Atlanta'],Other,60,0.1,2023-07-26T00:00:00.000Z,Series B,United States,351
+Myntra,"['Bengaluru', 'Non-U.S.']",Retail,50,,2023-07-26T00:00:00.000Z,Acquired,India,516
+Kleos Space,"['Luxembourg', 'Raleigh']",Aerospace,,1,2023-07-26T00:00:00.000Z,Post-IPO,Luxembourg,17
+Ripl,['Seattle'],Marketing,,,2023-07-26T00:00:00.000Z,Unknown,United States,9
+Deep Instict,['New York City'],Security,46,0.15,2023-07-25T00:00:00.000Z,Unknown,United States,322
+Pluralsight,['Salt Lake City'],Education,,,2023-07-25T00:00:00.000Z,Acquired,United States,192
+AppHarvest,['Lexington'],Food,,1,2023-07-24T00:00:00.000Z,Post-IPO,United States,692
+Arive,"['Munich', 'Non-U.S.']",Retail,,,2023-07-24T00:00:00.000Z,Unknown,Germany,37
+Onfido,"['London', 'Non-U.S.']",Finance,,,2023-07-24T00:00:00.000Z,Series D,United Kingdom,182
+PathAI,['Boston'],Healthcare,87,,2023-07-21T00:00:00.000Z,Series C,United States,255
+Bundle Africa,"['Lagos', 'Non-U.S.']",Crypto,,1,2023-07-21T00:00:00.000Z,Seed,Nigeria,1
+Viaplay,"['Stockholm', 'Non-U.S.']",Media,450,0.25,2023-07-20T00:00:00.000Z,Unknown,Sweden,
+Stoa,['Phoenix'],Real Estate,80,0.8,2023-07-20T00:00:00.000Z,Unknown,United States,
+Dunzo,"['Bengaluru', 'Non-U.S.']",Food,,,2023-07-20T00:00:00.000Z,Unknown,India,382
+MiQ,"['London', 'Non-U.S.']",Marketing,,,2023-07-20T00:00:00.000Z,Private Equity,United Kingdom,
+Phunware,['Austin'],Other,,,2023-07-20T00:00:00.000Z,Post-IPO,United States,87
+Saarthi.ai,"['Bengaluru', 'Non-U.S.']",Support,,,2023-07-20T00:00:00.000Z,Unknown,India,
+AgentSync,['Denver'],Finance,67,0.24,2023-07-19T00:00:00.000Z,Series B,United States,111
+Inspirato,['Denver'],Travel,50,0.06,2023-07-19T00:00:00.000Z,Post-IPO,United States,179
+Tilia,['SF Bay Area'],Finance,28,0.32,2023-07-19T00:00:00.000Z,Unknown,United States,32
+Blue Apron,['New York City'],Food,,0.2,2023-07-19T00:00:00.000Z,Post-IPO,United States,422
+Microsoft,['Seattle'],Other,1000,,2023-07-18T00:00:00.000Z,Post-IPO,United States,1
+Cameo,['Chicago'],Consumer,80,,2023-07-18T00:00:00.000Z,Unknown,United States,165
+Square Roots,['New York City'],Food,,,2023-07-18T00:00:00.000Z,Unknown,United States,91
+Sarcos,['Salt Lake City'],Aerospace,75,0.25,2023-07-17T00:00:00.000Z,Post-IPO,United States,316
+Code42,['Minneapolis'],Security,,,2023-07-17T00:00:00.000Z,Unknown,United States,137
+Ezoic,['San Diego'],Infrastructure,,0.28,2023-07-17T00:00:00.000Z,Series A,United States,39
+IBM,"['Tel Aviv', 'Non-U.S.']",Hardware,,,2023-07-17T00:00:00.000Z,Post-IPO,United States,
+Lamudi Indonesia,"['Jakarta', 'Non-U.S.']",Real Estate,,,2023-07-17T00:00:00.000Z,Acquired,Indonesia,56
+Binance,['Cayman Islands'],Crypto,1000,,2023-07-14T00:00:00.000Z,Unknown,Cayman Islands,
+PayScale,['Seattle'],HR,14,0.02,2023-07-14T00:00:00.000Z,Acquired,United States,33
+Navi Technologies,"['Bengaluru', 'Non-U.S.']",Finance,200,,2023-07-13T00:00:00.000Z,Unknown,India,659
+Skill Lync,"['Chennai', 'Non-U.S.']",Education,200,,2023-07-13T00:00:00.000Z,Series A,India,17
+Amazon,['Seattle'],Retail,80,,2023-07-13T00:00:00.000Z,Post-IPO,United States,108
+AudioCodes,"['Tel Aviv', 'Non-U.S.']",Other,80,0.06,2023-07-13T00:00:00.000Z,Post-IPO,Israel,91
+Tempo Automation,['SF Bay Area'],Other,62,,2023-07-13T00:00:00.000Z,Post-IPO,United States,154
+Uber Freight,['SF Bay Area'],Logistics,40,,2023-07-13T00:00:00.000Z,Subsidiary,United States,2700
+Deepwatch,['Tampa Bay'],Security,30,0.07,2023-07-13T00:00:00.000Z,Series C,United States,256
+Centr,"['Sydney', 'Non-U.S.']",Fitness,22,,2023-07-13T00:00:00.000Z,Unknown,Australia,
+Factorial,"['Barcelona', 'Non-U.S.']",HR,20,,2023-07-13T00:00:00.000Z,Series C,Spain,220
+Peloton,['New York City'],Fitness,11,,2023-07-13T00:00:00.000Z,Post-IPO,United States,1900
+Bark,['New York City'],Retail,,0.08,2023-07-13T00:00:00.000Z,Post-IPO,United States,282
+Khoros,['Austin'],Sales,,0.05,2023-07-13T00:00:00.000Z,Private Equity,United States,138
+Netlify,['SF Bay Area'],Other,,,2023-07-13T00:00:00.000Z,Series D,United States,212
+SAS,['Raleigh'],Data,,,2023-07-13T00:00:00.000Z,Unknown,United States,
+Stitch Fix,['Philadelphia'],Retail,400,,2023-07-12T00:00:00.000Z,Post-IPO,United States,79
+Dapper Labs,['Vancouver'],Crypto,51,,2023-07-12T00:00:00.000Z,Unknown,Canada,
+DeepVerge,"['Dublin', 'Non-U.S.']",Healthcare,50,1,2023-07-12T00:00:00.000Z,Post-IPO,Ireland,20
+Freightos,['Miami'],Logistics,50,0.13,2023-07-12T00:00:00.000Z,Post-IPO,United States,118
+Circle,['Boston'],Crypto,,,2023-07-12T00:00:00.000Z,Private Equity,United States,1100
+CyberGRX,['Denver'],Security,,,2023-07-12T00:00:00.000Z,Acquired,United States,99
+Duck Creek Technologies,['Boston'],Finance,,0.09,2023-07-12T00:00:00.000Z,Acquired,United States,357
+Expedia,['Seattle'],Travel,,,2023-07-12T00:00:00.000Z,Post-IPO,United States,3300
+WayCool,"['Chennai', 'Non-U.S.']",Food,300,0.12,2023-07-11T00:00:00.000Z,Unknown,India,363
+Matterport,['SF Bay Area'],Data,170,0.3,2023-07-11T00:00:00.000Z,Post-IPO,United States,409
+Everquote,['Evansville'],Finance,100,,2023-07-11T00:00:00.000Z,Post-IPO,United States,53
+Sisense,['New York City'],Data,100,0.15,2023-07-11T00:00:00.000Z,Series F,United States,274
+Built Technologies,['Nashville'],Construction,,,2023-07-11T00:00:00.000Z,Unknown,United States,313
+Butterfly Network copy,['Boston'],Healthcare,,0.25,2023-07-11T00:00:00.000Z,Post-IPO,United States,530
+Dukaan,"['Bengaluru', 'Non-U.S.']",Retail,,,2023-07-11T00:00:00.000Z,Series A,India,17
+Jasper,"['Montreal', 'Non-U.S.']",AI,,,2023-07-11T00:00:00.000Z,Series A,Canada,131
+Shift,['SF Bay Area'],Transportation,,0.34,2023-07-11T00:00:00.000Z,Post-IPO,United States,504
+Rad Power Bikes,['Seattle'],Transportation,40,,2023-07-10T00:00:00.000Z,Series D,United States,329
+FrontRow,"['Bengaluru', 'Non-U.S.']",Education,,1,2023-07-10T00:00:00.000Z,Series A,India,17
+IntelyCare,['Boston'],Healthcare,,,2023-07-10T00:00:00.000Z,Series C,United States,171
+Latch,['New York City'],Security,,0.59,2023-07-10T00:00:00.000Z,Post-IPO,United States,342
+Motive,['SF Bay Area'],Transportation,,0.05,2023-07-10T00:00:00.000Z,Series F,United States,567
+Medsaf,"['Lagos', 'Non-U.S.']",Healthcare,30,1,2023-07-07T00:00:00.000Z,Unknown,Nigeria,
+Evernote,['SF Bay Area'],Consumer,,,2023-07-07T00:00:00.000Z,Acquired,United States,290
+PaulCamper,"['Berlin', 'Non-U.S.']",Travel,,,2023-07-07T00:00:00.000Z,Acquired,Germany,12
+Trellix,['SF Bay Area'],Security,,,2023-07-07T00:00:00.000Z,Unknown,United States,35
+Amdocs,['St. Louis'],Support,2000,0.06,2023-07-06T00:00:00.000Z,Post-IPO,United States,
+FNZ,"['London', 'Non-U.S.']",Finance,1000,0.15,2023-07-06T00:00:00.000Z,Private Equity,United Kingdom,1400
+Perfect Day,['SF Bay Area'],Food,134,0.15,2023-07-06T00:00:00.000Z,Series D,United States,711
+Solidigm,['Sacramento'],Hardware,98,,2023-07-06T00:00:00.000Z,Unknown,United States,
+TytoCare,['New York City'],Healthcare,20,0.1,2023-07-06T00:00:00.000Z,Series D,United States,156
+Circles.Life,"['Singapore', 'Non-U.S.']",Marketing,,,2023-07-06T00:00:00.000Z,Unknown,Singapore,50
+ConnectRN,['Boston'],Healthcare,,,2023-07-06T00:00:00.000Z,Unknown,United States,160
+Crunchbase,['SF Bay Area'],Sales,,,2023-07-06T00:00:00.000Z,Series D,United States,106
+DayTwo,['SF Bay Area'],Healthcare,,,2023-07-06T00:00:00.000Z,Series B,United States,90
+Athennian,"['Calgary', 'Non-U.S.']",Legal,30,,2023-07-05T00:00:00.000Z,Series B,Canada,47
+Vista Group,"['Auckland', 'Non-U.S.']",Data,,0.06,2023-07-05T00:00:00.000Z,Post-IPO,New Zealand,
+Highsnobiety,"['Berlin', 'Non-U.S.']",Media,24,0.1,2023-07-03T00:00:00.000Z,Acquired,Germany,8
+Zip,"['Sydney', 'Non-U.S.']",Finance,300,0.2,2023-07-02T00:00:00.000Z,Post-IPO,Australia,896
+Buzzer,['New York City'],Consumer,,1,2023-06-30T00:00:00.000Z,Series A,United States,24
+Lunya,['Los Angeles'],Retail,,1,2023-06-30T00:00:00.000Z,Unknown,United States,
+MediaMath,['New York City'],Marketing,,1,2023-06-30T00:00:00.000Z,Private Equity,United States,607
+Petal,['New York City'],Finance,,0.2,2023-06-30T00:00:00.000Z,Series D,United States,704
+Niantic,['SF Bay Area'],Other,230,,2023-06-29T00:00:00.000Z,Series D,United States,770
+Headspace,['Los Angeles'],Healthcare,181,0.15,2023-06-29T00:00:00.000Z,Unknown,United States,216
+Artsy,['New York City'],Retail,35,0.15,2023-06-29T00:00:00.000Z,Series D,United States,100
+Candy Digital,['New York City'],Crypto,30,,2023-06-29T00:00:00.000Z,Series A,United States,138
+Xiaomi India,"['Bengaluru', 'Non-U.S.']",Other,30,,2023-06-29T00:00:00.000Z,Subsidiary,India,
+Torii,"[""Ra'anana"", 'Non-U.S.']",Other,28,0.3,2023-06-29T00:00:00.000Z,Series B,Israel,65
+Insider Intelligence,['New York City'],Media,20,,2023-06-29T00:00:00.000Z,Subsidiary,United States,
+Merama,"['Mexico City', 'Non-U.S.']",Retail,,0.1,2023-06-29T00:00:00.000Z,Series B,Mexico,445
+Qyuki,"['Bengaluru', 'Non-U.S.']",Other,,0.3,2023-06-29T00:00:00.000Z,Seed,India,19
+Stripe,['SF Bay Area'],Finance,,,2023-06-29T00:00:00.000Z,Series I,United States,8700
+Vowel,['New York City'],Other,,1,2023-06-29T00:00:00.000Z,Series A,United States,18
+ClickUp,['San Diego'],Other,90,0.1,2023-06-28T00:00:00.000Z,Series C,United States,537
+Ludia,"['Montreal', 'Non-U.S.']",Consumer,55,,2023-06-28T00:00:00.000Z,Acquired,United States,1
+Karat,['Seattle'],HR,47,,2023-06-28T00:00:00.000Z,Unknown,United States,169
+Plex,['SF Bay Area'],Media,37,0.2,2023-06-28T00:00:00.000Z,Unknown,United States,81
+Starburst,['Boston'],Data,,0.15,2023-06-28T00:00:00.000Z,Series D,United States,414
+Zapier,['SF Bay Area'],Other,,0.1,2023-06-28T00:00:00.000Z,Seed,United States,1
+Selina,"['London', 'Non-U.S.']",Travel,350,,2023-06-27T00:00:00.000Z,Post-IPO,United Kingdom,612
+New Relic,['SF Bay Area'],Infrastructure,255,0.1,2023-06-27T00:00:00.000Z,Post-IPO,United States,214
+Tibber,"['Førde', 'Non-U.S.']",Energy,50,,2023-06-27T00:00:00.000Z,Series C,Norway,181
+ClearPay,"['Manchester', 'Non-U.S.']",Finance,,,2023-06-27T00:00:00.000Z,Acquired,United Kingdom,85
+Eyowo,"['Lagos', 'Non-U.S.']",Finance,,1,2023-06-27T00:00:00.000Z,Unknown,Nigeria,
+Honor,['SF Bay Area'],Healthcare,,0.15,2023-06-27T00:00:00.000Z,Unknown,United States,625
+Loopio,"['Toronto', 'Non-U.S.']",Sales,,0.09,2023-06-27T00:00:00.000Z,Private Equity,Canada,263
+Lordstown Motors,['Detroit'],Transportation,,1,2023-06-27T00:00:00.000Z,Post-IPO,United States,1100
+Waze,['SF Bay Area'],Transportation,,,2023-06-27T00:00:00.000Z,Acquired,United States,67
+Payoneer,['New York City'],Finance,200,0.1,2023-06-26T00:00:00.000Z,Post-IPO,United States,
+Robinhood,['SF Bay Area'],Finance,150,0.07,2023-06-26T00:00:00.000Z,Post-IPO,United States,5600
+Convoy,['Seattle'],Logistics,30,0.05,2023-06-26T00:00:00.000Z,Series E,United States,1100
+Joonko,['New York City'],Recruiting,,1,2023-06-25T00:00:00.000Z,Series B,United States,38
+IRL,['SF Bay Area'],Consumer,,1,2023-06-23T00:00:00.000Z,Series C,United States,197
+Retool,['SF Bay Area'],Other,,0.09,2023-06-22T00:00:00.000Z,Series C,United States,141
+Anaplan,['SF Bay Area'],Other,300,,2023-06-21T00:00:00.000Z,Acquired,United States,300
+Uber,['SF Bay Area'],Transportation,200,,2023-06-21T00:00:00.000Z,Post-IPO,United States,25200
+Tackle.io,['Boise'],Infrastructure,75,,2023-06-21T00:00:00.000Z,Series C,United States,148
+Ritual,"['Toronto', 'Non-U.S.']",Food,38,0.4,2023-06-21T00:00:00.000Z,Series C,Canada,134
+Friday Health Plans,['Alamosa'],Healthcare,,,2023-06-21T00:00:00.000Z,Private Equity,United States,306
+Illumina,['San Diego'],Healthcare,,,2023-06-21T00:00:00.000Z,Post-IPO,United States,28
+Mutiny,['SF Bay Area'],Marketing,,0.3,2023-06-21T00:00:00.000Z,Series B,United States,69
+Grab,"['Singapore', 'Non-U.S.']",Transportation,1000,0.11,2023-06-20T00:00:00.000Z,Post-IPO,Singapore,16500
+OLX Group,"['Amsterdam', 'Non-U.S.']",Marketing,800,,2023-06-20T00:00:00.000Z,Acquired,Netherlands,
+AvantStay,['Los Angeles'],Travel,37,,2023-06-20T00:00:00.000Z,Private Equity,United States,686
+Karakuki,"['London', 'Non-U.S.']",Food,,1,2023-06-20T00:00:00.000Z,Unknown,United Kingdom,13
+Chingari,"['Bengaluru', 'Non-U.S.']",Media,48,0.2,2023-06-19T00:00:00.000Z,Unknown,India,88
+Panther,['Tampa Bay'],HR,,1,2023-06-19T00:00:00.000Z,Seed,United States,2
+Fuzzy,['SF Bay Area'],Healthcare,,1,2023-06-18T00:00:00.000Z,Series C,United States,80
+Mojocare,"['Bengaluru', 'Non-U.S.']",Healthcare,170,0.8,2023-06-17T00:00:00.000Z,Series A,India,24
+Nikola,['Phoenix'],Transportation,270,,2023-06-16T00:00:00.000Z,Post-IPO,United States,3300
+Qualcomm,['SF Bay Area'],Hardware,84,,2023-06-16T00:00:00.000Z,Post-IPO,United States,
+Pilot,['SF Bay Area'],Finance,45,0.13,2023-06-16T00:00:00.000Z,Unknown,United States,116
+Karshare,"['London', 'Non-U.S.']",Transportation,,1,2023-06-16T00:00:00.000Z,Seed,United Kingdom,4
+Zulily,['Seattle'],Retail,,,2023-06-16T00:00:00.000Z,Acquired,United States,194
+CareRev,['Los Angeles'],Healthcare,100,0.33,2023-06-15T00:00:00.000Z,Series A,United States,51
+TADA,"['Seoul', 'Non-U.S.']",Transportation,45,0.6,2023-06-15T00:00:00.000Z,Subsidiary,South Korea,
+Binance.US,['SF Bay Area'],Crypto,,,2023-06-15T00:00:00.000Z,Subsidiary,United States,
+Cerner,['Kansas City'],Healthcare,,,2023-06-15T00:00:00.000Z,Acquired,United States,
+FrontRow,"['Bengaluru', 'Non-U.S.']",Education,,0.9,2023-06-15T00:00:00.000Z,Series A,India,17
+Bitwise,['SF Bay Area'],Crypto,900,1,2023-06-14T00:00:00.000Z,Series B,United States,84
+Sonos,['New York City'],Consumer,130,0.07,2023-06-14T00:00:00.000Z,Post-IPO,United States,455.2
+TrueCar,['Los Angeles'],Transportation,102,0.24,2023-06-14T00:00:00.000Z,Post-IPO,United States,340
+Olo,['New York City'],Food,81,0.11,2023-06-14T00:00:00.000Z,Post-IPO,United States,184
+Mamaearth,"['Gurugram', 'Non-U.S.']",Retail,80,,2023-06-14T00:00:00.000Z,Unknown,India,111
+Synapse,['SF Bay Area'],Finance,,0.18,2023-06-14T00:00:00.000Z,Series B,United States,50
+Western Digital,['SF Bay Area'],Hardware,211,,2023-06-13T00:00:00.000Z,Post-IPO,United States,900
+JupiterOne,['Raleigh'],Security,8,,2023-06-13T00:00:00.000Z,Series C,United States,119
+Zalando,"['Berlin', 'Non-U.S.']",Retail,,,2023-06-13T00:00:00.000Z,Post-IPO,Germany,468
+Grubhub,['SF Bay Area'],Food,400,0.15,2023-06-12T00:00:00.000Z,Acquired,United States,284
+GoCardless,"['London', 'Non-U.S.']",Finance,150,0.17,2023-06-12T00:00:00.000Z,Series G,United Kingdom,529
+Pendo,['Raleigh'],Product,100,0.12,2023-06-12T00:00:00.000Z,Series F,United States,469
+Chegg,['SF Bay Area'],Education,80,0.04,2023-06-12T00:00:00.000Z,Post-IPO,United States,227
+dot.LA,['Los Angeles'],Media,,1,2023-06-12T00:00:00.000Z,Seed,United States,4
+TaxBit,['SF Bay Area'],Crypto,80,0.4,2023-06-11T00:00:00.000Z,Unknown,United States,253
+Tiki,"['Singapore', 'Non-U.S.']",Consumer,,1,2023-06-11T00:00:00.000Z,Unknown,Singapore,
+Trybe,"['Sao Paulo', 'Non-U.S.']",Education,128,0.35,2023-06-09T00:00:00.000Z,Series B,Brazil,40
+23andMe,['SF Bay Area'],Healthcare,75,0.09,2023-06-09T00:00:00.000Z,Post-IPO,United States,1100
+Expel,['Washington D.C.'],Security,60,0.1,2023-06-09T00:00:00.000Z,Series E,United States,288
+Branch,['Columbus'],Finance,186,,2023-06-08T00:00:00.000Z,Series C,United States,229
+Cityblock Health,['New York City'],Healthcare,155,0.12,2023-06-08T00:00:00.000Z,Series D,United States,891
+Highspot,['Seattle'],Sales,140,0.15,2023-06-08T00:00:00.000Z,Series F,United States,644
+Cohesity,['SF Bay Area'],Data,,,2023-06-08T00:00:00.000Z,Series E,United States,805
+Freshworks,['SF Bay Area'],Support,,,2023-06-08T00:00:00.000Z,Post-IPO,United States,484
+Opora,['SF Bay Area'],Security,,1,2023-06-08T00:00:00.000Z,Seed,United States,7
+Byju's,"['Bengaluru', 'Non-U.S.']",Education,1000,,2023-06-07T00:00:00.000Z,Private Equity,India,5500
+Nubank,"['Sao Paulo', 'Non-U.S.']",Finance,296,,2023-06-07T00:00:00.000Z,Post-IPO,Brazil,4100
+Sumo Logic,['SF Bay Area'],Data,79,,2023-06-07T00:00:00.000Z,Acquired,United States,340
+Flatiron Health,['New York City'],Healthcare,39,,2023-06-07T00:00:00.000Z,Acquired,United States,324
+Better.com,['New York City'],Real Estate,,,2023-06-07T00:00:00.000Z,Unknown,United States,905
+HashiCorp,['SF Bay Area'],Infrastructure,,0.08,2023-06-07T00:00:00.000Z,Post-IPO,United States,349
+Ursa Major,['Denver'],Aerospace,,,2023-06-07T00:00:00.000Z,Series D,United States,233
+Coherent,['SF Bay Area'],Manufacturing,196,,2023-06-06T00:00:00.000Z,Post-IPO,United States,
+Edgio,['Phoenix'],Infrastructure,134,0.12,2023-06-06T00:00:00.000Z,Post-IPO,United States,462
+Reddit,['SF Bay Area'],Consumer,90,0.05,2023-06-06T00:00:00.000Z,Series F,United States,1300
+Linktree,"['Melbourne', 'Non-U.S.']",Consumer,60,0.27,2023-06-06T00:00:00.000Z,Unknown,Australia,165
+Dragos,['Baltimore'],Security,50,0.09,2023-06-06T00:00:00.000Z,Series D,United States,364
+Unity,['SF Bay Area'],Other,50,,2023-06-06T00:00:00.000Z,Post-IPO,United States,1300
+Mara,"['Nairobi', 'Non-U.S.']",Crypto,6,,2023-06-06T00:00:00.000Z,Seed,Kenya,23
+Bunnii,['New York City'],Healthcare,,1,2023-06-06T00:00:00.000Z,Unknown,United States,
+Spotify,"['Stockholm', 'Non-U.S.']",Media,200,0.02,2023-06-05T00:00:00.000Z,Post-IPO,Sweden,2100
+Azibo,['Reno'],Finance,,,2023-06-05T00:00:00.000Z,Series A,United States,19
+Flyhomes,['Seattle'],Real Estate,,,2023-06-05T00:00:00.000Z,Series C,United States,310
+Meati Foods,['Denver'],Food,,0.05,2023-06-03T00:00:00.000Z,Series C,United States,274
+ZoomInfo,['Vancouver'],Sales,120,0.03,2023-06-02T00:00:00.000Z,Post-IPO,United States,7
+Staffbase,"['Chemnitz', 'Non-U.S.']",Other,90,,2023-06-02T00:00:00.000Z,Series E,Germany,307
+Zume,['SF Bay Area'],Food,,1,2023-06-02T00:00:00.000Z,Unknown,United States,423
+Haven Technologies,['New York City'],Finance,280,0.7,2023-06-01T00:00:00.000Z,Subsidiary,United States,
+Mural,['SF Bay Area'],Product,170,,2023-06-01T00:00:00.000Z,Series C,United States,192
+Glamyo Health,"['New Delhi', 'Non-U.S.']",Healthcare,160,,2023-06-01T00:00:00.000Z,Series B,India,9
+Outbrain,['New York City'],Marketing,90,0.1,2023-06-01T00:00:00.000Z,Post-IPO,United States,394
+CloudTrucks,['SF Bay Area'],Logistics,,,2023-06-01T00:00:00.000Z,Series B,United States,141
+CoachHub,"['Berlin', 'Non-U.S.']",HR,,0.1,2023-06-01T00:00:00.000Z,Series C,Germany,332
+Fractal Software,['New York City'],Other,,,2023-06-01T00:00:00.000Z,Unknown,United States,
+SentinelOne,['SF Bay Area'],Security,,0.05,2023-06-01T00:00:00.000Z,Post-IPO,United States,696
+SmartAsset,['New York City'],Finance,,0.19,2023-06-01T00:00:00.000Z,Series D,United States,161
+Zendesk,['SF Bay Area'],Support,320,0.08,2023-05-31T00:00:00.000Z,Acquired,United States,85
+ZipRecruiter,['Los Angeles'],Recruiting,270,0.2,2023-05-31T00:00:00.000Z,Post-IPO,United States,769
+Vendr,['Boston'],Other,100,0.25,2023-05-31T00:00:00.000Z,Series B,United States,216
+McMakler,"['Berlin', 'Non-U.S.']",Real Estate,60,,2023-05-31T00:00:00.000Z,Unknown,Germany,214
+Mux,['SF Bay Area'],Infrastructure,40,0.3,2023-05-31T00:00:00.000Z,Series D,United States,173
+Away,['New York City'],Retail,22,0.08,2023-05-31T00:00:00.000Z,Series D,United States,181
+Taxfix,"['Berlin', 'Non-U.S.']",Finance,120,0.2,2023-05-30T00:00:00.000Z,Series D,Germany,330
+Mensa Brands,"['Bengaluru', 'Non-U.S.']",Retail,30,,2023-05-30T00:00:00.000Z,Unknown,India,254
+Coupa,['SF Bay Area'],Finance,,,2023-05-30T00:00:00.000Z,Acquired,United States,219
+Nansen,"['Singapore', 'Non-U.S.']",Crypto,,,2023-05-30T00:00:00.000Z,Series B,Singapore,88
+PacketFabric,['Los Angeles'],Infrastructure,,,2023-05-30T00:00:00.000Z,Unknown,United States,109
+Evolve,['Denver'],Travel,164,0.14,2023-05-29T00:00:00.000Z,Series F,United States,224
+Project44,['Chicago'],Logistics,130,0.1,2023-05-26T00:00:00.000Z,Unknown,United States,817
+DHI Group,['New York City'],Recruiting,53,0.1,2023-05-26T00:00:00.000Z,Post-IPO,United States,
+BenevolentAI,"['London', 'Non-U.S.']",Healthcare,180,,2023-05-25T00:00:00.000Z,Private Equity,United Kingdom,292
+Airmeet,"['Bengaluru', 'Non-U.S.']",Marketing,75,0.3,2023-05-25T00:00:00.000Z,Series B,India,50
+Circus Kitchens,"['Hamburg', 'Non-U.S.']",Food,35,,2023-05-25T00:00:00.000Z,Seed,Germany,12
+Jellysmack,"['Paris', 'Non-U.S.']",Media,13,,2023-05-25T00:00:00.000Z,Series C,France,22
+Kabam,['SF Bay Area'],Consumer,,0.12,2023-05-25T00:00:00.000Z,Acquired,United States,244
+Guild,['Denver'],Education,172,0.12,2023-05-24T00:00:00.000Z,Series F,United States,643
+WillowTree,['Charlottesville'],Marketing,120,0.11,2023-05-24T00:00:00.000Z,Acquired,United States,
+Flink,"['Berlin', 'Non-U.S.']",Food,100,0.16,2023-05-24T00:00:00.000Z,Series B,Germany,1000
+Western Digital,"['Kfar Saba', 'Non-U.S.']",Hardware,60,0.07,2023-05-24T00:00:00.000Z,Post-IPO,Israel,900
+Alibaba Cloud,"['Hangzhou', 'Non-U.S.']",Data,,0.07,2023-05-24T00:00:00.000Z,Subsidiary,China,
+Brainly,"['Krakow', 'Non-U.S.']",Education,,0.3,2023-05-24T00:00:00.000Z,Series D,Poland,148
+Reliance JioMart,"['Mumbai', 'Non-U.S.']",Food,1000,,2023-05-23T00:00:00.000Z,Subsidiary,India,
+Qualcomm,"['Haifa', 'Non-U.S.']",Hardware,30,,2023-05-23T00:00:00.000Z,Post-IPO,Israel,
+SoundCloud,"['Berlin', 'Non-U.S.']",Consumer,,0.08,2023-05-23T00:00:00.000Z,Unknown,Germany,542
+Tractable,"['London', 'Non-U.S.']",Finance,,,2023-05-23T00:00:00.000Z,Series D,United States,119
+AppFolio,['Santa Barbara'],Real Estate,62,,2023-05-22T00:00:00.000Z,Post-IPO,United States,30
+Daylight,['Los Angeles'],Finance,,1,2023-05-22T00:00:00.000Z,Series A,United States,20
+FemTech Health,['Houston'],Healthcare,,1,2023-05-22T00:00:00.000Z,Unknown,United States,
+Paperless Parts,['Boston'],Manufacturing,,,2023-05-22T00:00:00.000Z,Series B,United States,30
+Nuance Communications,['Boston'],Healthcare,,,2023-05-20T00:00:00.000Z,Acquired,United States,
+Moss,"['Berlin', 'Non-U.S.']",Finance,30,,2023-05-19T00:00:00.000Z,Series B,Germany,150
+Pie Insurance,['Washington D.C.'],Finance,63,0.14,2023-05-18T00:00:00.000Z,Series D,United States,621
+Clearbit,['SF Bay Area'],Sales,,,2023-05-18T00:00:00.000Z,Series A,United States,17
+dbt Labs,['Philadelphia'],Data,,0.15,2023-05-18T00:00:00.000Z,Series D,United States,414
+L1ght,"['Tel Aviv', 'Non-U.S.']",Other,,1,2023-05-18T00:00:00.000Z,Seed,Israel,15
+Nextbite,['Denver'],Food,,,2023-05-18T00:00:00.000Z,Series C,United States,150
+TuSimple,['San Diego'],Transportation,,0.3,2023-05-18T00:00:00.000Z,Post-IPO,United States,648
+Stash,['New York City'],Finance,40,0.1,2023-05-17T00:00:00.000Z,Unknown,United States,480
+Formstack,['Indianapolis'],Other,,0.4,2023-05-17T00:00:00.000Z,Private Equity,United States,425
+Cerner,['Kansas City'],Healthcare,3000,0.11,2023-05-16T00:00:00.000Z,Acquired,United States,
+Zepz,"['London', 'Non-U.S.']",Finance,420,0.26,2023-05-16T00:00:00.000Z,Series E,United Kingdom,700
+Lemonade,['New York City'],Finance,45,0.03,2023-05-16T00:00:00.000Z,Post-IPO,United States,481
+DroneUp,['Norfolk'],Logistics,,,2023-05-16T00:00:00.000Z,Unknown,United States,7
+Quanto,"['Sao Paulo', 'Non-U.S.']",Finance,,0.85,2023-05-16T00:00:00.000Z,Series A,Brazil,20
+Cana,['SF Bay Area'],Food,,1,2023-05-13T00:00:00.000Z,Unknown,United States,30
+Nuro,['SF Bay Area'],Transportation,340,0.3,2023-05-12T00:00:00.000Z,Series D,United States,2100
+Telenav,"['Cluj-Napoca', 'Non-U.S.']",Transportation,172,,2023-05-12T00:00:00.000Z,Post-IPO,Romania,30
+Happay,"['Bengaluru', 'Non-U.S.']",Finance,160,0.35,2023-05-12T00:00:00.000Z,Acquired,India,21
+Slickdeals,['Las Vegas'],Retail,79,0.33,2023-05-12T00:00:00.000Z,Unknown,United States,
+Toothsi,"['Mumbai', 'Non-U.S.']",Healthcare,20,,2023-05-12T00:00:00.000Z,Series C,India,87
+Everlaw,['SF Bay Area'],Legal,,0.1,2023-05-12T00:00:00.000Z,Series D,United States,298
+Tessera,['New York City'],Crypto,,1,2023-05-12T00:00:00.000Z,Series A,United States,43
+Cornershop,"['Santiago', 'Non-U.S.']",Food,250,0.11,2023-05-11T00:00:00.000Z,Acquired,Chile,31
+Varo,['SF Bay Area'],Finance,97,,2023-05-11T00:00:00.000Z,Series E,United States,992
+CS Disco,['Austin'],Legal,,0.08,2023-05-11T00:00:00.000Z,Post-IPO,United States,233
+Microsoft,['Seattle'],Other,158,,2023-05-10T00:00:00.000Z,Post-IPO,United States,1
+Redbubble,"['Melbourne', 'Non-U.S.']",Retail,70,0.23,2023-05-10T00:00:00.000Z,Post-IPO,Australia,55
+Similarweb,['New York City'],Other,60,0.06,2023-05-10T00:00:00.000Z,Post-IPO,United States,235
+Stack Overflow,['New York City'],Recruiting,58,0.1,2023-05-10T00:00:00.000Z,Acquired,United States,153
+Akamai,['Boston'],Security,290,0.03,2023-05-09T00:00:00.000Z,Post-IPO,United States,35
+Sonatype,['Baltimore'],Security,100,0.14,2023-05-09T00:00:00.000Z,Acquired,United States,154
+AudioCodes,"['Tel Aviv', 'Non-U.S.']",Other,80,0.06,2023-05-09T00:00:00.000Z,Post-IPO,Israel,91
+Buzzer,['New York City'],Media,,,2023-05-09T00:00:00.000Z,Unknown,United States,32
+Marqeta,['SF Bay Area'],Finance,,0.15,2023-05-09T00:00:00.000Z,Post-IPO,United States,530
+LinkedIn,['SF Bay Area'],Recruiting,716,0.04,2023-05-08T00:00:00.000Z,Acquired,United States,154
+Cuemath,"['Bengaluru', 'Non-U.S.']",Education,100,,2023-05-08T00:00:00.000Z,Unknown,India,121
+Momentis Surgical,"['Tel Aviv', 'Non-U.S.']",Healthcare,70,0.6,2023-05-08T00:00:00.000Z,Series D,Israel,
+Glean AI,['New York City'],Finance,5,,2023-05-08T00:00:00.000Z,Seed,United States,11
+Everledger,"['Brisbane', 'Non-U.S.']",Crypto,,1,2023-05-08T00:00:00.000Z,Unknown,Australia,27
+Twist Bioscience,['SF Bay Area'],Healthcare,270,0.25,2023-05-05T00:00:00.000Z,Post-IPO,United States,503
+Meesho,"['Bengaluru', 'Non-U.S.']",Retail,251,0.15,2023-05-05T00:00:00.000Z,Series F,India,1100
+Teachmint,"['Bengaluru', 'Non-U.S.']",Education,70,,2023-05-05T00:00:00.000Z,Series B,India,118
+Eventus,['Austin'],Finance,,0.33,2023-05-05T00:00:00.000Z,Series B,United States,45
+Shopify,"['Ottawa', 'Non-U.S.']",Retail,2300,0.2,2023-05-04T00:00:00.000Z,Post-IPO,Canada,122
+Sabre,['Dallas'],Travel,1100,0.15,2023-05-04T00:00:00.000Z,Post-IPO,United States,1700
+Scribe Media,['Austin'],Marketing,90,1,2023-05-04T00:00:00.000Z,Unknown,United States,
+Autograph,['Los Angeles'],Crypto,30,0.33,2023-05-04T00:00:00.000Z,Series B,United States,205
+Earnix,"['Tel Aviv', 'Non-U.S.']",Finance,30,0.1,2023-05-04T00:00:00.000Z,Unknown,Israel,100
+Karma,"['Tel Aviv', 'Non-U.S.']",Retail,20,0.28,2023-05-04T00:00:00.000Z,Series A,Israel,34
+Glassbox,"['London', 'Non-U.S.']",Data,,0.14,2023-05-04T00:00:00.000Z,Series C,United Kingdom,70
+Unity,['SF Bay Area'],Other,600,0.08,2023-05-03T00:00:00.000Z,Post-IPO,United States,1300
+Upwork,['SF Bay Area'],Other,137,0.15,2023-05-03T00:00:00.000Z,Post-IPO,United States,168
+Cars24,"['Jakarta', 'Non-U.S.']",Transportation,100,,2023-05-03T00:00:00.000Z,Series G,Indonesia,1300
+Brightcove,['Boston'],Marketing,70,0.1,2023-05-03T00:00:00.000Z,Post-IPO,United States,145
+Healthy.io,"['Tel Aviv', 'Non-U.S.']",Healthcare,70,0.33,2023-05-03T00:00:00.000Z,Series D,United States,185
+Zymergen,['SF Bay Area'],Other,27,,2023-05-03T00:00:00.000Z,Acquired,United States,974
+TheSkimm,['New York City'],Media,22,0.13,2023-05-03T00:00:00.000Z,Series C,United States,28
+Brightline,['SF Bay Area'],Healthcare,,0.2,2023-05-03T00:00:00.000Z,Series C,United States,212
+Bishop Fox,['Phoenix'],Security,50,0.13,2023-05-02T00:00:00.000Z,Series B,United States,146
+Zoomo,"['Sydney', 'Non-U.S.']",Transportation,27,0.08,2023-05-02T00:00:00.000Z,Series B,Australia,105
+Vallai,"['Paris', 'Non-U.S.']",Data,,1,2023-05-02T00:00:00.000Z,Seed,France,
+SAS,['Raleigh'],Data,250,,2023-05-01T00:00:00.000Z,Unknown,United States,
+Lev,['New York City'],Real Estate,34,,2023-05-01T00:00:00.000Z,Series B,United States,114
+PharmEasy,"['Mumbai', 'Non-U.S.']",Healthcare,,,2023-05-01T00:00:00.000Z,Unknown,India,1600
+Vah Vah!,"['Bengaluru', 'Non-U.S.']",Education,150,,2023-04-30T00:00:00.000Z,Seed,India,2
+Cogito,"['New Delhi', 'Non-U.S.']",Data,177,,2023-04-29T00:00:00.000Z,Unknown,India,
+Cue Health,['San Diego'],Healthcare,326,0.3,2023-04-28T00:00:00.000Z,Post-IPO,United States,899
+N26,"['Berlin', 'Non-U.S.']",Finance,71,0.04,2023-04-28T00:00:00.000Z,Series E,United States,1700
+Embark Vet,['Boston'],Healthcare,28,,2023-04-28T00:00:00.000Z,Series B,United States,94
+Poparazzi,['Los Angeles'],Consumer,,1,2023-04-28T00:00:00.000Z,Series A,United States,15
+Providoor,"['Melbourne', 'Non-U.S.']",Food,,1,2023-04-28T00:00:00.000Z,Unknown,Australia,
+Dropbox,['SF Bay Area'],Other,500,0.16,2023-04-27T00:00:00.000Z,Post-IPO,United States,1700
+Alteryx,['Los Angeles'],Data,320,0.11,2023-04-27T00:00:00.000Z,Post-IPO,United States,613
+Vroom,['New York City'],Transportation,120,0.11,2023-04-27T00:00:00.000Z,Post-IPO,United States,1300
+Greenhouse,['New York City'],Recruiting,100,0.12,2023-04-27T00:00:00.000Z,Private Equity,United States,110
+Rebellion Defense,['Washington D.C.'],Data,90,,2023-04-27T00:00:00.000Z,Series B,United States,150
+Poppulo,['Denver'],HR,85,,2023-04-27T00:00:00.000Z,Acquired,United States,30
+Megaport,"['Brisbane', 'Non-U.S.']",Infrastructure,50,0.16,2023-04-27T00:00:00.000Z,Post-IPO,Australia,98
+Airtasker,"['Sydney', 'Non-U.S.']",Retail,45,0.2,2023-04-27T00:00:00.000Z,Series C,Australia,26
+Chief,['New York City'],Other,43,0.14,2023-04-27T00:00:00.000Z,Series B,United States,140
+Tickertape,"['Bengaluru', 'Non-U.S.']",Finance,29,0.29,2023-04-27T00:00:00.000Z,Seed,India,5
+Clubhouse,['SF Bay Area'],Consumer,,0.5,2023-04-27T00:00:00.000Z,Series C,United States,110
+Oddle,"['Singapore', 'Non-U.S.']",Food,,0.25,2023-04-27T00:00:00.000Z,Series B,Singapore,9
+Rad Power Bikes,['Seattle'],Transportation,,,2023-04-27T00:00:00.000Z,Series D,United States,329
+Extramarks,"['Noida', 'Non-U.S.']",Education,300,,2023-04-26T00:00:00.000Z,Unknown,India,
+Teampay,['New York City'],Finance,30,0.33,2023-04-26T00:00:00.000Z,Series B,United States,79
+RenoRun,"['Montreal', 'Non-U.S.']",Construction,,1,2023-04-26T00:00:00.000Z,Series B,Canada,163
+Skill Lync,"['Chennai', 'Non-U.S.']",Education,400,,2023-04-25T00:00:00.000Z,Series A,India,17
+Rapid,['SF Bay Area'],Finance,115,0.5,2023-04-25T00:00:00.000Z,Series D,United States,272
+Rapid,['SF Bay Area'],Finance,70,0.3,2023-04-25T00:00:00.000Z,Series D,United States,272
+Flink,"['Berlin', 'Non-U.S.']",Food,8000,0.4,2023-04-24T00:00:00.000Z,Series B,Germany,1000
+Red Hat,['Raleigh'],Other,760,0.04,2023-04-24T00:00:00.000Z,Acquired,United States,
+BigPanda,['SF Bay Area'],Infrastructure,40,0.13,2023-04-24T00:00:00.000Z,Series E,United States,337
+Lyft,['SF Bay Area'],Transportation,1072,0.26,2023-04-21T00:00:00.000Z,Post-IPO,United States,4900
+Benchling,['SF Bay Area'],Other,74,0.09,2023-04-21T00:00:00.000Z,Series F,United States,411
+Pluralsight,['Salt Lake City'],Education,,,2023-04-21T00:00:00.000Z,Acquired,United States,192
+BuzzFeed,['New York City'],Media,180,0.15,2023-04-20T00:00:00.000Z,Post-IPO,United States,696
+Koo,"['Bengaluru', 'Non-U.S.']",Consumer,78,0.3,2023-04-20T00:00:00.000Z,Series B,India,50
+Open,"['Bengaluru', 'Non-U.S.']",Finance,47,,2023-04-20T00:00:00.000Z,Series D,India,190
+Gloat,['New York City'],HR,35,0.12,2023-04-20T00:00:00.000Z,Series D,United States,192
+Insider,['New York City'],Media,,0.1,2023-04-20T00:00:00.000Z,Unknown,United States,
+Iress,"['Melbourne', 'Non-U.S.']",Finance,,0.1,2023-04-20T00:00:00.000Z,Unknown,Australia,
+Lenovo,['Raleigh'],Hardware,,,2023-04-20T00:00:00.000Z,Post-IPO,United States,850
+F5,['Seattle'],Security,623,0.09,2023-04-19T00:00:00.000Z,Post-IPO,United States,
+WalkMe,['SF Bay Area'],Other,112,0.1,2023-04-19T00:00:00.000Z,Post-IPO,United States,307
+Opendoor,['SF Bay Area'],Real Estate,560,0.22,2023-04-18T00:00:00.000Z,Post-IPO,United States,1900
+Noon,"['Riyadh', 'Non-U.S.']",Retail,340,0.1,2023-04-18T00:00:00.000Z,Unknown,Saudi Arabia,
+Culture Amp,"['Melbourne', 'Non-U.S.']",HR,90,0.09,2023-04-18T00:00:00.000Z,Series F,Australia,257
+TRM Labs,['SF Bay Area'],Crypto,16,0.09,2023-04-18T00:00:00.000Z,Series B,United States,149
+CoLab,"['Sydney', 'Non-U.S.']",Food,,1,2023-04-18T00:00:00.000Z,Seed,Australia,3
+Ten Square Games,"['Wrocław', 'Non-U.S.']",Consumer,120,0.25,2023-04-17T00:00:00.000Z,Seed,Poland,
+Clearcover,['Chicago'],Finance,81,0.15,2023-04-17T00:00:00.000Z,Series D,United States,304
+Paper,"['Montreal', 'Non-U.S.']",Education,81,0.03,2023-04-17T00:00:00.000Z,Series D,Canada,389
+Ynsect,"['Paris', 'Non-U.S.']",Food,17,0.25,2023-04-17T00:00:00.000Z,Series D,France,579
+FamPay,"['Bengaluru', 'Non-U.S.']",Finance,,,2023-04-17T00:00:00.000Z,Series A,India,42
+Kumu,"['Manila', 'Non-U.S.']",Media,,,2023-04-17T00:00:00.000Z,Series C,Philippines,94
+Utopia Music,"['Zug', 'Non-U.S.']",Other,,0.15,2023-04-17T00:00:00.000Z,Series B,Switzerland,
+Quadream,"['Tel Aviv', 'Non-U.S.']",Security,,1,2023-04-16T00:00:00.000Z,Unknown,Israel,
+Drip Capital,['SF Bay Area'],Finance,75,0.2,2023-04-14T00:00:00.000Z,Series C,United States,85
+Community Gaming,['New York City'],Crypto,17,0.17,2023-04-14T00:00:00.000Z,Series A,United States,18
+Calibrate,['New York City'],Healthcare,,0.18,2023-04-14T00:00:00.000Z,Series B,United States,127
+OpenClassrooms,"['Paris', 'Non-U.S.']",Education,,0.25,2023-04-14T00:00:00.000Z,Series C,France,150
+Sayurbox,"['Jakarta', 'Non-U.S.']",Food,,,2023-04-14T00:00:00.000Z,Series C,Indonesia,139
+Snyk,['Boston'],Security,128,,2023-04-13T00:00:00.000Z,Series F,United States,849
+Astronomer,['Cincinnati'],Data,100,0.4,2023-04-13T00:00:00.000Z,Series C,United States,282
+Bluepad,"['Bengaluru', 'Non-U.S.']",Media,,1,2023-04-13T00:00:00.000Z,Seed,India,
+Heygo,"['London', 'Non-U.S.']",Travel,,1,2023-04-13T00:00:00.000Z,Series A,United Kingdom,20
+Lazerpay,"['Lagos', 'Non-U.S.']",Crypto,,1,2023-04-13T00:00:00.000Z,Unknown,Nigeria,
+Mediafly,['Chicago'],Sales,,,2023-04-13T00:00:00.000Z,Private Equity,United States,59
+Viasat,['San Diego'],Other,300,0.04,2023-04-12T00:00:00.000Z,Post-IPO,United States,366
+Science 37,['Los Angeles'],Healthcare,140,,2023-04-12T00:00:00.000Z,Post-IPO,United States,347
+Medtronic,['SF Bay Area'],Healthcare,59,,2023-04-12T00:00:00.000Z,Post-IPO,United States,5900
+Milkrun,"['Sydney', 'Non-U.S.']",Food,400,1,2023-04-11T00:00:00.000Z,Series A,Australia,86
+Redfin,['Seattle'],Real Estate,201,0.04,2023-04-11T00:00:00.000Z,Post-IPO,United States,320
+Permutive,"['London', 'Non-U.S.']",Marketing,80,0.4,2023-04-11T00:00:00.000Z,Series C,United Kingdom,105
+Examedi,"['Santiago', 'Non-U.S.']",Healthcare,45,0.25,2023-04-11T00:00:00.000Z,Unknown,Chile,19
+Acxiom,['Little Rock'],Marketing,,,2023-04-11T00:00:00.000Z,Post-IPO,United States,
+Euler Motors,"['New Delhi', 'Non-U.S.']",Transportation,,0.1,2023-04-11T00:00:00.000Z,Series C,India,92
+Reforge,['SF Bay Area'],Education,,,2023-04-11T00:00:00.000Z,Series B,United States,81
+Flock Freight,['San Diego'],Logistics,45,0.08,2023-04-10T00:00:00.000Z,Series D,United States,399
+Nori,['Seattle'],Energy,10,0.37,2023-04-10T00:00:00.000Z,Unknown,United States,13
+Simpl,"['Bengaluru', 'Non-U.S.']",Finance,150,0.25,2023-04-09T00:00:00.000Z,Series B,India,71
+Practo,"['Bengaluru', 'Non-U.S.']",Healthcare,41,,2023-04-08T00:00:00.000Z,Series D,India,222
+Pear Therapeutics,['Boston'],Healthcare,170,0.92,2023-04-07T00:00:00.000Z,Post-IPO,United States,409
+Workit Health,['Ann Arbor'],Healthcare,100,,2023-04-07T00:00:00.000Z,Series C,United States,138
+ZestMoney,"['Bengaluru', 'Non-U.S.']",Finance,100,0.2,2023-04-07T00:00:00.000Z,Series C,India,120
+Absolute Software,"['Vancouver', 'Non-U.S.']",Security,40,0.05,2023-04-06T00:00:00.000Z,Post-IPO,Canada,
+Avocargo,"['Berlin', 'Non-U.S.']",Transportation,16,1,2023-04-06T00:00:00.000Z,Seed,Germany,
+Dunzo,"['Bengaluru', 'Non-U.S.']",Food,300,0.3,2023-04-05T00:00:00.000Z,Unknown,India,382
+Amplitude,['SF Bay Area'],Data,99,0.13,2023-04-05T00:00:00.000Z,Post-IPO,United States,311
+Talent.com,"['Montreal', 'Non-U.S.']",Recruiting,86,0.18,2023-04-05T00:00:00.000Z,Series B,Canada,150
+1K Kirana,"['Gurugram', 'Non-U.S.']",Retail,600,0.4,2023-04-04T00:00:00.000Z,Series B,India,
+Foundation Medicine,['Boston'],Healthcare,135,,2023-04-04T00:00:00.000Z,Acquired,United States,96
+Finder,"['Sydney', 'Non-U.S.']",Retail,40,,2023-04-04T00:00:00.000Z,Unknown,Australia,30
+Boost,['New York City'],Finance,15,0.2,2023-04-04T00:00:00.000Z,Series B,United States,37
+Cin7,"['Auckland', 'Non-U.S.']",Retail,,,2023-04-04T00:00:00.000Z,Private Equity,New Zealand,
+Hyland Software,['Cleveland'],Other,1000,0.2,2023-04-03T00:00:00.000Z,Acquired,United States,
+View,['SF Bay Area'],Other,170,0.23,2023-04-03T00:00:00.000Z,Post-IPO,United States,2300
+Guideline,['SF Bay Area'],Finance,48,0.11,2023-04-03T00:00:00.000Z,Series E,United States,339
+Textio,['Seattle'],Recruiting,15,0.12,2023-04-03T00:00:00.000Z,Unknown,United States,42
+Apple,['SF Bay Area'],Retail,,,2023-04-03T00:00:00.000Z,Post-IPO,United States,6200
+Checkout.com,"['London', 'Non-U.S.']",Finance,,,2023-04-03T00:00:00.000Z,Series D,United Kingdom,1800
+Domestika,"['Madrid', 'Non-U.S.']",Education,89,0.45,2023-03-31T00:00:00.000Z,Series D,Spain,130
+Airbyte,['SF Bay Area'],Data,,,2023-03-31T00:00:00.000Z,Series B,United States,181
+Hulu,"['Beijing', 'Non-U.S.']",Media,200,,2023-03-30T00:00:00.000Z,Acquired,China,683
+Roku,['SF Bay Area'],Media,200,0.06,2023-03-30T00:00:00.000Z,Post-IPO,United States,208
+LendingTree,['Charlotte'],Finance,150,0.13,2023-03-30T00:00:00.000Z,Post-IPO,United States,
+FanClash,"['Gurugram', 'Non-U.S.']",Consumer,100,0.75,2023-03-30T00:00:00.000Z,Series B,India,50
+Loop,['Austin'],Finance,19,0.25,2023-03-30T00:00:00.000Z,Series A,United States,24
+Crossbeam,['Philadelphia'],Sales,17,0.15,2023-03-30T00:00:00.000Z,Series C,United States,116
+Spotify,"['Stockholm', 'Non-U.S.']",Media,15,,2023-03-30T00:00:00.000Z,Post-IPO,Sweden,2100
+AnswerLab,['SF Bay Area'],Marketing,,0.17,2023-03-30T00:00:00.000Z,Unknown,United States,
+Endowus,"['Singapore', 'Non-U.S.']",Finance,,,2023-03-30T00:00:00.000Z,Unknown,Singapore,44
+GoodWorker,"['Singapore', 'Non-U.S.']",Recruiting,,0.9,2023-03-30T00:00:00.000Z,Acquired,Singapore,
+Kyndryl,['New York City'],Infrastructure,,,2023-03-30T00:00:00.000Z,Post-IPO,United States,
+Nowports,"['Monterrey', 'Non-U.S.']",Logistics,,0.15,2023-03-30T00:00:00.000Z,Series C,Mexico,
+Unacademy,"['Bengaluru', 'Non-U.S.']",Education,,0.12,2023-03-30T00:00:00.000Z,Series H,India,838
+CoverMyMeds,['Columbus'],Healthcare,800,,2023-03-29T00:00:00.000Z,Acquired,United States,5
+Electronic Arts,['SF Bay Area'],Consumer,780,0.06,2023-03-29T00:00:00.000Z,Post-IPO,United States,2
+Seagate,['SF Bay Area'],Hardware,480,,2023-03-29T00:00:00.000Z,Post-IPO,United States,
+Drizly,['Boston'],Retail,100,,2023-03-29T00:00:00.000Z,Acquired,United States,119
+iCAD,['Nashua'],Healthcare,23,0.28,2023-03-29T00:00:00.000Z,Post-IPO,United States,59
+Anyline,"['Vienna', 'Non-U.S.']",Other,,0.25,2023-03-29T00:00:00.000Z,Series B,Austria,37
+OnePipe,"['Lagos', 'Non-U.S.']",Finance,,,2023-03-29T00:00:00.000Z,Seed,Nigeria,9
+Shift,['SF Bay Area'],Transportation,,0.3,2023-03-29T00:00:00.000Z,Post-IPO,United States,504
+Lucid Motors,['SF Bay Area'],Transportation,1300,0.18,2023-03-28T00:00:00.000Z,Post-IPO,United States,8300
+Blue Nile,['Seattle'],Retail,119,,2023-03-28T00:00:00.000Z,Acquired,United States,62
+AEye,['SF Bay Area'],Transportation,46,0.33,2023-03-28T00:00:00.000Z,Post-IPO,United States,314
+Rackspace,['San Antonio'],Data,275,,2023-03-27T00:00:00.000Z,Acquired,United States,17
+Better Therapeutics,['SF Bay Area'],Healthcare,,0.35,2023-03-27T00:00:00.000Z,Post-IPO,United States,143
+Aspiration,['Los Angeles'],Finance,170,,2023-03-24T00:00:00.000Z,Unknown,United States,250
+The Meet Group,['New Hope'],Consumer,,,2023-03-24T00:00:00.000Z,Acquired,United States,
+Cimpress,"['Paris', 'Non-U.S.']",Retail,500,,2023-03-23T00:00:00.000Z,Post-IPO,France,300
+Veeam,['Columbus'],Data,200,,2023-03-23T00:00:00.000Z,Acquired,United States,500
+Glovo,"['Barcelona', 'Non-U.S.']",Food,140,,2023-03-23T00:00:00.000Z,Acquired,Spain,1200
+TakeOff,"['Kyiv', 'Non-U.S.']",Retail,50,,2023-03-23T00:00:00.000Z,Unknown,Ukraine,146
+Slite,"['Paris', 'Non-U.S.']",Other,10,0.25,2023-03-23T00:00:00.000Z,Series A,France,15
+Indeed,['Austin'],HR,2200,0.15,2023-03-22T00:00:00.000Z,Acquired,United States,5
+Logitech,"['Geneva', 'Non-U.S.']",Hardware,300,,2023-03-22T00:00:00.000Z,Post-IPO,Switzerland,
+Glassdoor,['SF Bay Area'],HR,140,0.15,2023-03-22T00:00:00.000Z,Acquired,United States,204
+Wejo,"['Chester', 'Non-U.S.']",Transportation,40,0.16,2023-03-22T00:00:00.000Z,Post-IPO,United Kingdom,376
+Copper,"['London', 'Non-U.S.']",Crypto,,0.15,2023-03-22T00:00:00.000Z,Series C,United Kingdom,281
+Rewind,"['Ottawa', 'Non-U.S.']",Data,,,2023-03-22T00:00:00.000Z,Series B,Canada,80
+Roofstock,['SF Bay Area'],Real Estate,,0.27,2023-03-22T00:00:00.000Z,Series E,United States,365
+Just Eat,"['London', 'Non-U.S.']",Food,1700,,2023-03-21T00:00:00.000Z,Acquired,United Kingdom,
+Marvell,['SF Bay Area'],Hardware,320,0.04,2023-03-21T00:00:00.000Z,Post-IPO,United States,
+Workhuman,"['Dublin', 'Non-U.S.']",HR,130,0.1,2023-03-21T00:00:00.000Z,Unknown,Ireland,131
+FreshBooks,"['Toronto', 'Non-U.S.']",Finance,80,0.1,2023-03-21T00:00:00.000Z,Unknown,Canada,331
+Xing,"['Hamburg', 'Non-U.S.']",HR,68,,2023-03-21T00:00:00.000Z,Series A,Germany,
+Mr Yum,"['Melbourne', 'Non-U.S.']",Food,40,,2023-03-21T00:00:00.000Z,Series A,Australia,101
+Smallcase,"['Bengaluru', 'Non-U.S.']",Finance,15,0.04,2023-03-21T00:00:00.000Z,Series C,India,62
+Expedia,['Seattle'],Travel,,,2023-03-21T00:00:00.000Z,Post-IPO,United States,3300
+GAMURS Group,"['Sydney', 'Non-U.S.']",Consumer,,,2023-03-21T00:00:00.000Z,Series A,Australia,17
+Grin,['Sacramento'],Marketing,,,2023-03-21T00:00:00.000Z,Series B,United States,145
+Laybuy,"['Auckland', 'Non-U.S.']",Finance,,0.1,2023-03-21T00:00:00.000Z,Post-IPO,New Zealand,130
+Amazon,['Seattle'],Retail,9000,,2023-03-20T00:00:00.000Z,Post-IPO,United States,108
+Huuuge Games,"['Warsaw', 'Non-U.S.']",Consumer,,0.1,2023-03-20T00:00:00.000Z,Series C,Poland,57
+Livspace,"['Bengaluru', 'Non-U.S.']",Retail,100,0.02,2023-03-17T00:00:00.000Z,Series F,India,431
+Symend,"['Calgary', 'Non-U.S.']",Other,50,0.25,2023-03-17T00:00:00.000Z,Series C,Canada,148
+Candor Technology,['Atlanta'],Real Estate,,,2023-03-17T00:00:00.000Z,Unknown,United States,23
+Freshworks,['SF Bay Area'],Support,114,0.02,2023-03-16T00:00:00.000Z,Post-IPO,United States,484
+Coherent,['SF Bay Area'],Manufacturing,108,,2023-03-16T00:00:00.000Z,Post-IPO,United States,
+Runtastic,"['Linz', 'Non-U.S.']",Fitness,70,0.28,2023-03-16T00:00:00.000Z,Acquired,Austria,
+Course Hero,['SF Bay Area'],Education,42,0.15,2023-03-16T00:00:00.000Z,Series C,United States,477
+Leafly,['Seattle'],Retail,40,0.21,2023-03-16T00:00:00.000Z,Post-IPO,United States,71
+Bonusly,['Boulder'],HR,,,2023-03-16T00:00:00.000Z,Series B,United States,31
+Klaviyo,['Boston'],Marketing,140,,2023-03-15T00:00:00.000Z,Unknown,United States,778
+Dukaan,"['Bengaluru', 'Non-U.S.']",Retail,56,0.3,2023-03-15T00:00:00.000Z,Series A,India,17
+Boxed,['New York City'],Retail,32,0.25,2023-03-15T00:00:00.000Z,Post-IPO,United States,365
+Nubank,"['Sao Paulo', 'Non-U.S.']",Finance,30,,2023-03-15T00:00:00.000Z,Post-IPO,Brazil,4100
+TradeWindow,"['Auckland', 'Non-U.S.']",Finance,25,0.3,2023-03-15T00:00:00.000Z,Series B,New Zealand,24
+Hometap,['Boston'],Real Estate,,,2023-03-15T00:00:00.000Z,Unknown,United States,172
+Meta,['SF Bay Area'],Consumer,10000,,2023-03-14T00:00:00.000Z,Post-IPO,United States,26000
+Fetch,['Madison'],Retail,100,0.1,2023-03-14T00:00:00.000Z,Series E,United States,581
+Anchorage Digital,['SF Bay Area'],Crypto,75,0.2,2023-03-14T00:00:00.000Z,Series D,United States,487
+Avidbots,"['Kitchener', 'Non-U.S.']",Hardware,50,0.14,2023-03-14T00:00:00.000Z,Series C,Canada,106
+Samsung,['SF Bay Area'],Hardware,30,,2023-03-14T00:00:00.000Z,Post-IPO,United States,
+Kaleidoscope,['Minneapolis'],Finance,15,0.3,2023-03-14T00:00:00.000Z,Series A,United States,16
+GoTo Group,"['Jakarta', 'Non-U.S.']",Transportation,600,,2023-03-10T00:00:00.000Z,Post-IPO,Indonesia,1300
+Cookpad,"['Tokyo', 'Non-U.S.']",Consumer,80,,2023-03-10T00:00:00.000Z,Unknown,Japan,
+Xero,"['Wellington', 'Non-U.S.']",Finance,800,0.15,2023-03-09T00:00:00.000Z,Post-IPO,New Zealand,681
+Shopee,"['Jakarta', 'Non-U.S.']",Food,200,,2023-03-09T00:00:00.000Z,Unknown,Indonesia,
+Gopuff,['Philadelphia'],Food,100,0.02,2023-03-09T00:00:00.000Z,Series H,United States,3400
+Wave Financial,"['Toronto', 'Non-U.S.']",Finance,50,,2023-03-09T00:00:00.000Z,Acquired,Canada,79
+Morning Brew,['New York City'],Media,40,,2023-03-09T00:00:00.000Z,Acquired,United States,
+Bonusly,['Boulder'],HR,,,2023-03-09T00:00:00.000Z,Series B,United States,31
+Neoleukin Therapeutics,['Seattle'],Healthcare,,0.7,2023-03-09T00:00:00.000Z,Post-IPO,United States,157
+Toucan,['Los Angeles'],Education,,1,2023-03-09T00:00:00.000Z,Series A,United States,
+Wattpad,"['Toronto', 'Non-U.S.']",Media,42,0.15,2023-03-08T00:00:00.000Z,Acquired,Canada,117
+Appcues,['Boston'],Data,,0.15,2023-03-08T00:00:00.000Z,Series B,United States,52
+Pristyn Care,"['Gurugram', 'Non-U.S.']",Healthcare,300,0.15,2023-03-07T00:00:00.000Z,Series E,India,177
+Zwift,['Los Angeles'],Fitness,80,0.15,2023-03-07T00:00:00.000Z,Series C,United States,619
+Catch,['New York City'],Finance,,1,2023-03-07T00:00:00.000Z,Series A,United States,18
+RDX Works,"['London', 'Non-U.S.']",Crypto,,0.25,2023-03-07T00:00:00.000Z,Unknown,United Kingdom,6
+Take-Two Interactive,['New York City'],Consumer,,,2023-03-07T00:00:00.000Z,Post-IPO,United States,2700
+Zulily,['Seattle'],Retail,,,2023-03-07T00:00:00.000Z,Acquired,United States,194
+Atlassian,"['Sydney', 'Non-U.S.']",Other,500,0.05,2023-03-06T00:00:00.000Z,Post-IPO,Australia,210
+SiriusXM,['New York City'],Media,475,0.08,2023-03-06T00:00:00.000Z,Post-IPO,United States,525
+Alerzo,"['Ibadan', 'Non-U.S.']",Retail,400,,2023-03-06T00:00:00.000Z,Series B,Nigeria,16
+UKG,['Miami'],HR,265,,2023-03-06T00:00:00.000Z,Unknown,United States,
+UpGrad,"['Mumbai', 'Non-U.S.']",Education,120,,2023-03-06T00:00:00.000Z,Unknown,India,631
+HomeLane,"['Bengaluru', 'Non-U.S.']",Retail,30,,2023-03-06T00:00:00.000Z,Series E,India,116
+Ankorstore,"['Paris', 'Non-U.S.']",Retail,,,2023-03-06T00:00:00.000Z,Series C,France,365
+No Fluff Jobs,"['Gydnia', 'Non-U.S.']",HR,13,,2023-03-04T00:00:00.000Z,Acquired,Poland,
+Loft,"['Sao Paulo', 'Non-U.S.']",Real Estate,340,0.15,2023-03-03T00:00:00.000Z,Unknown,Brazil,788
+Embark Trucks,['SF Bay Area'],Transportation,230,0.7,2023-03-03T00:00:00.000Z,Post-IPO,United States,317
+Lendi,"['Sydney', 'Non-U.S.']",Real Estate,100,,2023-03-03T00:00:00.000Z,Unknown,Australia,59
+UserTesting,['SF Bay Area'],Marketing,63,,2023-03-03T00:00:00.000Z,Acquired,United States,152
+Airbnb,['SF Bay Area'],Travel,30,,2023-03-03T00:00:00.000Z,Post-IPO,United States,6400
+Accolade,['Seattle'],Healthcare,,,2023-03-03T00:00:00.000Z,Post-IPO,United States,458
+Indigo,['Boston'],Other,,,2023-03-03T00:00:00.000Z,Series F,United States,1200
+Zscaler,['SF Bay Area'],Security,177,0.03,2023-03-02T00:00:00.000Z,Post-IPO,United States,148
+MasterClass,['SF Bay Area'],Education,79,,2023-03-02T00:00:00.000Z,Series E,United States,461
+Ambev Tech,"['Blumenau', 'Non-U.S.']",Food,50,,2023-03-02T00:00:00.000Z,Acquired,Brazil,
+Fittr,"['Pune', 'Non-U.S.']",Fitness,30,0.11,2023-03-02T00:00:00.000Z,Series A,India,13
+CNET,['SF Bay Area'],Media,12,0.1,2023-03-02T00:00:00.000Z,Acquired,United States,20
+Comparis,"['Zurich', 'Non-U.S.']",Finance,,0.1,2023-03-02T00:00:00.000Z,Unknown,Switzerland,
+Flipkart,"['Bengaluru', 'Non-U.S.']",Retail,,,2023-03-02T00:00:00.000Z,Acquired,India,12900
+Kandela,['Los Angeles'],Consumer,,1,2023-03-02T00:00:00.000Z,Acquired,United States,
+Orchard,['New York City'],Real Estate,,,2023-03-02T00:00:00.000Z,Series D,United States,472
+Truckstop.com,['Boise'],Logistics,,,2023-03-02T00:00:00.000Z,Acquired,United States,
+Thoughtworks,['Chicago'],Other,500,0.04,2023-03-01T00:00:00.000Z,Post-IPO,United States,748
+iFood,"['Sao Paulo', 'Non-U.S.']",Food,355,0.06,2023-03-01T00:00:00.000Z,Subsidiary,Brazil,2100
+Color Health,['SF Bay Area'],Healthcare,300,,2023-03-01T00:00:00.000Z,Series E,United States,482
+Waymo,['SF Bay Area'],Transportation,209,0.08,2023-03-01T00:00:00.000Z,Subsidiary,United States,5500
+PayFit,"['Paris', 'Non-U.S.']",HR,200,0.2,2023-03-01T00:00:00.000Z,Series E,France,495
+Yellow.ai,['SF Bay Area'],Support,200,,2023-03-01T00:00:00.000Z,Series C,United States,102
+Sonder,['SF Bay Area'],Travel,100,0.14,2023-03-01T00:00:00.000Z,Post-IPO,United States,839
+Protego Trust Bank,['Seattle'],Crypto,,0.5,2023-03-01T00:00:00.000Z,Series A,United States,70
+Electronic Arts,['Baton Rouge'],Consumer,200,,2023-02-28T00:00:00.000Z,Post-IPO,United States,2
+Eventbrite,['SF Bay Area'],Consumer,80,0.08,2023-02-28T00:00:00.000Z,Post-IPO,United States,557
+Ezoic,['San Diego'],Infrastructure,10,,2023-02-28T00:00:00.000Z,Series A,United States,39
+DUX Education,"['Bengaluru', 'Non-U.S.']",Education,,1,2023-02-28T00:00:00.000Z,Unknown,India,
+MeridianLink,['Los Angeles'],Finance,,0.09,2023-02-28T00:00:00.000Z,Post-IPO,United States,485
+Sono Motors,"['Munich', 'Non-U.S.']",Transportation,300,,2023-02-27T00:00:00.000Z,Post-IPO,Germany,126
+Cerebral,['SF Bay Area'],Healthcare,285,0.15,2023-02-27T00:00:00.000Z,Series C,United States,462
+Amount,['Chicago'],Finance,130,0.25,2023-02-27T00:00:00.000Z,Unknown,United States,283
+Palantir,['Denver'],Data,75,0.02,2023-02-27T00:00:00.000Z,Post-IPO,United States,3000
+Outreach,['Seattle'],Sales,70,0.07,2023-02-27T00:00:00.000Z,Series G,United States,489
+Stytch,['SF Bay Area'],Security,19,0.25,2023-02-27T00:00:00.000Z,Series B,United States,126
+BitSight,"['Tel Aviv', 'Non-U.S.']",Security,40,,2023-02-26T00:00:00.000Z,Unknown,Israel,401
+Twitter,['SF Bay Area'],Consumer,200,0.1,2023-02-25T00:00:00.000Z,Post-IPO,United States,12900
+Ericsson,"['Stockholm', 'Non-U.S.']",Other,8500,0.08,2023-02-24T00:00:00.000Z,Post-IPO,Sweden,663
+SAP Labs,"['Bengaluru', 'Non-U.S.']",Other,300,,2023-02-24T00:00:00.000Z,Subsidiary,India,1300
+Velodyne Lidar,['SF Bay Area'],Transportation,220,,2023-02-24T00:00:00.000Z,Acquired,United States,575
+Medallia,['SF Bay Area'],Support,59,,2023-02-24T00:00:00.000Z,Acquired,United States,325
+Eat Just,['SF Bay Area'],Food,40,,2023-02-24T00:00:00.000Z,Unknown,United States,465
+Lucira Health,['SF Bay Area'],Healthcare,26,,2023-02-24T00:00:00.000Z,Post-IPO,United States,132
+Stax,['Orlando'],Finance,24,,2023-02-24T00:00:00.000Z,Series D,United States,263
+EQRx,['Boston'],Healthcare,,0.18,2023-02-24T00:00:00.000Z,Post-IPO,United States,1900
+Poshmark,['SF Bay Area'],Retail,,0.02,2023-02-24T00:00:00.000Z,Acquired,United States,153
+Merative,['Ann Arbor'],Healthcare,200,0.1,2023-02-23T00:00:00.000Z,Acquired,United States,
+OneFootball,"['Berlin', 'Non-U.S.']",Marketing,150,0.32,2023-02-23T00:00:00.000Z,Series D,Germany,442
+The Iconic,"['Sydney', 'Non-U.S.']",Retail,69,0.06,2023-02-23T00:00:00.000Z,Unknown,Australia,
+EVgo,['Los Angeles'],Transportation,40,,2023-02-23T00:00:00.000Z,Post-IPO,United States,400
+StrongDM,['SF Bay Area'],Infrastructure,40,,2023-02-23T00:00:00.000Z,Series B,United States,76
+Dapper Labs,"['Vancouver', 'Non-U.S.']",Crypto,,0.2,2023-02-23T00:00:00.000Z,Series D,United States,607
+Messari,['New York City'],Crypto,,0.15,2023-02-23T00:00:00.000Z,Series B,United States,61
+Vibrent Health,['Washington D.C.'],Healthcare,,0.13,2023-02-23T00:00:00.000Z,Unknown,United States,
+Synamedia,"['London', 'Non-U.S.']",Media,200,0.12,2023-02-22T00:00:00.000Z,Unknown,United Kingdom,
+TaskUs,['San Antonio'],Support,186,,2023-02-22T00:00:00.000Z,Post-IPO,United States,279
+Arch Oncology,['St. Louis'],Healthcare,,,2023-02-22T00:00:00.000Z,Series C,United States,155
+Immutable,"['Sydney', 'Non-U.S.']",Crypto,,0.11,2023-02-22T00:00:00.000Z,Series C,Australia,279
+Jounce Therapeutics,['Boston'],Healthcare,,0.57,2023-02-22T00:00:00.000Z,Acquired,United States,194
+Locomation,['Pittsburgh'],Transportation,,1,2023-02-22T00:00:00.000Z,Seed,United States,57
+Green Labs,"['Seoul', 'Non-U.S.']",Food,350,0.7,2023-02-21T00:00:00.000Z,Series C,South Korea,214
+Polygon,"['Bengaluru', 'Non-U.S.']",Crypto,100,0.2,2023-02-21T00:00:00.000Z,Unknown,India,451
+Crunchyroll,"['Tokyo', 'Non-U.S.']",Media,85,,2023-02-21T00:00:00.000Z,Unknown,Japan,26
+Ethos Life,['SF Bay Area'],Finance,50,,2023-02-21T00:00:00.000Z,Series D,United States,406
+Basis Technologies,['Chicago'],Marketing,40,0.04,2023-02-21T00:00:00.000Z,Series B,United States,52
+Bolt,"['Lagos', 'Non-U.S.']",Transportation,17,,2023-02-21T00:00:00.000Z,Series F,Nigeria,
+Criteo,"['Paris', 'Non-U.S.']",Marketing,,,2023-02-21T00:00:00.000Z,Post-IPO,France,61
+PeerStreet,['Los Angeles'],Real Estate,,,2023-02-21T00:00:00.000Z,Series C,United States,121
+Zalando,"['Berlin', 'Non-U.S.']",Retail,,,2023-02-21T00:00:00.000Z,Post-IPO,Germany,467
+MyGate,"['Bengaluru', 'Non-U.S.']",Other,200,0.3,2023-02-20T00:00:00.000Z,Series B,India,79
+Fireblocks,['New York City'],Crypto,30,0.05,2023-02-20T00:00:00.000Z,Series E,United States,1000
+Kinde,"['Sydney', 'Non-U.S.']",Other,8,0.28,2023-02-20T00:00:00.000Z,Seed,Australia,10
+Fipola,"['Chennai', 'Non-U.S.']",Food,,1,2023-02-20T00:00:00.000Z,Series A,United States,9
+HP,"['Tel Aviv', 'Non-U.S.']",Hardware,100,,2023-02-19T00:00:00.000Z,Post-IPO,Israel,4200
+Micron,['Boise'],Hardware,2400,0.05,2023-02-17T00:00:00.000Z,Post-IPO,United States,50
+Tencent,"['Shenzen', 'Non-U.S.']",Consumer,300,,2023-02-17T00:00:00.000Z,Post-IPO,China,12600
+Evernote,['SF Bay Area'],Consumer,129,,2023-02-17T00:00:00.000Z,Acquired,United States,290
+Chipper Cash,['SF Bay Area'],Finance,100,0.33,2023-02-17T00:00:00.000Z,Series C,United States,302
+Digimarc,['Portland'],Other,,,2023-02-17T00:00:00.000Z,Post-IPO,United States,105
+Reserve,['SF Bay Area'],Crypto,,,2023-02-17T00:00:00.000Z,Unknown,United States,
+DocuSign,['SF Bay Area'],Sales,680,0.1,2023-02-16T00:00:00.000Z,Post-IPO,United States,536
+Pico Interactive,['SF Bay Area'],Other,400,0.2,2023-02-16T00:00:00.000Z,Acquired,United States,62
+The RealReal,['SF Bay Area'],Retail,230,0.07,2023-02-16T00:00:00.000Z,Post-IPO,United States,356
+Smartsheet,['Seattle'],Other,85,0.03,2023-02-16T00:00:00.000Z,Post-IPO,United States,152
+Convoy,['Atlanta'],Logistics,,,2023-02-16T00:00:00.000Z,Series E,United States,1100
+Wix,"['Tel Aviv', 'Non-U.S.']",Marketing,370,0.06,2023-02-15T00:00:00.000Z,Post-IPO,Israel,58
+ServiceTitan,['Los Angeles'],Sales,221,0.08,2023-02-15T00:00:00.000Z,Series G,United States,1100
+Neon,"['Sao Paulo', 'Non-U.S.']",Finance,210,0.09,2023-02-15T00:00:00.000Z,Series D,Brazil,720
+Jellysmack,"['Paris', 'Non-U.S.']",Media,208,,2023-02-15T00:00:00.000Z,Series C,France,22
+DigitalOcean,['New York City'],Infrastructure,200,0.11,2023-02-15T00:00:00.000Z,Post-IPO,United States,491
+Sprinklr,['New York City'],Support,100,0.04,2023-02-15T00:00:00.000Z,Post-IPO,United States,429
+Betterment,['New York City'],Finance,28,,2023-02-15T00:00:00.000Z,Series F,United States,435
+Divvy Homes,['SF Bay Area'],Real Estate,,,2023-02-15T00:00:00.000Z,Series B,United States,180
+Milkrun,"['Sydney', 'Non-U.S.']",Food,,0.2,2023-02-15T00:00:00.000Z,Series A,Australia,86
+Momentive,['SF Bay Area'],Marketing,,0.14,2023-02-15T00:00:00.000Z,Post-IPO,United States,1100
+Observe.AI,['SF Bay Area'],Support,,,2023-02-15T00:00:00.000Z,Series C,United States,214
+Religion of Sports,['Los Angeles'],Media,,,2023-02-15T00:00:00.000Z,Series B,United States,63
+Tackle,['Boise'],Other,,0.15,2023-02-15T00:00:00.000Z,Series C,United States,148
+Vicarious Surgical,['Boston'],Healthcare,,0.14,2023-02-15T00:00:00.000Z,Post-IPO,United States,185
+Blackbaud,['Charleston'],Other,500,0.14,2023-02-14T00:00:00.000Z,Post-IPO,United States,
+CommerceHub,['Albany'],Retail,371,0.31,2023-02-14T00:00:00.000Z,Acquired,United States,
+Dropp,"['Berlin', 'Non-U.S.']",Retail,60,1,2023-02-14T00:00:00.000Z,Unknown,Germany,2
+HackerEarth,['SF Bay Area'],HR,,0.08,2023-02-14T00:00:00.000Z,Series B,United States,11
+PhableCare,"['Bengaluru', 'Non-U.S.']",Healthcare,,0.7,2023-02-14T00:00:00.000Z,Series B,India,40
+Udemy,['SF Bay Area'],Education,,0.1,2023-02-14T00:00:00.000Z,Post-IPO,United States,311
+Twilio,['SF Bay Area'],Other,1500,0.17,2023-02-13T00:00:00.000Z,Post-IPO,United States,614
+Electric,['New York City'],Other,141,0.25,2023-02-13T00:00:00.000Z,Series D,United States,212
+EMX Digital,['New York City'],Marketing,100,1,2023-02-13T00:00:00.000Z,Unknown,United States,
+PetLove,"['Sao Paulo', 'Non-U.S.']",Retail,94,,2023-02-13T00:00:00.000Z,Series C,Brazil,225
+iRobot,['Boston'],Consumer,85,0.07,2023-02-13T00:00:00.000Z,Acquired,United States,30
+Collective Health,['SF Bay Area'],Healthcare,54,,2023-02-13T00:00:00.000Z,Series F,United States,719
+Magic Eden,['SF Bay Area'],Crypto,22,,2023-02-13T00:00:00.000Z,Series B,United States,170
+Casavo,"['Milan', 'Non-U.S.']",Real Estate,,0.3,2023-02-13T00:00:00.000Z,Unknown,Italy,708
+Foodpanda,"['Singapore', 'Non-U.S.']",Food,,,2023-02-13T00:00:00.000Z,Acquired,Singapore,749
+Getir,"['London', 'Non-U.S.']",Food,,,2023-02-13T00:00:00.000Z,Series E,United Kingdom,1800
+LinkedIn,['SF Bay Area'],Recruiting,,,2023-02-13T00:00:00.000Z,Acquired,United States,154
+Moladin,"['Jakarta', 'Non-U.S.']",Transportation,360,0.11,2023-02-12T00:00:00.000Z,Series B,Indonesia,138
+TripleLift,['New York City'],Marketing,100,0.2,2023-02-10T00:00:00.000Z,Acquired,United States,16
+Titan Medical,"['Toronto', 'Non-U.S.']",Healthcare,48,0.72,2023-02-10T00:00:00.000Z,Post-IPO,Canada,278
+TikTok India,"['Mumbai', 'Non-U.S.']",Consumer,40,,2023-02-10T00:00:00.000Z,Acquired,India,9400
+Syft Technologies,"['Auckland', 'Non-U.S.']",Manufacturing,30,0.2,2023-02-10T00:00:00.000Z,Private Equity,New Zealand,
+Open Co,"['Sao Paulo', 'Non-U.S.']",Finance,,,2023-02-10T00:00:00.000Z,Series D,Brazil,140
+Rigetti Computing,['SF Bay Area'],Hardware,,0.28,2023-02-10T00:00:00.000Z,Post-IPO,United States,298
+Wonderschool,['SF Bay Area'],Education,,,2023-02-10T00:00:00.000Z,Series A,United States,24
+Yahoo,['SF Bay Area'],Consumer,1600,0.2,2023-02-09T00:00:00.000Z,Acquired,United States,6
+Misfits Market,['Philadelphia'],Food,649,0.33,2023-02-09T00:00:00.000Z,Series C,United States,526
+Deliveroo,"['London', 'Non-U.S.']",Food,350,0.09,2023-02-09T00:00:00.000Z,Post-IPO,United Kingdom,1700
+Olive AI,['Columbus'],Healthcare,215,0.35,2023-02-09T00:00:00.000Z,Series H,United States,856
+Oportun,['SF Bay Area'],Finance,155,0.1,2023-02-09T00:00:00.000Z,Post-IPO,United States,566
+GitLab,['SF Bay Area'],Product,130,0.07,2023-02-09T00:00:00.000Z,Post-IPO,United States,413
+Bark,['New York City'],Retail,126,0.12,2023-02-09T00:00:00.000Z,Post-IPO,United States,
+Veriff,"['Tallinn', 'Non-U.S.']",Security,66,0.12,2023-02-09T00:00:00.000Z,Series C,Estonia,192
+REE Automotive,"['Tel Aviv', 'Non-U.S.']",Transportation,31,0.11,2023-02-09T00:00:00.000Z,Post-IPO,Israel,317
+GitHub,['SF Bay Area'],Product,,0.1,2023-02-09T00:00:00.000Z,Acquired,United States,350
+Quillt,['St. Louis'],Media,,,2023-02-09T00:00:00.000Z,Unknown,United States,
+WeTrade,"['Bengaluru', 'Non-U.S.']",Crypto,,1,2023-02-09T00:00:00.000Z,Unknown,India,
+GoDaddy,['Phoenix'],Marketing,530,0.08,2023-02-08T00:00:00.000Z,Post-IPO,United States,800
+Affirm,['SF Bay Area'],Finance,500,0.19,2023-02-08T00:00:00.000Z,Post-IPO,United States,1500
+Gusto,['SF Bay Area'],HR,126,0.05,2023-02-08T00:00:00.000Z,Series E,United States,746
+Gong,['SF Bay Area'],Sales,80,0.07,2023-02-08T00:00:00.000Z,Series E,United States,583
+Beam Benefits,['Columbus'],Healthcare,31,0.08,2023-02-08T00:00:00.000Z,Series E,United States,168
+Equitybee,['SF Bay Area'],Finance,24,0.25,2023-02-08T00:00:00.000Z,Series B,United States,85
+Baraja,"['Sydney', 'Non-U.S.']",Transportation,,0.75,2023-02-08T00:00:00.000Z,Unknown,Australia,63
+Koho,"['Toronto', 'Non-U.S.']",Finance,,0.14,2023-02-08T00:00:00.000Z,Series D,Canada,278
+Medly,['New York City'],Healthcare,,1,2023-02-08T00:00:00.000Z,Series C,United States,100
+Nearmap,"['Sydney', 'Non-U.S.']",Construction,,0.2,2023-02-08T00:00:00.000Z,Acquired,Australia,15
+Zoom,['SF Bay Area'],Other,1300,0.15,2023-02-07T00:00:00.000Z,Post-IPO,United States,276
+eBay,['SF Bay Area'],Retail,500,0.04,2023-02-07T00:00:00.000Z,Post-IPO,United States,1200
+SecureWorks,['Atlanta'],Security,212,0.09,2023-02-07T00:00:00.000Z,Post-IPO,United States,83
+Salesloft,['Atlanta'],Sales,100,0.1,2023-02-07T00:00:00.000Z,Acquired,United States,245
+Openpay,"['Melbourne', 'Non-U.S.']",Finance,83,1,2023-02-07T00:00:00.000Z,Post-IPO,Australia,299
+LearnUpon,"['Dublin', 'Non-U.S.']",Education,27,0.09,2023-02-07T00:00:00.000Z,Private Equity,Ireland,56
+Sana Benefits,['Austin'],HR,,0.19,2023-02-07T00:00:00.000Z,Series B,United States,106
+Dell,['Austin'],Hardware,6650,0.05,2023-02-06T00:00:00.000Z,Post-IPO,United States,
+Loggi,"['Sao Paulo', 'Non-U.S.']",Logistics,300,0.07,2023-02-06T00:00:00.000Z,Series F,Brazil,507
+Catch.com.au,"['Melbourne', 'Non-U.S.']",Retail,100,,2023-02-06T00:00:00.000Z,Acquired,Australia,80
+VinFast US,['Los Angeles'],Transportation,80,,2023-02-06T00:00:00.000Z,Subsidiary,United States,
+Drift,['Boston'],Marketing,59,,2023-02-06T00:00:00.000Z,Acquired,United States,107
+Pocket Aces,"['Mumbai', 'Non-U.S.']",Media,50,0.25,2023-02-06T00:00:00.000Z,Unknown,India,19
+Clari,['SF Bay Area'],Sales,20,,2023-02-06T00:00:00.000Z,Series F,United States,496
+C6 Bank,"['Sao Paulo', 'Non-U.S.']",Finance,,,2023-02-06T00:00:00.000Z,Unknown,Brazil,2300
+Daraz,"['Singapore', 'Non-U.S.']",Retail,,0.11,2023-02-06T00:00:00.000Z,Unknown,Singapore,
+TenureX,"['Tel Aviv', 'Non-U.S.']",Finance,,,2023-02-06T00:00:00.000Z,Seed,Israel,6
+Kyruus,['Boston'],Healthcare,70,,2023-02-05T00:00:00.000Z,Unknown,United States,183
+Lightico,"['Tel Aviv', 'Non-U.S.']",Finance,20,0.25,2023-02-05T00:00:00.000Z,Series B,Israel,42
+Eightfold AI,['SF Bay Area'],HR,90,0.15,2023-02-03T00:00:00.000Z,Series E,United States,396
+FarEye,"['New Delhi', 'Non-U.S.']",Logistics,90,,2023-02-03T00:00:00.000Z,Series E,India,150
+Protocol Labs,['SF Bay Area'],Crypto,89,0.2,2023-02-03T00:00:00.000Z,Unknown,United States,10
+Built Technologies copy,['Nashville'],Construction,,0.08,2023-02-03T00:00:00.000Z,Unknown,United States,313
+Finder,"['Sydney', 'Non-U.S.']",Retail,,0.15,2023-02-03T00:00:00.000Z,Unknown,Australia,30
+Byju's,"['Bengaluru', 'Non-U.S.']",Education,1500,,2023-02-02T00:00:00.000Z,Private Equity,India,5500
+Okta,['SF Bay Area'],Security,300,0.05,2023-02-02T00:00:00.000Z,Post-IPO,United States,1200
+Autodesk,['SF Bay Area'],Other,250,0.02,2023-02-02T00:00:00.000Z,Post-IPO,United States,
+Mindstrong,['SF Bay Area'],Healthcare,127,,2023-02-02T00:00:00.000Z,Series C,United States,160
+NCC Group,"['Manchester', 'Non-U.S.']",Security,125,0.07,2023-02-02T00:00:00.000Z,Post-IPO,United Kingdom,
+Miro,['SF Bay Area'],Other,119,0.07,2023-02-02T00:00:00.000Z,Series C,United States,476
+Getir,['New York City'],Food,100,,2023-02-02T00:00:00.000Z,Series E,United States,1800
+Highspot,['Seattle'],Sales,100,0.1,2023-02-02T00:00:00.000Z,Series F,United States,644
+Bittrex,['Seattle'],Crypto,80,,2023-02-02T00:00:00.000Z,Unknown,United States,
+Snowplow,"['London', 'Non-U.S.']",Data,40,,2023-02-02T00:00:00.000Z,Series B,United States,55
+Articulate,['New York City'],Education,38,,2023-02-02T00:00:00.000Z,Series A,United States,1500
+Desktop Metal,['Boston'],Other,,,2023-02-02T00:00:00.000Z,Post-IPO,United States,811
+Getaround,['SF Bay Area'],Transportation,,0.1,2023-02-02T00:00:00.000Z,Post-IPO,United States,948
+NCSoft,"['Seoul', 'Non-U.S.']",Consumer,,0.2,2023-02-02T00:00:00.000Z,Post-IPO,South Korea,240
+Sharesies,"['Wellington', 'Non-U.S.']",Finance,,,2023-02-02T00:00:00.000Z,Series C,New Zealand,60
+Talkdesk,['SF Bay Area'],Support,,,2023-02-02T00:00:00.000Z,Series D,United States,497
+Splunk,['SF Bay Area'],Data,325,0.04,2023-02-01T00:00:00.000Z,Post-IPO,United States,2400
+Pinterest,['SF Bay Area'],Consumer,150,,2023-02-01T00:00:00.000Z,Post-IPO,United States,1500
+DraftKings,['Boston'],Consumer,140,0.04,2023-02-01T00:00:00.000Z,Post-IPO,United States,719
+Cyren,['Washington D.C.'],Security,121,,2023-02-01T00:00:00.000Z,Post-IPO,United States,161
+Workato,['SF Bay Area'],Other,90,0.1,2023-02-01T00:00:00.000Z,Series E,United States,415
+VerticalScope,"['Toronto', 'Non-U.S.']",Media,60,0.22,2023-02-01T00:00:00.000Z,Post-IPO,Canada,
+Wheel,['Austin'],Healthcare,56,0.28,2023-02-01T00:00:00.000Z,Series C,United States,215
+Chainalysis,['New York City'],Crypto,44,0.05,2023-02-01T00:00:00.000Z,Series F,United States,536
+Appgate,['Miami'],Security,34,0.08,2023-02-01T00:00:00.000Z,Post-IPO,United States,
+Exterro,['Portland'],Legal,24,0.03,2023-02-01T00:00:00.000Z,Private Equity,United States,100
+TheSkimm,['New York City'],Media,17,0.1,2023-02-01T00:00:00.000Z,Series C,United States,28
+Ada,"['Toronto', 'Non-U.S.']",Support,,,2023-02-01T00:00:00.000Z,Series C,Canada,190
+Bustle Digital Group,['New York City'],Media,,0.08,2023-02-01T00:00:00.000Z,Series E,United States,80
+Frequency Therapeutics,['Boston'],Healthcare,,0.5,2023-02-01T00:00:00.000Z,Post-IPO,United States,76
+MariaDB,"['Helsinki', 'Non-U.S.']",Data,,0.08,2023-02-01T00:00:00.000Z,Post-IPO,Finland,245
+Match Group,['New York City'],Consumer,,0.08,2023-02-01T00:00:00.000Z,Post-IPO,United States,
+Omnipresent,"['London', 'Non-U.S.']",HR,,,2023-02-01T00:00:00.000Z,Series B,United States,137
+Picnic,['Seattle'],Food,,,2023-02-01T00:00:00.000Z,Unknown,United States,52
+Rivian,['Detroit'],Transportation,,0.06,2023-02-01T00:00:00.000Z,Post-IPO,United States,10700
+PayPal,['SF Bay Area'],Finance,2000,0.07,2023-01-31T00:00:00.000Z,Post-IPO,United States,216
+NetApp,['SF Bay Area'],Data,960,0.08,2023-01-31T00:00:00.000Z,Post-IPO,United States,
+Workday,['SF Bay Area'],HR,525,0.03,2023-01-31T00:00:00.000Z,Post-IPO,United States,230
+HubSpot,['Boston'],Marketing,500,0.07,2023-01-31T00:00:00.000Z,Post-IPO,United States,100
+Upstart,['SF Bay Area'],Finance,365,0.2,2023-01-31T00:00:00.000Z,Post-IPO,United States,144
+Software AG,"['Frankfurt', 'Non-U.S.']",Data,200,0.04,2023-01-31T00:00:00.000Z,Post-IPO,Germany,344
+Wish,['SF Bay Area'],Retail,150,0.17,2023-01-31T00:00:00.000Z,Post-IPO,United States,1600
+Wefox,"['Berlin', 'Non-U.S.']",Finance,100,,2023-01-31T00:00:00.000Z,Series D,Germany,1300
+Tilting Point,['New York City'],Consumer,60,0.14,2023-01-31T00:00:00.000Z,Unknown,United States,235
+Gokada,"['Lagos', 'Non-U.S.']",Transportation,54,,2023-01-31T00:00:00.000Z,Unknown,Nigeria,12
+Nubank,"['Sao Paulo', 'Non-U.S.']",Finance,40,,2023-01-31T00:00:00.000Z,Post-IPO,Brazil,4100
+AU10TIX,"['Tel Aviv', 'Non-U.S.']",Security,19,0.09,2023-01-31T00:00:00.000Z,Unknown,Israel,80
+National Instruments,['Austin'],Hardware,,0.04,2023-01-31T00:00:00.000Z,Post-IPO,United States,
+OpenText,"['Waterloo', 'Non-U.S.']",Data,,0.08,2023-01-31T00:00:00.000Z,Post-IPO,Canada,1100
+Philips,"['Amsterdam', 'Non-U.S.']",Healthcare,6000,0.13,2023-01-30T00:00:00.000Z,Post-IPO,Netherlands,
+OLX Group,"['Amsterdam', 'Non-U.S.']",Marketing,1500,0.15,2023-01-30T00:00:00.000Z,Acquired,Netherlands,
+Arrival,"['London', 'Non-U.S.']",Transportation,800,0.5,2023-01-30T00:00:00.000Z,Post-IPO,United Kingdom,629
+Groupon,['Chicago'],Retail,500,,2023-01-30T00:00:00.000Z,Post-IPO,United States,1400
+Intel,['SF Bay Area'],Hardware,343,,2023-01-30T00:00:00.000Z,Post-IPO,United States,12
+Glovo,"['Barcelona', 'Non-U.S.']",Food,250,0.06,2023-01-30T00:00:00.000Z,Acquired,Spain,1200
+Delivery Hero,"['Berlin', 'Non-U.S.']",Food,156,0.04,2023-01-30T00:00:00.000Z,Post-IPO,Germany,9900
+Impossible Foods copy,['SF Bay Area'],Food,140,0.2,2023-01-30T00:00:00.000Z,Series H,United States,1900
+Chrono24,"['Karlsruhe', 'Non-U.S.']",Retail,65,0.13,2023-01-30T00:00:00.000Z,Series C,Germany,205
+BM Technologies,['Philadelphia'],Finance,,0.25,2023-01-30T00:00:00.000Z,Post-IPO,United States,
+Olist,"['Curitiba', 'Non-U.S.']",Retail,,,2023-01-30T00:00:00.000Z,Series E,Brazil,322
+Oyster,['Charlotte'],HR,,,2023-01-30T00:00:00.000Z,Series C,United States,224
+Prime Trust,['Las Vegas'],Crypto,,0.33,2023-01-30T00:00:00.000Z,Series B,United States,176
+Quantum SI,['New Haven'],Healthcare,,0.12,2023-01-30T00:00:00.000Z,Post-IPO,United States,425
+SoFi,['SF Bay Area'],Finance,,,2023-01-30T00:00:00.000Z,Post-IPO,United States,3000
+Hoxhunt,"['Helsinki', 'Non-U.S.']",Security,,,2023-01-29T00:00:00.000Z,Series B,Finland,43
+Me Poupe,"['Sao Paulo', 'Non-U.S.']",Finance,60,0.5,2023-01-28T00:00:00.000Z,Unknown,Brazil,
+CoinTracker,['SF Bay Area'],Crypto,19,,2023-01-28T00:00:00.000Z,Series A,United States,101
+SSense,"['Montreal', 'Non-U.S.']",Retail,138,0.07,2023-01-27T00:00:00.000Z,Series A,Canada,
+DealShare,"['Bengaluru', 'Non-U.S.']",Retail,100,0.06,2023-01-27T00:00:00.000Z,Series E,India,390
+Ruggable,['Los Angeles'],Retail,100,,2023-01-27T00:00:00.000Z,Seed,United States,
+Synopsys,['SF Bay Area'],Other,100,,2023-01-27T00:00:00.000Z,Post-IPO,United States,
+Heycar,"['Berlin', 'Non-U.S.']",Transportation,73,,2023-01-27T00:00:00.000Z,Unknown,Germany,
+Matrixport,"['Singapore', 'Non-U.S.']",Crypto,29,0.1,2023-01-27T00:00:00.000Z,Series C,Singapore,100
+Shakepay,"['Montreal', 'Non-U.S.']",Crypto,21,0.25,2023-01-27T00:00:00.000Z,Series A,Canada,45
+#Paid,"['Toronto', 'Non-U.S.']",Marketing,19,0.17,2023-01-27T00:00:00.000Z,Series B,Canada,21
+Decent,['SF Bay Area'],Healthcare,,,2023-01-27T00:00:00.000Z,Series A,United States,18
+Feedzai,"['Coimbra', 'Non-U.S.']",Finance,,,2023-01-27T00:00:00.000Z,Unknown,Portugal,273
+Nate,['New York City'],Retail,,,2023-01-27T00:00:00.000Z,Series A,United States,47
+Soundwide,"['Berlin', 'Non-U.S.']",Other,,0.08,2023-01-27T00:00:00.000Z,,Germany,
+SAP,"['Walldorf', 'Non-U.S.']",Other,3000,0.03,2023-01-26T00:00:00.000Z,Post-IPO,Germany,1300
+Confluent,['SF Bay Area'],Data,221,0.08,2023-01-26T00:00:00.000Z,Post-IPO,United States,455
+Glisser,"['London', 'Non-U.S.']",Travel,25,1,2023-01-26T00:00:00.000Z,Unknown,United Kingdom,1
+DriveWealth,['Jersey City'],Finance,,0.2,2023-01-26T00:00:00.000Z,Series D,United States,550
+Mode Global,"['London', 'Non-U.S.']",Finance,,1,2023-01-26T00:00:00.000Z,Post-IPO,United Kingdom,
+Plus One Robotics,['San Antonio'],Other,,0.1,2023-01-26T00:00:00.000Z,Series B,United States,43
+Quora,['SF Bay Area'],Consumer,,,2023-01-26T00:00:00.000Z,Series D,United States,226
+IBM,['New York City'],Hardware,3900,0.02,2023-01-25T00:00:00.000Z,Post-IPO,United States,
+Lam Research,['SF Bay Area'],Hardware,1300,0.07,2023-01-25T00:00:00.000Z,Post-IPO,United States,
+Shutterfly,['SF Bay Area'],Retail,360,,2023-01-25T00:00:00.000Z,Acquired,United States,50
+Luno,"['London', 'Non-U.S.']",Crypto,330,0.35,2023-01-25T00:00:00.000Z,Acquired,United Kingdom,13
+Clear Capital,['Reno'],Real Estate,250,0.25,2023-01-25T00:00:00.000Z,Unknown,United States,
+Guardant Health,['SF Bay Area'],Healthcare,130,0.07,2023-01-25T00:00:00.000Z,Post-IPO,United States,550
+SirionLabs,['Seattle'],Legal,130,0.15,2023-01-25T00:00:00.000Z,Series D,United States,171
+Tier Mobility,"['Berlin', 'Non-U.S.']",Transportation,80,0.07,2023-01-25T00:00:00.000Z,Series D,Germany,646
+CareRev,['Los Angeles'],Healthcare,,,2023-01-25T00:00:00.000Z,Series A,United States,51
+Finastra,"['Tel Aviv', 'Non-U.S.']",Finance,,,2023-01-25T00:00:00.000Z,Unknown,Israel,
+Noom,['New York City'],Fitness,,,2023-01-25T00:00:00.000Z,Series F,United States,657
+PagSeguro,"['Sao Paulo', 'Non-U.S.']",Finance,,0.07,2023-01-25T00:00:00.000Z,Post-IPO,Brazil,
+Prosus,"['Amsterdam', 'Non-U.S.']",Other,,0.3,2023-01-25T00:00:00.000Z,Unknown,Netherlands,
+Vacasa,['Portland'],Travel,1300,0.17,2023-01-24T00:00:00.000Z,Post-IPO,United States,834
+Innovaccer,['SF Bay Area'],Healthcare,245,0.15,2023-01-24T00:00:00.000Z,Series E,United States,379
+Bolt,['SF Bay Area'],Finance,50,0.1,2023-01-24T00:00:00.000Z,Series E,United States,1300
+PartnerStack,"['Toronto', 'Non-U.S.']",Sales,40,0.2,2023-01-24T00:00:00.000Z,Series B,Canada,36
+Gitpod,"['Kiel', 'Non-U.S.']",Product,21,0.28,2023-01-24T00:00:00.000Z,Series A,Germany,41
+OFFOR Health,['Columbus'],Healthcare,16,,2023-01-24T00:00:00.000Z,Series A,United States,14
+Venngage,"['Toronto', 'Non-U.S.']",Marketing,11,0.2,2023-01-24T00:00:00.000Z,Unknown,Canada,
+CoachHub,"['Berlin', 'Non-U.S.']",HR,,0.1,2023-01-24T00:00:00.000Z,Series C,Germany,332
+Corvus Insurance,['Boston'],Finance,,0.14,2023-01-24T00:00:00.000Z,Series C,United States,160
+Icon,['Austin'],Construction,,,2023-01-24T00:00:00.000Z,Series B,United States,451
+PagerDuty,['SF Bay Area'],Product,,0.07,2023-01-24T00:00:00.000Z,Post-IPO,United States,173
+Scoro,"['London', 'Non-U.S.']",HR,,0.09,2023-01-24T00:00:00.000Z,Series B,United Kingdom,23
+Spotify,"['Stockholm', 'Non-U.S.']",Media,600,0.06,2023-01-23T00:00:00.000Z,Post-IPO,Sweden,2100
+Uber Freight,['SF Bay Area'],Logistics,150,0.03,2023-01-23T00:00:00.000Z,Subsidiary,United States,2700
+Inmobi,"['Bengaluru', 'Non-U.S.']",Marketing,50,,2023-01-23T00:00:00.000Z,Unknown,India,320
+Innovid,['New York City'],Marketing,40,0.1,2023-01-23T00:00:00.000Z,Post-IPO,United States,295
+Booktopia,"['Sydney', 'Non-U.S.']",Retail,30,,2023-01-23T00:00:00.000Z,Series A,Australia,23
+Ermetic,['SF Bay Area'],Security,30,0.17,2023-01-23T00:00:00.000Z,Series B,United States,97
+Namogoo,"['Tel Aviv', 'Non-U.S.']",Marketing,20,0.15,2023-01-23T00:00:00.000Z,Series C,United States,69
+Camp K12,"['Gurugram', 'Non-U.S.']",Education,,0.7,2023-01-23T00:00:00.000Z,Series A,India,16
+Gemini,['New York City'],Crypto,,0.1,2023-01-23T00:00:00.000Z,Unknown,United States,423
+Yext,['New York City'],Marketing,,0.08,2023-01-23T00:00:00.000Z,Post-IPO,United States,117
+BUX,"['Amsterdam', 'Non-U.S.']",Finance,,,2023-01-22T00:00:00.000Z,Series C,Netherlands,115
+Google,['SF Bay Area'],Consumer,12000,0.06,2023-01-20T00:00:00.000Z,Post-IPO,United States,26
+Wayfair,['Boston'],Retail,1750,0.1,2023-01-20T00:00:00.000Z,Post-IPO,United States,1700
+Swiggy,"['Bengaluru', 'Non-U.S.']",Food,380,0.06,2023-01-20T00:00:00.000Z,Unknown,India,3600
+MediBuddy,"['Bengaluru', 'Non-U.S.']",Healthcare,200,0.08,2023-01-20T00:00:00.000Z,Acquired,India,192
+Vox Media,['Washington D.C.'],Media,130,0.07,2023-01-20T00:00:00.000Z,Series F,United States,307
+BitTorrent,['SF Bay Area'],Infrastructure,92,,2023-01-20T00:00:00.000Z,Acquired,United States,
+Karat,['Seattle'],HR,47,,2023-01-20T00:00:00.000Z,Unknown,United States,169
+Enjoei,"['Sao Paulo', 'Non-U.S.']",Retail,31,0.1,2023-01-20T00:00:00.000Z,Unknown,Brazil,14
+Edifecs,['Seattle'],Healthcare,30,,2023-01-20T00:00:00.000Z,Unknown,United States,1
+Citrine Informatics,['SF Bay Area'],Data,22,0.27,2023-01-20T00:00:00.000Z,Series C,United States,64
+Avalara,['Seattle'],Finance,,,2023-01-20T00:00:00.000Z,Acquired,United States,341
+Cyteir Therapeutics,['Boston'],Healthcare,,0.7,2023-01-20T00:00:00.000Z,Series C,United States,156
+Morning Consult,['Washington D.C.'],Data,,,2023-01-20T00:00:00.000Z,Series B,United States,91
+TikTok,['Los Angeles'],Consumer,,,2023-01-20T00:00:00.000Z,Acquired,United States,
+Zappos,['Las Vegas'],Retail,,,2023-01-20T00:00:00.000Z,Acquired,United States,62
+Capital One,['Washington D.C.'],Finance,1100,,2023-01-19T00:00:00.000Z,Post-IPO,United States,
+Proterra,['SF Bay Area'],Transportation,300,,2023-01-19T00:00:00.000Z,Post-IPO,United States,1200
+WeWork ,['New York City'],Real Estate,300,,2023-01-19T00:00:00.000Z,Post-IPO,United States,22200
+Hubilo,['SF Bay Area'],Other,115,0.35,2023-01-19T00:00:00.000Z,Series B,United States,153
+Saks.com,['New York City'],Retail,100,0.05,2023-01-19T00:00:00.000Z,Unknown,United States,965
+CS Disco,['Austin'],Legal,62,0.09,2023-01-19T00:00:00.000Z,Post-IPO,United States,233
+Riot Games,['Los Angeles'],Consumer,46,,2023-01-19T00:00:00.000Z,Acquired,United States,21
+Hydrow,['Boston'],Fitness,30,,2023-01-19T00:00:00.000Z,Series D,United States,269
+Earth Rides,['Nashville'],Transportation,,1,2023-01-19T00:00:00.000Z,Unknown,United States,2
+Fandom,['SF Bay Area'],Media,,,2023-01-19T00:00:00.000Z,Series E,United States,145
+IAM Robotics,['Pittsburgh'],Hardware,,,2023-01-19T00:00:00.000Z,Unknown,United States,21
+Icertis,['Seattle'],Legal,,,2023-01-19T00:00:00.000Z,Unknown,United States,521
+Magnite,['Los Angeles'],Marketing,,0.06,2023-01-19T00:00:00.000Z,Post-IPO,United States,400
+Mudafy,"['Mexico City', 'Non-U.S.']",Real Estate,,0.7,2023-01-19T00:00:00.000Z,Series A,United States,13
+Personalis,['SF Bay Area'],Healthcare,,0.3,2023-01-19T00:00:00.000Z,Post-IPO,United States,225
+Prisma,['SF Bay Area'],Data,,0.28,2023-01-19T00:00:00.000Z,Series B,United States,56
+Spaceship,"['Sydney', 'Non-U.S.']",Finance,,,2023-01-19T00:00:00.000Z,Series A,Australia,41
+Wallbox,"['Barcelona', 'Non-U.S.']",Energy,,0.15,2023-01-19T00:00:00.000Z,Post-IPO,Spain,167
+Microsoft,['Seattle'],Other,10000,0.05,2023-01-18T00:00:00.000Z,Post-IPO,United States,1
+Sophos,"['Oxford', 'Non-U.S.']",Security,450,0.1,2023-01-18T00:00:00.000Z,Acquired,United States,125
+Teladoc Health,['New York City'],Healthcare,300,0.06,2023-01-18T00:00:00.000Z,Post-IPO,United States,172
+Vroom,['New York City'],Transportation,275,0.2,2023-01-18T00:00:00.000Z,Post-IPO,United States,1300
+8x8,['SF Bay Area'],Support,155,0.07,2023-01-18T00:00:00.000Z,Post-IPO,United States,253
+Pagaya,"['Tel Aviv', 'Non-U.S.']",Finance,140,0.2,2023-01-18T00:00:00.000Z,Post-IPO,Israel,571
+Benevity,"['Calgary', 'Non-U.S.']",Other,137,0.14,2023-01-18T00:00:00.000Z,Unknown,Canada,69
+Inspirato,['Denver'],Travel,109,0.12,2023-01-18T00:00:00.000Z,Post-IPO,United States,179
+Jumpcloud,['Boulder'],Security,100,0.12,2023-01-18T00:00:00.000Z,Series F,United States,416
+nCino,['Wilmington'],Finance,100,0.07,2023-01-18T00:00:00.000Z,Post-IPO,United States,1100
+Starry,['Boston'],Other,100,0.24,2023-01-18T00:00:00.000Z,Post-IPO,United States,260
+Hootsuite,"['Vancouver', 'Non-U.S.']",Marketing,70,0.07,2023-01-18T00:00:00.000Z,Series C,Canada,300
+Clue,"['Berlin', 'Non-U.S.']",Healthcare,31,0.31,2023-01-18T00:00:00.000Z,Unknown,Germany,47
+Addepar,['SF Bay Area'],Finance,20,0.03,2023-01-18T00:00:00.000Z,Series F,United States,491
+80 Acres Farms,['Cincinnati'],Food,,0.1,2023-01-18T00:00:00.000Z,Unknown,United States,275
+Aiven,"['Helsinki', 'Non-U.S.']",Infrastructure,,0.2,2023-01-18T00:00:00.000Z,Series D,Finland,420
+Bally's Interactive,['Providence'],Consumer,,0.15,2023-01-18T00:00:00.000Z,Post-IPO,United States,946
+Betterfly,"['Santiago', 'Non-U.S.']",Healthcare,,0.3,2023-01-18T00:00:00.000Z,Series C,Chile,204
+Cazoo,"['London', 'Non-U.S.']",Transportation,,,2023-01-18T00:00:00.000Z,Post-IPO,United Kingdom,2000
+Coda,['SF Bay Area'],Other,,,2023-01-18T00:00:00.000Z,Series D,United States,240
+Cypress.io,['Atlanta'],Product,,,2023-01-18T00:00:00.000Z,Series B,United States,54
+Lucid Diagnostics,['New York City'],Healthcare,,0.2,2023-01-18T00:00:00.000Z,Post-IPO,United States,
+Mavenir,['Dallas'],Infrastructure,,,2023-01-18T00:00:00.000Z,Acquired,United States,854
+Redbubble,"['Melbourne', 'Non-U.S.']",Retail,,0.14,2023-01-18T00:00:00.000Z,Post-IPO,Australia,55
+Lightspeed Commerce,"['Montreal', 'Non-U.S.']",Retail,300,0.1,2023-01-17T00:00:00.000Z,Post-IPO,Canada,1200
+Unity,['SF Bay Area'],Other,284,0.03,2023-01-17T00:00:00.000Z,Post-IPO,United States,1300
+Britishvolt,"['London', 'Non-U.S.']",Transportation,206,1,2023-01-17T00:00:00.000Z,Unknown,United Kingdom,2400
+Clutch,"['Toronto', 'Non-U.S.']",Transportation,150,,2023-01-17T00:00:00.000Z,Unknown,Canada,253
+Exotel,"['Bengaluru', 'Non-U.S.']",Support,142,0.15,2023-01-17T00:00:00.000Z,Series D,India,87
+Unico,"['Sao Paulo', 'Non-U.S.']",Other,110,0.1,2023-01-17T00:00:00.000Z,Series D,Brazil,336
+Tul,"['Bogota', 'Non-U.S.']",Construction,100,,2023-01-17T00:00:00.000Z,Series B,Colombia,218
+American Robotics,['Boston'],Other,50,0.65,2023-01-17T00:00:00.000Z,Acquired,United States,92
+Luxury Presence,['Los Angeles'],Real Estate,44,,2023-01-17T00:00:00.000Z,Series B,United States,31
+RingCentral,['SF Bay Area'],Other,30,,2023-01-17T00:00:00.000Z,Post-IPO,United States,44
+Avaya,['Durham'],Other,,,2023-01-17T00:00:00.000Z,Post-IPO,United States,700
+Fishbrain,"['Stockholm', 'Non-U.S.']",Consumer,,,2023-01-17T00:00:00.000Z,Unknown,United States,59
+GoMechanic,"['Gurugram', 'Non-U.S.']",Transportation,,0.7,2023-01-17T00:00:00.000Z,Series C,India,54
+LiveVox,['SF Bay Area'],Support,,0.16,2023-01-17T00:00:00.000Z,Post-IPO,United States,12
+Oracle,['SF Bay Area'],Other,,,2023-01-17T00:00:00.000Z,Post-IPO,United States,
+Rappi,"['Buenos Aires', 'Non-U.S.']",Food,,,2023-01-17T00:00:00.000Z,Unknown,Argentina,2300
+RateGenius,['Austin'],Finance,,,2023-01-17T00:00:00.000Z,Acquired,United States,2
+XP,"['Sao Paulo', 'Non-U.S.']",Finance,,,2023-01-17T00:00:00.000Z,Post-IPO,Brazil,
+PagBank,"['Sao Paulo', 'Non-U.S.']",Finance,500,0.07,2023-01-16T00:00:00.000Z,Post-IPO,Brazil,
+ShareChat,"['Bengaluru', 'Non-U.S.']",Consumer,500,0.2,2023-01-16T00:00:00.000Z,Series H,India,1700
+Gramophone,"['Indore', 'Non-U.S.']",Food,75,,2023-01-16T00:00:00.000Z,Series B,India,17
+ClearCo,"['Toronto', 'Non-U.S.']",Finance,50,0.3,2023-01-16T00:00:00.000Z,Series C,Canada,698
+Dunzo,"['Bengaluru', 'Non-U.S.']",Food,,0.03,2023-01-16T00:00:00.000Z,Unknown,India,382
+Ignition,"['Sydney', 'Non-U.S.']",Finance,,0.1,2023-01-16T00:00:00.000Z,Series C,Australia,74
+Rebel Foods,"['Mumbai', 'Non-U.S.']",Food,,0.02,2023-01-16T00:00:00.000Z,Unknown,India,548
+Captain Fresh ,"['Bengaluru', 'Non-U.S.']",Food,120,,2023-01-15T00:00:00.000Z,Series C,India,126
+Snappy,['New York City'],Marketing,100,0.3,2023-01-15T00:00:00.000Z,Series C,United States,104
+BharatAgri,"['Mumbai', 'Non-U.S.']",Food,40,0.43,2023-01-15T00:00:00.000Z,Series A,India,21
+DeHaat,"['Patna', 'Non-U.S.']",Food,,0.05,2023-01-15T00:00:00.000Z,Series E,India,254
+Black Shark,"['Shenzen', 'Non-U.S.']",Hardware,900,,2023-01-13T00:00:00.000Z,Unknown,China,
+Ola,"['Bengaluru', 'Non-U.S.']",Transportation,200,,2023-01-13T00:00:00.000Z,Series J,India,5000
+Bonterra ,['Austin'],Other,140,0.1,2023-01-13T00:00:00.000Z,Unknown,United States,
+Vial,['SF Bay Area'],Healthcare,40,,2023-01-13T00:00:00.000Z,Series B,United States,101
+Arch Oncology,['Brisbane'],Healthcare,,1,2023-01-13T00:00:00.000Z,Series C,United States,155
+Carvana,['Phoenix'],Transportation,,,2023-01-13T00:00:00.000Z,Post-IPO,United States,1600
+CoSchedule,['Bismarck'],Marketing,,,2023-01-13T00:00:00.000Z,Unknown,United States,2
+GoCanvas,['Washington D.C.'],Other,,,2023-01-13T00:00:00.000Z,Acquired,United States,21
+Jellyfish,['Boston'],Product,,0.09,2023-01-13T00:00:00.000Z,Series C,United States,114
+Lending Club,['SF Bay Area'],Finance,225,0.14,2023-01-12T00:00:00.000Z,Post-IPO,United States,392
+SmartNews,"['Tokyo', 'Non-U.S.']",Media,120,0.4,2023-01-12T00:00:00.000Z,Series F,United States,410
+Skit.ai,"['Bengaluru', 'Non-U.S.']",Support,115,,2023-01-12T00:00:00.000Z,Series B,India,28
+Pier,"['Sao Paulo', 'Non-U.S.']",Finance,111,0.39,2023-01-12T00:00:00.000Z,Series B,Brazil,42
+Blockchain.com,"['London', 'Non-U.S.']",Crypto,110,0.28,2023-01-12T00:00:00.000Z,Series D,United Kingdom,490
+Lattice,['SF Bay Area'],HR,105,0.15,2023-01-12T00:00:00.000Z,Series F,United States,328
+Greenlight,['Atlanta'],Finance,104,0.21,2023-01-12T00:00:00.000Z,Series D,United States,556
+Cashfree Payments,['Bengaluru'],Finance,100,,2023-01-12T00:00:00.000Z,Series B,India,41
+Mapbox,['Washington D.C.'],Data,64,,2023-01-12T00:00:00.000Z,Unknown,United States,334
+Definitive Healthcare,['Boston'],Healthcare,55,0.06,2023-01-12T00:00:00.000Z,Post-IPO,United States,
+Akili Labs,['Boston'],Healthcare,46,0.3,2023-01-12T00:00:00.000Z,Post-IPO,United States,301
+Career Karma,['SF Bay Area'],Education,22,,2023-01-12T00:00:00.000Z,Series B,United States,51
+Crypto.com,"['Singapore', 'Non-U.S.']",Crypto,,0.2,2023-01-12T00:00:00.000Z,Unknown,United States,
+Life360,['SF Bay Area'],Consumer,,0.14,2023-01-12T00:00:00.000Z,Post-IPO,United States,158
+Rock Content,['Miami'],Marketing,,0.15,2023-01-12T00:00:00.000Z,Series B,United States,34
+Flexport,['SF Bay Area'],Logistics,640,0.2,2023-01-11T00:00:00.000Z,Series E,United States,2400
+Qualtrics,['Salt Lake City'],Other,270,0.05,2023-01-11T00:00:00.000Z,Post-IPO,United States,400
+Verily,['SF Bay Area'],Healthcare,250,0.15,2023-01-11T00:00:00.000Z,,United States,3500
+Tipalti,['SF Bay Area'],Finance,123,0.11,2023-01-11T00:00:00.000Z,Series F,United States,565
+Jumio,['SF Bay Area'],Security,100,0.06,2023-01-11T00:00:00.000Z,Private Equity,United States,205
+CoinDCX,['Mumbai'],Crypto,80,,2023-01-11T00:00:00.000Z,Series D,India,244
+HashiCorp,['SF Bay Area'],Security,69,,2023-01-11T00:00:00.000Z,Post-IPO,United States,349
+Embark Vet,['Boston'],Healthcare,41,,2023-01-11T00:00:00.000Z,Series B,United States,94
+Intrinsic,['SF Bay Area'],Other,40,0.2,2023-01-11T00:00:00.000Z,Acquired,United States,
+Citizen,['New York City'],Consumer,33,,2023-01-11T00:00:00.000Z,Series C,United States,133
+Carta,['SF Bay Area'],HR,,0.1,2023-01-11T00:00:00.000Z,Series G,United States,1100
+Limeade,['Seattle'],HR,,0.15,2023-01-11T00:00:00.000Z,Series C,United States,33
+Oyster,['Charlotte'],HR,,,2023-01-11T00:00:00.000Z,Series C,United States,224
+Paddle,"['London', 'Non-U.S.']",Finance,,0.08,2023-01-11T00:00:00.000Z,Series D,United Kingdom,293
+Coinbase,['SF Bay Area'],Crypto,950,0.2,2023-01-10T00:00:00.000Z,Post-IPO,United States,549
+Informatica,['SF Bay Area'],Data,450,0.07,2023-01-10T00:00:00.000Z,Post-IPO,United States,
+Blend,['SF Bay Area'],Finance,340,0.28,2023-01-10T00:00:00.000Z,Post-IPO,United States,665
+Till Payments,"['Sydney', 'Non-U.S.']",Finance,120,,2023-01-10T00:00:00.000Z,Series C,Australia,95
+ConsenSys,['New York City'],Crypto,100,0.11,2023-01-10T00:00:00.000Z,Series D,United States,726
+ForeScout,"['Tel Aviv', 'Non-U.S.']",Security,100,0.1,2023-01-10T00:00:00.000Z,Acquired,United States,125
+Thinkific,"['Vancouver', 'Non-U.S.']",Education,76,0.19,2023-01-10T00:00:00.000Z,Post-IPO,Canada,22
+LEAD,"['Mumbai', 'Non-U.S.']",Education,60,,2023-01-10T00:00:00.000Z,Series E,India,190
+Parler,['Nashville'],Consumer,60,0.75,2023-01-10T00:00:00.000Z,Series B,United States,36
+GoBolt,"['Toronto', 'Non-U.S.']",Logistics,55,0.05,2023-01-10T00:00:00.000Z,Series C,Canada,178
+Relevel,"['Bengaluru', 'Non-U.S.']",HR,40,0.2,2023-01-10T00:00:00.000Z,,India,
+StreamElements,"['Tel Aviv', 'Non-U.S.']",Media,40,0.2,2023-01-10T00:00:00.000Z,Series B,Israel,111
+Cart.com,['Austin'],Retail,25,0.04,2023-01-10T00:00:00.000Z,Unknown,United States,383
+100 Thieves,['Los Angeles'],Retail,,,2023-01-10T00:00:00.000Z,Series C,United States,120
+Beamery,"['London', 'Non-U.S.']",HR,,0.12,2023-01-10T00:00:00.000Z,Series D,United States,223
+Cart.com,['Austin'],Retail,,,2023-01-10T00:00:00.000Z,Unknown,United States,383
+Citrix,['Miami'],Infrastructure,,0.15,2023-01-10T00:00:00.000Z,Acquired,United States,20
+Esper,['Seattle'],Other,,0.21,2023-01-10T00:00:00.000Z,Series A,United States,10
+WHOOP,['Boston'],Fitness,,0.04,2023-01-10T00:00:00.000Z,Series F,United States,404
+Fate Therapeutics,['San Diego'],Healthcare,315,0.57,2023-01-09T00:00:00.000Z,Post-IPO,United States,1200
+Century Therapeutics,['Philadelphia'],Healthcare,,,2023-01-09T00:00:00.000Z,Post-IPO,United States,560
+Editas Medicine,['Boston'],Healthcare,,0.2,2023-01-09T00:00:00.000Z,Post-IPO,United States,656
+Scale AI,['SF Bay Area'],Data,,0.2,2023-01-09T00:00:00.000Z,Series E,United States,602
+Minute Media,"['London', 'Non-U.S.']",Media,50,0.1,2023-01-08T00:00:00.000Z,Series I,United Kingdom,160
+WalkMe,['SF Bay Area'],Other,43,0.03,2023-01-08T00:00:00.000Z,Post-IPO,United States,307
+Integrate,['Phoenix'],Marketing,,,2023-01-07T00:00:00.000Z,Acquired,United States,80
+Huobi,"['Beijing', 'Non-U.S.']",Crypto,275,0.2,2023-01-06T00:00:00.000Z,Unknown,China,2
+Carbon Health,['SF Bay Area'],Healthcare,200,,2023-01-06T00:00:00.000Z,Series D,United States,522
+Bounce,"['Bengaluru', 'Non-U.S.']",Transportation,40,0.05,2023-01-06T00:00:00.000Z,Series D,India,214
+Aware,['Columbus'],Security,,,2023-01-06T00:00:00.000Z,Series C,United States,88
+CareerArc,['Los Angeles'],HR,,,2023-01-06T00:00:00.000Z,Private Equity,United States,30
+CreateMe,['SF Bay Area'],Manufacturing,,,2023-01-06T00:00:00.000Z,Unknown,United States,
+Lantern,['Grand Rapids'],Retail,,1,2023-01-06T00:00:00.000Z,Seed,United States,40
+Mojo Vision,['SF Bay Area'],Hardware,,0.75,2023-01-06T00:00:00.000Z,Series B,United States,204
+SuperRare,['Wilmington'],Crypto,,0.3,2023-01-06T00:00:00.000Z,Series A,United States,9
+Cue,['San Diego'],Healthcare,388,,2023-01-05T00:00:00.000Z,Post-IPO,United States,999
+SoundHound,['SF Bay Area'],Other,200,0.5,2023-01-05T00:00:00.000Z,Post-IPO,United States,326
+Socure,['Reno'],Finance,104,0.19,2023-01-05T00:00:00.000Z,Series E,United States,646
+Genesis,['New York City'],Crypto,60,0.3,2023-01-05T00:00:00.000Z,Series A,United States,
+Moglix,['Singapore'],Retail,40,0.02,2023-01-05T00:00:00.000Z,Series F,Singapore,472
+Twitter,['SF Bay Area'],Consumer,40,,2023-01-05T00:00:00.000Z,Post-IPO,United States,12900
+Everlane,['SF Bay Area'],Retail,30,0.17,2023-01-05T00:00:00.000Z,Unknown,United States,176
+Pecan AI,"['Tel Aviv', 'Non-U.S.']",Data,30,0.25,2023-01-05T00:00:00.000Z,Series C,Israel,116
+Personetics,['New York City'],Support,30,0.08,2023-01-05T00:00:00.000Z,Private Equity,United States,178
+Twine Solutions ,"['Tel Aviv', 'Non-U.S.']",Hardware,30,0.33,2023-01-05T00:00:00.000Z,Unknown,Israel,50
+UpScalio,['Gurugram'],Retail,25,0.15,2023-01-05T00:00:00.000Z,Series B,India,62
+Attentive,['New York City'],Marketing,,0.15,2023-01-05T00:00:00.000Z,Series E,United States,863
+Compass,['New York City'],Real Estate,,,2023-01-05T00:00:00.000Z,Post-IPO,United States,1600
+Megaport,"['Brisbane', 'Non-U.S.']",Infrastructure,,,2023-01-05T00:00:00.000Z,Post-IPO,Australia,98
+Stitch Fix,['SF Bay Area'],Retail,,0.2,2023-01-05T00:00:00.000Z,Post-IPO,United States,79
+TCR2,['Boston'],Healthcare,,0.4,2023-01-05T00:00:00.000Z,Post-IPO,United States,173
+Amazon,['Seattle'],Retail,8000,0.02,2023-01-04T00:00:00.000Z,Post-IPO,United States,108
+Salesforce,['SF Bay Area'],Sales,8000,0.1,2023-01-04T00:00:00.000Z,Post-IPO,United States,65
+Astronomer,['Cincinnati'],Data,76,0.2,2023-01-04T00:00:00.000Z,Series C,United States,282
+Kaltura,['New York City'],Media,75,0.11,2023-01-04T00:00:00.000Z,Post-IPO,United States,166
+Augury,['New York City'],Manufacturing,20,0.05,2023-01-04T00:00:00.000Z,Series E,United States,274
+Butterfly Network,['Boston'],Healthcare,,0.25,2023-01-04T00:00:00.000Z,Post-IPO,United States,530
+Vimeo,['New York City'],Consumer,,0.11,2023-01-04T00:00:00.000Z,Post-IPO,United States,450
+Wyre,['SF Bay Area'],Crypto,,1,2023-01-04T00:00:00.000Z,Unknown,United States,29
+Pegasystems,['Boston'],HR,245,0.04,2023-01-03T00:00:00.000Z,Post-IPO,United States,
+Uniphore,['SF Bay Area'],Support,76,0.1,2023-01-03T00:00:00.000Z,Series E,United States,620
+Harappa,"['New Delhi', 'Non-U.S.']",Education,60,0.3,2023-01-03T00:00:00.000Z,Acquired,India,
+Bytedance,"['Shanghai', 'Non-U.S.']",Consumer,,0.1,2023-01-03T00:00:00.000Z,Unknown,China,9400
+Amdocs,['St. Louis'],Support,700,0.03,2023-01-02T00:00:00.000Z,Post-IPO,United States,
+Micron,['Boise'],Hardware,4800,0.1,2023-01-01T00:00:00.000Z,Post-IPO,United States,50
+Graphcore,"['Beijing', 'Non-U.S.']",Hardware,,,2023-01-01T00:00:00.000Z,Series E,China,682
