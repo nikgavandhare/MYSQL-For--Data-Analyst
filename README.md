@@ -17,20 +17,52 @@ Welcome to **MySQL for Data Analysts**! This repository is designed to help data
 ## 📂 Repository Structure
 ```
 📁 SQL_Basics
-    ├── SELECT_Queries.sql
-    ├── WHERE_Conditions.sql
-    ├── GROUP_BY_HAVING.sql
-📁 Joins_And_Transformations
-    ├── INNER_OUTER_Joins.sql
-    ├── UNION_INTERSECT.sql
-📁 Advanced_SQL
-    ├── Window_Functions.sql
-    ├── CTEs_Subqueries.sql
-    ├── Indexing_Performance_Tuning.sql
-📁 Real_World_Projects
-    ├── E-Commerce_Data_Analysis.sql
-    ├── Sales_Report_Dashboard.sql
+
+    ├── Beginner - Parks_and_Rec_Create_db.sql
+    ├── 2.SELECT_Tutorial.sql
+    ├── 3.WHERE_CLAUSE_Tutorial.sql
+    ├── 4.LIKE_Statement_Tutorial.sql
+    ├── 5.GROUP_BY_& _Aggregate_Fun__Tutorial.sql  
+    ├── 6.ORDER_BY_Tutorial.sql  
+    ├── 7. HAVING_VS_WHERE__Tutorial.sql    
+    ├── 8.LIMIT_&_Alias__Tutorial.sql   
+    ├── 9.JOINS__Tutorial.sql     
+    ├── 10.UNION__Tutorial.sql    
+    ├── 11.String_Fun_In_SQL_Tutorial.sql      
+    ├── 12.CASE_STATEMENT__Tutorial.sql  
+    ├── 13.Sub-Query__Tuorial.sql
+    ├── 14.Window_Functions__Tutorial.sql    
+    ├── 15.CTEs__Advance-SQL _Tutorial.sql     
+    ├── 16.Temp_Table.sql     
+    ├── 17.Store_Procedure.sql      
+    ├── 18.Trigger_&_Event.sql  
+    ├── 19.1 Trigger _Another_Real_LIfe_Example.sql
+    ├── 19.Data_cleaning_-Instruction_for_next_practise_sqlFILE_Manual.sql   
+    ├── 20.__Data_Cleaning__.sql     
+         
+📁 Mysql-Codebasic-
+    ├── 1.Tutorial.sql
+    ├── 2.Tutorial(Aggregate_fun).sql
+    ├── 3.Tutorial(Group by).sql
+    ├── 4.Tutorial(year &Date).sql
+    ├── 5.Tutorial(Finance table).sql
+    ├── 6.Tutorial(joins).sql
+    ├── Movie_revenue.csv
+    ├── movies-db-1.xlsx
+    ├──top-5_rating _hollywood_movies_record.csv
+
+📁 project_of_mysql
+    ├── _data_clean_process.sql
+    ├── layoffs.csv
+    ├── layoffs_after_analysing_data.csv
 ```
+
+## 📊 Dataset Used
+This repository uses real-world datasets for SQL practice. One of the key datasets used in this project is:
+
+🔗 **[Layoffs Dataset (Kaggle)](https://www.kaggle.com/datasets/swaptr/layoffs-2022)**  
+
+This dataset provides insights into global layoffs across different industries, which is used for data cleaning, transformation, and analysis exercises.
 
 ## 🔥 Why Use This Repository?
 - 📖 **Well-Structured & Easy to Follow**
