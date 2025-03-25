@@ -57,6 +57,13 @@ Welcome to **MySQL for Data Analysts**! This repository is designed to help data
     ├── layoffs_after_analysing_data.csv
 ```
 
+## 📊 Dataset Used
+This repository uses real-world datasets for SQL practice. One of the key datasets used in this project is:
+
+🔗 **[Layoffs Dataset (Kaggle)](https://www.kaggle.com/datasets/swaptr/layoffs-2022)**  
+
+This dataset provides insights into global layoffs across different industries, which is used for data cleaning, transformation, and analysis exercises.
+
 ## 🔥 Why Use This Repository?
 - 📖 **Well-Structured & Easy to Follow**
 - 💡 **Covers Real-World Data Analysis Scenarios**
