@@ -5,7 +5,7 @@
 						-- Remove Duplicates
 						-- Standerdize the data
 						-- Null or Blank VAlues
-						-- Remove any column
+						-- Remove any column/Row
 
 select * from layoffs;
 
@@ -204,12 +204,15 @@ AND  percentage_laid_off IS NULL;
 -- lets seee  
 select * from layoffs_staging_table_2;
 
+
+-- -  ***************************************** Step 4:  remove columns /rows *******************    
 -- lets drop the row_col bcz now we dont need that colum and also its not into  the original table also 
 ALTER TABLE layoffs_staging_table_2
 DROP COLUMN row_num;
 
---   *************  and here is our analysis has been done  **********
--- the final data 
+--   ************************************ %%%%%%%%% Final Result %%%%%%%%%     ******************************        
+-- U************    and here is the final data  our analysis has been done  **********
+
 
 select * from layoffs_staging_table_2;
 
