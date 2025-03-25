@@ -2,6 +2,7 @@
 --     Note that window functions are performed on the result set after all JOIN, WHERE, GROUP BY, and HAVING clauses,
 --     and before the ORDER BY, LIMIT and SELECT DISTINCT.
 --     it will give all the data 
+-- 	   A window function operates on a set of rows. However, a window function does not group rows into a single row.
 --     SYNTAX:- 
 																											# for aggregate fun 
 	-- 					function_name OVER  (														-- 					Agregate_window_function_name(expression) OVER ( 
@@ -21,21 +22,21 @@ group by gender;
 
 # Using Aggregate Window Function---> These include SUM(), AVG(), COUNT(), MAX(), and MIN().
 
-            # The rolling total:--> is a powerful tool in SQL for calculating cumulative sums, which can be very useful for financial analysis, 
-            -- inventory management, and other applications where you need to track cumulative values over time. By using the SUM() function 
-            -- with the OVER clause, you can easily calculate rolling totals in your SQL queries. 
-            -- eg.                         | no	| rolling_total
+# The rolling total:-->  is a powerful tool in SQL for calculating cumulative sums, which can be very useful for financial analysis, 
+					-- inventory management, and other applications where you need to track cumulative values over time. By using the SUM() function 
+					-- with the OVER clause, you can easily calculate rolling totals in your SQL queries. 
+-- eg                  | no	| rolling_total
 	-- 				   |100	|  100
-	-- 				   |200	| 300          <-- 200+100=300
-	-- 				   |50	|  350	       <-- 50+300=350
+	-- 				   |200	|  300        	  <-- 200+100=300
+	-- 				   |50	|  350	      	  <-- 50+300=350
 
 
-            -- 
-            --
+             
+            
             
 select dem.first_name,dem.last_name, gender,Salary,
-sum(salary) over( partition by gender 
-				order by dem.employee_id asc)	as Rolling_total					#<--- Agregate window fun
+sum(salary)  over ( partition by gender 
+				    order by dem.employee_id asc)as Rolling_total					#<--- Agregate window fun
 from employee_demographics dem
 Join employee_salary sal
 	on dem.employee_id = sal.employee_id;
@@ -44,7 +45,7 @@ Join employee_salary sal
     
  # --                Window Function- Row_Number(), Rank(),Dense_Rank()  
  
- # 1) ROW_Number() :- 	Assigns a unique number to each row without gaps.
+ # 1) ROW_Number() :- 	Assigns a unique number to each row without gaps.  used to find duplicate values using row nomber
  --  					Use:--->  ROW_NUMBER() if you need a unique number for each row.
  
 select dem.first_name,dem.last_name, gender,Salary,
