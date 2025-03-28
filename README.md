@@ -87,7 +87,7 @@ This dataset provides insights into global layoffs across different industries, 
 
 
 ## 🤝 Connect with Me
-💼 [LinkedIn](https://www.linkedin.com/in/nikita-gaondhare-9511242562/)  
+💼 [LinkedIn](https://www.linkedin.com/in/nikita-gaondhare-9511242562-/)  
 📧 [Email](mailto:gaondharenikita2506@gmail.com)  
 🌍 [GitHub](https://github.com/nikgavandhare)
 
