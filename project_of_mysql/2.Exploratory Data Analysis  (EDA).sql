@@ -62,3 +62,33 @@ As
 select `Months` ,  total_laid_by_month, 
 Sum(total_laid_by_month) Over(order by `Months`) AS Rolling_total_of_laidOff
 from  Rolling_total_CTE;
+
+
+-- lets find total laid off  by  year of each company
+select  company, year(date) , sum(total_laid_off)
+from layoffs_staging_table_2
+group by company ,year(date)
+order by 3 desc;
+
+
+--  find top 5 laid off company using ranking for each year
+WITH Company_Year  (Company,Years,Total_Laid_Off) AS
+(
+	select  company, year(date) , sum(total_laid_off)
+	from layoffs_staging_table_2
+	group by company ,year(date)
+	
+) , Company_Year_Rank AS
+(
+		select * , 
+		DENSE_RANK() OVER (PARTITION BY Years order by Total_Laid_Off desc) AS Ranking		-- DENSE_RANk()- Assign ranking without skipping numbers i.e rank based on numerically
+		from Company_Year
+		
+)
+Select *
+from Company_Year_Rank
+where ranking <=5;
+
+
+
+-- --------------------------------------------   End of EDA Process ---------------------------------------------------------------------

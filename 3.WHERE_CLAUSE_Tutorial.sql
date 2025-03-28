@@ -1,5 +1,6 @@
 # --------------------- WHERE CLAUSE ------------------
 
+use parks_and_recreation;
 
 #  employee_salary  Table
 SELECT * FROM employee_salary;
