@@ -55,12 +55,22 @@ Welcome to **MySQL for Data Analysts**! This repository is designed to help data
     ├── _data_clean_process.sql
     ├── layoffs.csv
     ├── layoffs_after_analysing_data.csv
+    ├── layoffs_after_analysing_data.xlsx
+    ├── layoff_dashboard-1
 ```
 
 ## 📊 Dataset Used
 This repository uses real-world datasets for SQL practice. One of the key datasets used in this project is:
 
 🔗 **[Layoffs Dataset (Kaggle)](https://www.kaggle.com/datasets/swaptr/layoffs-2022)**  
+
+## 📈 Power BI Dashboard
+The layoffs dataset has been visualized in Power BI for deeper insights. Click the link below to explore the interactive dashboard.
+
+🔗 **[Layoff Dashboard - Power BI Report]**
+    ![image](https://github.com/user-attachments/assets/0137b919-5859-4407-99b5-c6cdcc634d4f)
+
+
 
 This dataset provides insights into global layoffs across different industries, which is used for data cleaning, transformation, and analysis exercises.
 
