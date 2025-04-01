@@ -56,7 +56,7 @@ Welcome to **MySQL for Data Analysts**! This repository is designed to help data
     ├── layoffs.csv
     ├── layoffs_after_analysing_data.csv
     ├── layoffs_after_analysing_data.xlsx
-    ├── layoff_dashboard-1
+    ├── layoff_dashboard_1.pbix
 ```
 
 ## 📊 Dataset Used
