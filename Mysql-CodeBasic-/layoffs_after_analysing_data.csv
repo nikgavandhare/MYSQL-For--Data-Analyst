@@ -1,0 +1,101 @@
+company,location,industry,total_laid_off,percentage_laid_off,date,stage,country,funds_raised
+#Paid,"['Toronto', 'Non-U.S.']",Marketing,19,0.17,2023-01-27,"Series B",Canada,21
+"1K Kirana","['Gurugram', 'Non-U.S.']",Retail,600,0.4,2023-04-04,"Series B",India,NULL
+23andMe,"['SF Bay Area']",Healthcare,71,0.11,2023-08-08,Post-IPO,"United States",1100
+23andMe,"['SF Bay Area']",Healthcare,75,0.09,2023-06-09,Post-IPO,"United States",1100
+23andMe,"['SF Bay Area']",Healthcare,200,0.4,2024-11-11,Post-IPO,"United States",1100
+7shifts,"['Saskatoon', 'Non-U.S.']",Food,30,0.07,2023-09-15,"Series C",Canada,131
+7Shifts,"['Saskatoon', 'Non-U.S.']",Food,68,0.19,2024-01-11,"Series C",Canada,131
+8x8,"['SF Bay Area']",Support,155,0.07,2023-01-18,Post-IPO,"United States",253
+ABBYY,['Nicosia'],Data,200,NULL,2024-10-01,Unknown,Cyprus,6
+Absci,['Portland'],Healthcare,30,0.15,2023-09-05,Post-IPO,"United States",238
+"Absolute Software","['Vancouver', 'Non-U.S.']",Security,40,0.05,2023-04-06,Post-IPO,Canada,NULL
+ActiveFence,"['New York City']",Security,22,0.07,2025-03-13,"Series B","United States",100
+Acxiom,"['Little Rock']",Marketing,130,0.03,2025-03-19,Post-IPO,"United States",NULL
+Adda247,"['Gurugram', 'Non-U.S.']",Education,300,NULL,2023-10-14,"Series B",India,61
+Addepar,"['SF Bay Area']",Finance,20,0.03,2023-01-18,"Series F","United States",491
+Adjust,"['Berlin', 'Non-U.S.']",Marketing,304,NULL,2024-11-22,Acquired,Germany,256
+AEye,"['SF Bay Area']",Transportation,46,0.33,2023-03-28,Post-IPO,"United States",314
+Affirm,['Pittsburgh'],Finance,60,NULL,2024-02-21,Post-IPO,"United States",1500
+Affirm,"['SF Bay Area']",Finance,500,0.19,2023-02-08,Post-IPO,"United States",1500
+AgentSync,['Denver'],Finance,67,0.24,2023-07-19,"Series B","United States",111
+Airbnb,"['SF Bay Area']",Travel,30,NULL,2023-03-03,Post-IPO,"United States",6400
+Airmeet,"['Bengaluru', 'Non-U.S.']",Marketing,75,0.3,2023-05-25,"Series B",India,50
+Airtable,"['SF Bay Area']",Product,237,0.27,2023-09-14,"Series F","United States",1400
+Airtasker,"['Sydney', 'Non-U.S.']",Retail,45,0.2,2023-04-27,"Series C",Australia,26
+Akamai,['Boston'],Security,250,0.02,2024-11-07,Post-IPO,"United States",35
+Akamai,['Boston'],Security,290,0.03,2023-05-09,Post-IPO,"United States",35
+"Akili Labs",['Boston'],Healthcare,46,0.3,2023-01-12,Post-IPO,"United States",301
+Akseleran,"['Jakarta', 'Non-U.S.']",Finance,60,NULL,2023-07-27,"Series A",Indonesia,9
+"Aleph Farms","['Tel Aviv', 'Non-U.S.']",Food,30,0.3,2024-06-05,Unknown,Israel,119
+Alerzo,"['Ibadan', 'Non-U.S.']",Retail,100,NULL,2023-11-21,"Series B",Nigeria,16
+Alerzo,"['Ibadan', 'Non-U.S.']",Retail,400,NULL,2023-03-06,"Series B",Nigeria,16
+AlphaSense,"['New York City']",Other,150,0.08,2024-11-27,"Series F","United States",1400
+Alteryx,"['Los Angeles']",Data,320,0.11,2023-04-27,Post-IPO,"United States",613
+Altruist,"['SF Bay Area']",Finance,37,0.1,2025-01-07,"Series E","United States",449
+Amazon,['Seattle'],Retail,30,NULL,2024-01-18,Post-IPO,"United States",108
+Amazon,['Seattle'],Retail,80,NULL,2023-07-13,Post-IPO,"United States",108
+Amazon,['Seattle'],Retail,180,NULL,2023-11-13,Post-IPO,"United States",108
+Amazon,['Seattle'],Retail,400,NULL,2024-02-06,Post-IPO,"United States",108
+Amazon,['Seattle'],Retail,8000,0.02,2023-01-04,Post-IPO,"United States",108
+Amazon,['Seattle'],Retail,9000,NULL,2023-03-20,Post-IPO,"United States",108
+AMD,"['SF Bay Area']",Hardware,1000,0.04,2024-11-13,Post-IPO,"United States",NULL
+Amdocs,"['St. Louis']",Support,700,0.03,2023-01-02,Post-IPO,"United States",NULL
+Amdocs,"['St. Louis']",Support,2000,0.06,2023-07-06,Post-IPO,"United States",NULL
+"American Robotics",['Boston'],Other,50,0.65,2023-01-17,Acquired,"United States",92
+Amount,['Chicago'],Finance,130,0.25,2023-02-27,Unknown,"United States",283
+Amperity,['Seattle'],Marketing,20,NULL,2024-01-25,"Series D","United States",187
+Amplitude,"['SF Bay Area']",Data,99,0.13,2023-04-05,Post-IPO,"United States",311
+Anaplan,"['SF Bay Area']",Other,300,NULL,2023-06-21,Acquired,"United States",300
+Ancestry,['Lehi'],Consumer,81,0.06,2024-03-14,Post-IPO,"United States",33
+"Anchorage Digital","['SF Bay Area']",Crypto,75,0.2,2023-03-14,"Series D","United States",487
+Andgo,"['Saskatoon', 'Non-U.S.']",HR,9,NULL,2023-09-29,"Series A",Canada,5
+AppFolio,"['Santa Barbara']","Real Estate",62,NULL,2023-05-22,Post-IPO,"United States",30
+AppFolio,"['Santa Barbara']","Real Estate",149,0.09,2023-08-17,Post-IPO,"United States",30
+Appgate,['Miami'],Security,34,0.08,2023-02-01,Post-IPO,"United States",NULL
+Apple,"['SF Bay Area']",Hardware,100,NULL,2024-08-27,Post-IPO,"United States",1200
+Apple,"['SF Bay Area']",Hardware,614,NULL,2024-04-04,Post-IPO,"United States",1200
+AppLovin,"['SF Bay Area']",Marketing,61,NULL,2024-08-15,Post-IPO,"United States",1600
+AppLovin,"['SF Bay Area']",Marketing,120,NULL,2024-11-13,Post-IPO,"United States",1600
+AppsFlyer,"['SF Bay Area']",Data,100,0.07,2025-02-04,Unknown,"United States",293
+Appsmith,"['SF Bay Area']",,35,0.25,2023-09-22,"Series B","United States",51
+Aptiv,"['Krakow', 'Non-U.S.']",Transportation,250,NULL,2024-02-20,Post-IPO,Poland,8
+"Aqua Security",['Boston'],Security,50,0.1,2024-07-17,"Series E","United States",325
+Archipelago,"['SF Bay Area']","Real Estate",40,0.3,2023-08-01,"Series B","United States",57
+"Arkane Studios",['Austin'],Consumer,96,1,2024-05-08,Unknown,"United States",NULL
+Arrival,"['London', 'Non-U.S.']",Transportation,800,0.5,2023-01-30,Post-IPO,"United Kingdom",629
+Articulate,"['New York City']",Education,38,NULL,2023-02-02,"Series A","United States",1500
+Artsy,"['New York City']",Retail,35,0.15,2023-06-29,"Series D","United States",100
+Asana,"['SF Bay Area']",Other,100,NULL,2025-02-04,Post-IPO,"United States",453
+Aspiration,"['Los Angeles']",Finance,170,NULL,2023-03-24,Unknown,"United States",250
+Assurance,['Seattle'],Finance,112,1,2024-05-01,Acquired,"United States",NULL
+Astronomer,['Cincinnati'],Data,76,0.2,2023-01-04,"Series C","United States",282
+Astronomer,['Cincinnati'],Data,100,0.4,2023-04-13,"Series C","United States",282
+At-Bay,"['SF Bay Area']",Security,27,0.09,2023-09-12,Unknown,"United States",296
+Atera,"['Tel Aviv', 'Non-U.S.']",Other,20,0.06,2024-11-03,"Series B",Israel,102
+Athennian,"['Calgary', 'Non-U.S.']",Legal,30,NULL,2023-07-05,"Series B",Canada,47
+Atlas,['Chicago'],HR,150,0.3,2023-08-23,"Series B","United States",220
+Atlassian,"['Sydney', 'Non-U.S.']",Other,500,0.05,2023-03-06,Post-IPO,Australia,210
+Atmosphere,['Austin'],Other,100,NULL,2024-05-15,"Series D","United States",214
+AU10TIX,"['Tel Aviv', 'Non-U.S.']",Security,19,0.09,2023-01-31,Unknown,Israel,80
+Audible,"['New York City']",Media,100,0.05,2024-01-11,Acquired,"United States",14
+AudioCodes,"['Tel Aviv', 'Non-U.S.']",Other,80,0.06,2023-05-09,Post-IPO,Israel,91
+Augury,"['New York City']",Manufacturing,20,0.05,2023-01-04,"Series E","United States",274
+Augury,"['New York City']",Manufacturing,70,0.18,2023-08-02,"Series E","United States",274
+"Aurora Solar","['SF Bay Area']",Energy,58,NULL,2025-01-16,"Series D","United States",523
+"Aurora Solar","['SF Bay Area']",Energy,111,0.2,2024-01-30,"Series D","United States",523
+Autodesk,"['SF Bay Area']",Other,250,0.02,2023-02-02,Post-IPO,"United States",NULL
+Autodesk,"['SF Bay Area']",Other,1350,0.09,2025-02-27,Post-IPO,"United States",NULL
+Autograph,"['Los Angeles']",Crypto,30,0.33,2023-05-04,"Series B","United States",205
+AvantStay,"['Los Angeles']",Travel,37,NULL,2023-06-20,"Private Equity","United States",686
+Avaya,['Durham'],Other,180,0.03,2024-08-01,Post-IPO,"United States",700
+Avidbots,"['Kitchener', 'Non-U.S.']",Hardware,50,0.14,2023-03-14,"Series C",Canada,106
+Avocargo,"['Berlin', 'Non-U.S.']",Transportation,16,1,2023-04-06,Seed,Germany,NULL
+Away,"['New York City']",Retail,22,0.08,2023-05-31,"Series D","United States",181
+"Axios Media","['Washington D.C.']",Media,50,0.1,2024-08-06,Acquired,"United States",57
+"Babylon Health","['London', 'Non-U.S.']",Healthcare,94,NULL,2023-08-09,Post-IPO,"United Kingdom",1200
+Bakkt,['Atlanta'],Crypto,28,NULL,2024-05-03,Post-IPO,"United States",932
+Bandcamp,"['SF Bay Area']",Other,58,0.5,2023-10-16,Acquired,"United States",NULL
+Bardee,"['Melbourne', 'Non-U.S.']",Food,30,NULL,2023-08-03,Seed,Australia,5
+Bark,"['New York City']",Retail,126,0.12,2023-02-09,Post-IPO,"United States",NULL
+"Basis Technologies",['Chicago'],Marketing,40,0.04,2023-02-21,"Series B","United States",52
